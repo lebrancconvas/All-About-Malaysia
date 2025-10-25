@@ -19,7 +19,7 @@ async function main() {
       sex: target[2] || null,
       age: target[3] || null,
       ethnicity: target[4] || null,
-      population: target[5] || null
+      population: Number(target[5]) || null
     } as IPopulationData;
     jsonData.push(json);
   }
