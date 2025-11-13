@@ -31,7 +31,7 @@ export enum Race {
 
 export interface IPopulationData {
   state: State | null;
-  date: string | null;
+  year: string | null;
   sex: Sex | null;
   age: string | null;
   ethnicity: Race | null;

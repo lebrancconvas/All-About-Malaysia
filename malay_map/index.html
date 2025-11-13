@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./style.css">
+  <title>Malaysia Map</title>
+</head>
+<body>
+  <header>
+    <h1>Malaysia Map</h1>
+  </header>
+  <section id="map">
+    <ul>
+      <li id="perlis" data-state="Perlis">
+        <h3>Perlis</h3>
+        <img src="../data/input/map/Electoral_Map/Perlis.png" alt="Perlis_Map">
+      </li>
+      <li id="kedah" data-state="Kedah">
+        <h3>Kedah</h3>
+        <img src="../data/input/map/Electoral_Map/Kedah.png" alt="Kedah_Map">
+      </li>
+      <li id="perak" data-state="Perak">
+        <h3>Perak</h3>
+        <img src="../data/input/map/Electoral_Map/Perak.png" alt="Perak_Map">
+      </li>
+      <li id="kelantan" data-state="Kelantan">
+        <h3>Kelantan</h3>
+        <img src="../data/input/map/Electoral_Map/Kelantan.png" alt="Kelantan_Map">
+      </li>
+      <li id="terengganu" data-state="Terengganu">
+        <h3>Terengganu</h3>
+        <img src="../data/input/map/Electoral_Map/Terengganu.png" alt="Terengganu_Map">
+      </li>
+      <li id="penang" data-state="Penang">
+        <h3>Penang</h3>
+        <img src="../data/input/map/Electoral_Map/Penang.png" alt="Penang_Map">
+      </li>
+      <li id="pahang" data-state="Pahang">
+        <h3>Pahang</h3>
+        <img src="../data/input/map/Electoral_Map/Pahang.png" alt="Pahang_Map">
+      </li>
+      <li id="selangor" data-state="Selangor">
+        <h3>Selangor</h3>
+        <img src="../data/input/map/Electoral_Map/Selangor.png" alt="Selangor_Map">
+      </li>
+      <li id="negeri_sembilan" data-state="Negeri Sembilan">
+        <h3>Negeri Sembilan</h3>
+        <img src="../data/input/map/Electoral_Map/Negeri_Sembilan.png" alt="Negeri_Sembilan_Map">
+      </li>
+      <li id="malacca" data-state="Malacca">
+        <h3>Malacca</h3>
+        <img src="../data/input/map/Electoral_Map/Malacca.png" alt="Malacca_Map">
+      </li>
+      <li id="johor" data-state="Johor">
+        <h3>Johor</h3>
+        <img src="../data/input/map/Electoral_Map/Johor.png" alt="Johor_Map">
+      </li>
+      <li id="sarawak" data-state="Sarawak">
+        <h3>Sarawak</h3>
+        <img src="../data/input/map/Electoral_Map/Sarawak.png" alt="Sarawak_Map">
+      </li>
+      <li id="sabah" data-state="Sabah">
+        <h3>Sabah</h3>
+        <img src="../data/input/map/Electoral_Map/Sabah.png" alt="Sabah_Map">
+      </li>
+    </ul>
+  </section>
+
+  <!-- Modal for full-width map display -->
+  <div id="mapModal" class="modal">
+    <div class="modal-content">
+      <span class="modal-close">&times;</span>
+      <h2 class="modal-title"></h2>
+      <img id="modalImage" src="" alt="State Map">
+    </div>
+  </div>
+
+  <script>
+    // Get all state list items
+    const stateItems = document.querySelectorAll('#map li');
+    const modal = document.getElementById('mapModal');
+    const modalImage = document.getElementById('modalImage');
+    const modalTitle = document.querySelector('.modal-title');
+    const closeBtn = document.querySelector('.modal-close');
+
+    // Add click event to each state item
+    stateItems.forEach(item => {
+      item.addEventListener('click', () => {
+        const stateName = item.getAttribute('data-state');
+        const imgSrc = item.querySelector('img').src;
+        
+        modalTitle.textContent = stateName;
+        modalImage.src = imgSrc;
+        modalImage.alt = `${stateName} Map`;
+        modal.classList.add('active');
+        document.body.style.overflow = 'hidden'; // Prevent background scrolling
+      });
+    });
+
+    // Close modal when clicking the close button
+    closeBtn.addEventListener('click', () => {
+      closeModal();
+    });
+
+    // Close modal when clicking outside the image
+    modal.addEventListener('click', (e) => {
+      if (e.target === modal) {
+        closeModal();
+      }
+    });
+
+    // Close modal with Escape key
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && modal.classList.contains('active')) {
+        closeModal();
+      }
+    });
+
+    function closeModal() {
+      modal.classList.remove('active');
+      document.body.style.overflow = 'auto'; // Restore scrolling
+    }
+  </script>
+</body>
+</html>
