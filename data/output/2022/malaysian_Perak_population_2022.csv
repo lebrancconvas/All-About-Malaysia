@@ -1,0 +1,79 @@
+state,district,date,ethnicity,population
+Perak,Kinta,2022,bumi_malay,402700
+Perak,Kinta,2022,chinese,320200
+Perak,Larut Dan Matang,2022,bumi_malay,173300
+Perak,Manjung,2022,bumi_malay,134500
+Perak,Kerian,2022,bumi_malay,126100
+Perak,Kinta,2022,indian,111000
+Perak,Kuala Kangsar,2022,bumi_malay,105000
+Perak,Perak Tengah,2022,bumi_malay,86500
+Perak,Hilir Perak,2022,bumi_malay,73300
+Perak,Hulu Perak,2022,bumi_malay,70200
+Perak,Batang Padang,2022,bumi_malay,66400
+Perak,Manjung,2022,chinese,65500
+Perak,Larut Dan Matang,2022,chinese,61100
+Perak,Muallim,2022,bumi_malay,52600
+Perak,Kinta,2022,other_noncitizen,47300
+Perak,Kampar,2022,chinese,46100
+Perak,Bagan Datuk,2022,bumi_malay,41300
+Perak,Hilir Perak,2022,chinese,37200
+Perak,Kampar,2022,bumi_malay,34000
+Perak,Kuala Kangsar,2022,chinese,33400
+Perak,Selama,2022,bumi_malay,30900
+Perak,Manjung,2022,indian,29600
+Perak,Larut Dan Matang,2022,indian,25300
+Perak,Kerian,2022,chinese,25100
+Perak,Kuala Kangsar,2022,indian,22900
+Perak,Batang Padang,2022,chinese,20300
+Perak,Batang Padang,2022,bumi_other,17900
+Perak,Bagan Datuk,2022,indian,17000
+Perak,Hilir Perak,2022,indian,17000
+Perak,Manjung,2022,other_noncitizen,16300
+Perak,Batang Padang,2022,indian,15500
+Perak,Bagan Datuk,2022,chinese,14300
+Perak,Hulu Perak,2022,bumi_other,13200
+Perak,Hilir Perak,2022,other_noncitizen,11700
+Perak,Kinta,2022,bumi_other,10900
+Perak,Larut Dan Matang,2022,other_noncitizen,10600
+Perak,Kuala Kangsar,2022,bumi_other,10400
+Perak,Kerian,2022,indian,10100
+Perak,Kampar,2022,indian,10000
+Perak,Bagan Datuk,2022,other_noncitizen,9200
+Perak,Muallim,2022,indian,8200
+Perak,Muallim,2022,bumi_other,7200
+Perak,Hulu Perak,2022,chinese,6500
+Perak,Muallim,2022,chinese,6400
+Perak,Kerian,2022,other_noncitizen,5300
+Perak,Batang Padang,2022,other_noncitizen,4800
+Perak,Kuala Kangsar,2022,other_noncitizen,4600
+Perak,Kampar,2022,bumi_other,4400
+Perak,Kinta,2022,other_citizen,3600
+Perak,Perak Tengah,2022,other_noncitizen,3500
+Perak,Kampar,2022,other_noncitizen,3400
+Perak,Perak Tengah,2022,bumi_other,3300
+Perak,Muallim,2022,other_noncitizen,3000
+Perak,Manjung,2022,bumi_other,2800
+Perak,Hulu Perak,2022,other_noncitizen,2500
+Perak,Hilir Perak,2022,bumi_other,2400
+Perak,Hulu Perak,2022,indian,2000
+Perak,Hulu Perak,2022,other_citizen,1600
+Perak,Selama,2022,chinese,1400
+Perak,Selama,2022,indian,1400
+Perak,Larut Dan Matang,2022,bumi_other,1400
+Perak,Perak Tengah,2022,indian,1300
+Perak,Manjung,2022,other_citizen,900
+Perak,Larut Dan Matang,2022,other_citizen,900
+Perak,Batang Padang,2022,other_citizen,800
+Perak,Selama,2022,other_noncitizen,800
+Perak,Perak Tengah,2022,chinese,800
+Perak,Kerian,2022,other_citizen,700
+Perak,Hilir Perak,2022,other_citizen,700
+Perak,Muallim,2022,other_citizen,500
+Perak,Kuala Kangsar,2022,other_citizen,400
+Perak,Kampar,2022,other_citizen,400
+Perak,Bagan Datuk,2022,bumi_other,300
+Perak,Bagan Datuk,2022,other_citizen,200
+Perak,Kerian,2022,bumi_other,200
+Perak,Perak Tengah,2022,other_citizen,200
+Perak,Selama,2022,bumi_other,100
+Perak,Selama,2022,other_citizen,0

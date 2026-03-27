@@ -1,0 +1,67 @@
+state,district,date,ethnicity,population
+Pahang,Kuantan,2021,bumi_malay,438700
+Pahang,Temerloh,2021,bumi_malay,121900
+Pahang,Maran,2021,bumi_malay,102100
+Pahang,Pekan,2021,bumi_malay,96600
+Pahang,Kuantan,2021,chinese,75100
+Pahang,Jerantut,2021,bumi_malay,73400
+Pahang,Rompin,2021,bumi_malay,72600
+Pahang,Lipis,2021,bumi_malay,66600
+Pahang,Bentong,2021,bumi_malay,63300
+Pahang,Bera,2021,bumi_malay,55700
+Pahang,Raub,2021,bumi_malay,50600
+Pahang,Bentong,2021,chinese,31200
+Pahang,Raub,2021,chinese,29500
+Pahang,Bera,2021,chinese,25500
+Pahang,Temerloh,2021,chinese,24100
+Pahang,Kuantan,2021,other_noncitizen,18000
+Pahang,Rompin,2021,bumi_other,15600
+Pahang,Lipis,2021,bumi_other,15400
+Pahang,Kuantan,2021,indian,14300
+Pahang,Pekan,2021,bumi_other,13500
+Pahang,Cameron Highlands,2021,chinese,11600
+Pahang,Jerantut,2021,chinese,11100
+Pahang,Temerloh,2021,indian,9600
+Pahang,Rompin,2021,other_noncitizen,9300
+Pahang,Bentong,2021,indian,9200
+Pahang,Cameron Highlands,2021,bumi_other,9200
+Pahang,Temerloh,2021,bumi_other,8600
+Pahang,Cameron Highlands,2021,bumi_malay,8400
+Pahang,Pekan,2021,other_noncitizen,8300
+Pahang,Lipis,2021,chinese,7300
+Pahang,Bentong,2021,other_noncitizen,7300
+Pahang,Bera,2021,bumi_other,6900
+Pahang,Kuantan,2021,bumi_other,5800
+Pahang,Bera,2021,other_noncitizen,5600
+Pahang,Raub,2021,indian,5500
+Pahang,Raub,2021,bumi_other,5500
+Pahang,Cameron Highlands,2021,other_noncitizen,4600
+Pahang,Raub,2021,other_noncitizen,4500
+Pahang,Cameron Highlands,2021,indian,4400
+Pahang,Temerloh,2021,other_noncitizen,4300
+Pahang,Jerantut,2021,other_noncitizen,4200
+Pahang,Maran,2021,other_noncitizen,4100
+Pahang,Jerantut,2021,bumi_other,4000
+Pahang,Bentong,2021,bumi_other,3800
+Pahang,Bera,2021,indian,3800
+Pahang,Lipis,2021,other_noncitizen,3600
+Pahang,Lipis,2021,indian,3300
+Pahang,Maran,2021,bumi_other,3100
+Pahang,Maran,2021,chinese,2800
+Pahang,Kuantan,2021,other_citizen,2700
+Pahang,Jerantut,2021,indian,2700
+Pahang,Pekan,2021,other_citizen,1700
+Pahang,Rompin,2021,chinese,1600
+Pahang,Pekan,2021,chinese,1400
+Pahang,Pekan,2021,indian,1100
+Pahang,Maran,2021,indian,1100
+Pahang,Temerloh,2021,other_citizen,1000
+Pahang,Bentong,2021,other_citizen,900
+Pahang,Rompin,2021,indian,900
+Pahang,Rompin,2021,other_citizen,600
+Pahang,Jerantut,2021,other_citizen,600
+Pahang,Bera,2021,other_citizen,500
+Pahang,Raub,2021,other_citizen,400
+Pahang,Cameron Highlands,2021,other_citizen,300
+Pahang,Lipis,2021,other_citizen,300
+Pahang,Maran,2021,other_citizen,300

@@ -1,0 +1,79 @@
+state,district,date,ethnicity,population
+Perak,Kinta,2021,bumi_malay,398900
+Perak,Kinta,2021,chinese,322300
+Perak,Larut Dan Matang,2021,bumi_malay,171900
+Perak,Manjung,2021,bumi_malay,133000
+Perak,Kerian,2021,bumi_malay,125500
+Perak,Kinta,2021,indian,111100
+Perak,Kuala Kangsar,2021,bumi_malay,104400
+Perak,Perak Tengah,2021,bumi_malay,85900
+Perak,Hilir Perak,2021,bumi_malay,72700
+Perak,Hulu Perak,2021,bumi_malay,69700
+Perak,Batang Padang,2021,bumi_malay,66000
+Perak,Manjung,2021,chinese,65900
+Perak,Larut Dan Matang,2021,chinese,61600
+Perak,Muallim,2021,bumi_malay,52200
+Perak,Kinta,2021,other_noncitizen,46800
+Perak,Kampar,2021,chinese,46500
+Perak,Bagan Datuk,2021,bumi_malay,41100
+Perak,Hilir Perak,2021,chinese,37500
+Perak,Kampar,2021,bumi_malay,33700
+Perak,Kuala Kangsar,2021,chinese,33700
+Perak,Selama,2021,bumi_malay,30700
+Perak,Manjung,2021,indian,29600
+Perak,Larut Dan Matang,2021,indian,25500
+Perak,Kerian,2021,chinese,25200
+Perak,Kuala Kangsar,2021,indian,22900
+Perak,Batang Padang,2021,chinese,20600
+Perak,Manjung,2021,other_noncitizen,18100
+Perak,Batang Padang,2021,bumi_other,17800
+Perak,Hilir Perak,2021,indian,17100
+Perak,Bagan Datuk,2021,indian,17000
+Perak,Batang Padang,2021,indian,15500
+Perak,Hilir Perak,2021,other_noncitizen,14700
+Perak,Bagan Datuk,2021,chinese,14300
+Perak,Hulu Perak,2021,bumi_other,13000
+Perak,Larut Dan Matang,2021,other_noncitizen,11000
+Perak,Kinta,2021,bumi_other,10900
+Perak,Bagan Datuk,2021,other_noncitizen,10600
+Perak,Kuala Kangsar,2021,bumi_other,10300
+Perak,Kerian,2021,indian,10200
+Perak,Kampar,2021,indian,10000
+Perak,Muallim,2021,indian,8200
+Perak,Muallim,2021,bumi_other,7200
+Perak,Hulu Perak,2021,chinese,6600
+Perak,Muallim,2021,chinese,6500
+Perak,Kerian,2021,other_noncitizen,6000
+Perak,Batang Padang,2021,other_noncitizen,5600
+Perak,Kuala Kangsar,2021,other_noncitizen,4500
+Perak,Kampar,2021,bumi_other,4400
+Perak,Kinta,2021,other_citizen,3600
+Perak,Muallim,2021,other_noncitizen,3500
+Perak,Perak Tengah,2021,other_noncitizen,3400
+Perak,Kampar,2021,other_noncitizen,3400
+Perak,Perak Tengah,2021,bumi_other,3300
+Perak,Manjung,2021,bumi_other,2800
+Perak,Hulu Perak,2021,other_noncitizen,2400
+Perak,Hilir Perak,2021,bumi_other,2400
+Perak,Hulu Perak,2021,indian,2000
+Perak,Hulu Perak,2021,other_citizen,1600
+Perak,Selama,2021,chinese,1400
+Perak,Selama,2021,indian,1400
+Perak,Larut Dan Matang,2021,bumi_other,1400
+Perak,Perak Tengah,2021,indian,1300
+Perak,Larut Dan Matang,2021,other_citizen,900
+Perak,Selama,2021,other_noncitizen,800
+Perak,Batang Padang,2021,other_citizen,800
+Perak,Manjung,2021,other_citizen,800
+Perak,Perak Tengah,2021,chinese,800
+Perak,Kerian,2021,other_citizen,700
+Perak,Hilir Perak,2021,other_citizen,700
+Perak,Muallim,2021,other_citizen,500
+Perak,Kuala Kangsar,2021,other_citizen,400
+Perak,Kampar,2021,other_citizen,400
+Perak,Bagan Datuk,2021,bumi_other,300
+Perak,Bagan Datuk,2021,other_citizen,200
+Perak,Kerian,2021,bumi_other,200
+Perak,Perak Tengah,2021,other_citizen,200
+Perak,Selama,2021,bumi_other,100
+Perak,Selama,2021,other_citizen,0

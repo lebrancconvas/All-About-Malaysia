@@ -1,0 +1,43 @@
+state,district,date,ethnicity,population
+Negeri Sembilan,Seremban,2021,bumi_malay,385500
+Negeri Sembilan,Seremban,2021,chinese,155000
+Negeri Sembilan,Seremban,2021,indian,103000
+Negeri Sembilan,Jempol,2021,bumi_malay,81600
+Negeri Sembilan,Port Dickson,2021,bumi_malay,66400
+Negeri Sembilan,Kuala Pilah,2021,bumi_malay,54000
+Negeri Sembilan,Tampin,2021,bumi_malay,50700
+Negeri Sembilan,Seremban,2021,other_noncitizen,41200
+Negeri Sembilan,Rembau,2021,bumi_malay,38700
+Negeri Sembilan,Port Dickson,2021,chinese,31200
+Negeri Sembilan,Jelebu,2021,bumi_malay,27500
+Negeri Sembilan,Port Dickson,2021,indian,23000
+Negeri Sembilan,Jempol,2021,chinese,21100
+Negeri Sembilan,Tampin,2021,chinese,19300
+Negeri Sembilan,Jempol,2021,indian,15500
+Negeri Sembilan,Tampin,2021,indian,11600
+Negeri Sembilan,Jelebu,2021,chinese,10300
+Negeri Sembilan,Kuala Pilah,2021,chinese,9200
+Negeri Sembilan,Seremban,2021,bumi_other,7600
+Negeri Sembilan,Port Dickson,2021,other_noncitizen,5400
+Negeri Sembilan,Tampin,2021,other_noncitizen,4900
+Negeri Sembilan,Jempol,2021,other_noncitizen,4300
+Negeri Sembilan,Jempol,2021,bumi_other,4100
+Negeri Sembilan,Seremban,2021,other_citizen,3800
+Negeri Sembilan,Rembau,2021,indian,3700
+Negeri Sembilan,Jelebu,2021,bumi_other,3600
+Negeri Sembilan,Kuala Pilah,2021,indian,3600
+Negeri Sembilan,Jelebu,2021,other_noncitizen,2400
+Negeri Sembilan,Rembau,2021,chinese,2300
+Negeri Sembilan,Port Dickson,2021,bumi_other,2100
+Negeri Sembilan,Tampin,2021,bumi_other,2000
+Negeri Sembilan,Jelebu,2021,indian,1900
+Negeri Sembilan,Rembau,2021,other_noncitizen,1600
+Negeri Sembilan,Kuala Pilah,2021,bumi_other,1600
+Negeri Sembilan,Kuala Pilah,2021,other_noncitizen,1400
+Negeri Sembilan,Rembau,2021,bumi_other,1100
+Negeri Sembilan,Port Dickson,2021,other_citizen,800
+Negeri Sembilan,Jempol,2021,other_citizen,500
+Negeri Sembilan,Jelebu,2021,other_citizen,200
+Negeri Sembilan,Kuala Pilah,2021,other_citizen,200
+Negeri Sembilan,Tampin,2021,other_citizen,200
+Negeri Sembilan,Rembau,2021,other_citizen,100

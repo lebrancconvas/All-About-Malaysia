@@ -1,0 +1,19 @@
+state,district,date,ethnicity,population
+Melaka,Melaka Tengah,2023,bumi_malay,374100
+Melaka,Alor Gajah,2023,bumi_malay,187000
+Melaka,Melaka Tengah,2023,chinese,163400
+Melaka,Jasin,2023,bumi_malay,115900
+Melaka,Melaka Tengah,2023,other_noncitizen,47800
+Melaka,Alor Gajah,2023,chinese,27600
+Melaka,Melaka Tengah,2023,indian,22000
+Melaka,Alor Gajah,2023,other_noncitizen,20100
+Melaka,Alor Gajah,2023,indian,18300
+Melaka,Jasin,2023,chinese,12800
+Melaka,Jasin,2023,indian,12100
+Melaka,Jasin,2023,other_noncitizen,12000
+Melaka,Melaka Tengah,2023,bumi_other,6000
+Melaka,Melaka Tengah,2023,other_citizen,4000
+Melaka,Alor Gajah,2023,bumi_other,2600
+Melaka,Jasin,2023,bumi_other,1100
+Melaka,Alor Gajah,2023,other_citizen,700
+Melaka,Jasin,2023,other_citizen,500

@@ -1,0 +1,73 @@
+state,district,date,ethnicity,population
+Kedah,Kuala Muda,2023,bumi_malay,376400
+Kedah,Kota Setar,2023,bumi_malay,275000
+Kedah,Kulim,2023,bumi_malay,228000
+Kedah,Kubang Pasu,2023,bumi_malay,221000
+Kedah,Baling,2023,bumi_malay,132300
+Kedah,Pendang,2023,bumi_malay,89800
+Kedah,Langkawi,2023,bumi_malay,85800
+Kedah,Kota Setar,2023,chinese,82800
+Kedah,Kuala Muda,2023,chinese,82300
+Kedah,Yan,2023,bumi_malay,70800
+Kedah,Sik,2023,bumi_malay,63200
+Kedah,Padang Terap,2023,bumi_malay,58700
+Kedah,Kuala Muda,2023,indian,58400
+Kedah,Kulim,2023,indian,47900
+Kedah,Kulim,2023,chinese,47000
+Kedah,Pokok Sena,2023,bumi_malay,44200
+Kedah,Kuala Muda,2023,other_noncitizen,39700
+Kedah,Bandar Baharu,2023,bumi_malay,36800
+Kedah,Kulim,2023,other_noncitizen,21400
+Kedah,Kubang Pasu,2023,chinese,14800
+Kedah,Kota Setar,2023,other_noncitizen,12500
+Kedah,Kota Setar,2023,indian,7200
+Kedah,Kubang Pasu,2023,other_noncitizen,6700
+Kedah,Pendang,2023,other_citizen,5700
+Kedah,Kubang Pasu,2023,indian,4900
+Kedah,Padang Terap,2023,other_citizen,4600
+Kedah,Langkawi,2023,chinese,4600
+Kedah,Langkawi,2023,other_noncitizen,4600
+Kedah,Baling,2023,indian,4500
+Kedah,Baling,2023,chinese,4100
+Kedah,Bandar Baharu,2023,chinese,4100
+Kedah,Sik,2023,other_citizen,3400
+Kedah,Kubang Pasu,2023,other_citizen,3300
+Kedah,Padang Terap,2023,other_noncitizen,3200
+Kedah,Baling,2023,other_noncitizen,2900
+Kedah,Pendang,2023,chinese,2800
+Kedah,Pokok Sena,2023,other_noncitizen,2700
+Kedah,Yan,2023,chinese,2700
+Kedah,Bandar Baharu,2023,indian,2600
+Kedah,Pokok Sena,2023,chinese,2300
+Kedah,Baling,2023,other_citizen,2300
+Kedah,Kuala Muda,2023,other_citizen,2200
+Kedah,Sik,2023,other_noncitizen,2100
+Kedah,Pendang,2023,other_noncitizen,1900
+Kedah,Langkawi,2023,indian,1700
+Kedah,Kulim,2023,other_citizen,1500
+Kedah,Bandar Baharu,2023,other_noncitizen,1500
+Kedah,Kuala Muda,2023,bumi_other,1400
+Kedah,Kota Setar,2023,other_citizen,1200
+Kedah,Langkawi,2023,other_citizen,1000
+Kedah,Kubang Pasu,2023,bumi_other,800
+Kedah,Pokok Sena,2023,indian,800
+Kedah,Kulim,2023,bumi_other,700
+Kedah,Yan,2023,other_noncitizen,600
+Kedah,Baling,2023,bumi_other,500
+Kedah,Padang Terap,2023,chinese,500
+Kedah,Kota Setar,2023,bumi_other,500
+Kedah,Sik,2023,chinese,500
+Kedah,Pokok Sena,2023,other_citizen,400
+Kedah,Pendang,2023,indian,400
+Kedah,Langkawi,2023,bumi_other,300
+Kedah,Pokok Sena,2023,bumi_other,100
+Kedah,Pendang,2023,bumi_other,100
+Kedah,Padang Terap,2023,bumi_other,100
+Kedah,Sik,2023,bumi_other,100
+Kedah,Yan,2023,bumi_other,100
+Kedah,Bandar Baharu,2023,bumi_other,100
+Kedah,Yan,2023,indian,100
+Kedah,Sik,2023,indian,100
+Kedah,Bandar Baharu,2023,other_citizen,100
+Kedah,Yan,2023,other_citizen,100
+Kedah,Padang Terap,2023,indian,0

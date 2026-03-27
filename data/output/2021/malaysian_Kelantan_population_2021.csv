@@ -1,0 +1,67 @@
+state,district,date,ethnicity,population
+Kelantan,Kota Bharu,2021,bumi_malay,528700
+Kelantan,Pasir Mas,2021,bumi_malay,225100
+Kelantan,Tumpat,2021,bumi_malay,166700
+Kelantan,Bachok,2021,bumi_malay,155600
+Kelantan,Tanah Merah,2021,bumi_malay,142000
+Kelantan,Pasir Puteh,2021,bumi_malay,134800
+Kelantan,Machang,2021,bumi_malay,109400
+Kelantan,Kuala Krai,2021,bumi_malay,97600
+Kelantan,Gua Musang,2021,bumi_malay,80100
+Kelantan,Jeli,2021,bumi_malay,52900
+Kelantan,Kota Bharu,2021,chinese,17000
+Kelantan,Kota Bharu,2021,other_noncitizen,11600
+Kelantan,Gua Musang,2021,bumi_other,9700
+Kelantan,Kecil Lojing,2021,bumi_other,7800
+Kelantan,Tumpat,2021,chinese,7300
+Kelantan,Gua Musang,2021,other_noncitizen,6800
+Kelantan,Tumpat,2021,other_citizen,5900
+Kelantan,Gua Musang,2021,chinese,4800
+Kelantan,Tanah Merah,2021,chinese,4700
+Kelantan,Tanah Merah,2021,other_noncitizen,4400
+Kelantan,Kuala Krai,2021,other_noncitizen,3500
+Kelantan,Kuala Krai,2021,chinese,3500
+Kelantan,Pasir Mas,2021,chinese,3300
+Kelantan,Pasir Mas,2021,other_noncitizen,2500
+Kelantan,Kecil Lojing,2021,bumi_malay,2000
+Kelantan,Machang,2021,chinese,2000
+Kelantan,Kota Bharu,2021,bumi_other,2000
+Kelantan,Kota Bharu,2021,other_citizen,1600
+Kelantan,Kota Bharu,2021,indian,1500
+Kelantan,Tumpat,2021,other_noncitizen,1400
+Kelantan,Jeli,2021,other_noncitizen,1400
+Kelantan,Bachok,2021,chinese,1300
+Kelantan,Bachok,2021,other_noncitizen,1200
+Kelantan,Machang,2021,other_noncitizen,1000
+Kelantan,Jeli,2021,bumi_other,1000
+Kelantan,Pasir Puteh,2021,other_noncitizen,900
+Kelantan,Kuala Krai,2021,indian,800
+Kelantan,Pasir Puteh,2021,other_citizen,800
+Kelantan,Gua Musang,2021,indian,800
+Kelantan,Pasir Mas,2021,other_citizen,800
+Kelantan,Tanah Merah,2021,other_citizen,700
+Kelantan,Kecil Lojing,2021,indian,600
+Kelantan,Pasir Puteh,2021,chinese,600
+Kelantan,Tanah Merah,2021,indian,400
+Kelantan,Bachok,2021,other_citizen,400
+Kelantan,Gua Musang,2021,other_citizen,300
+Kelantan,Machang,2021,bumi_other,300
+Kelantan,Tanah Merah,2021,bumi_other,300
+Kelantan,Kecil Lojing,2021,other_noncitizen,300
+Kelantan,Bachok,2021,bumi_other,200
+Kelantan,Pasir Mas,2021,bumi_other,200
+Kelantan,Tumpat,2021,bumi_other,200
+Kelantan,Tumpat,2021,indian,200
+Kelantan,Pasir Puteh,2021,bumi_other,200
+Kelantan,Jeli,2021,indian,200
+Kelantan,Kuala Krai,2021,other_citizen,200
+Kelantan,Jeli,2021,chinese,100
+Kelantan,Bachok,2021,indian,100
+Kelantan,Machang,2021,indian,100
+Kelantan,Machang,2021,other_citizen,100
+Kelantan,Kuala Krai,2021,bumi_other,100
+Kelantan,Jeli,2021,other_citizen,100
+Kelantan,Pasir Puteh,2021,indian,100
+Kelantan,Kecil Lojing,2021,other_citizen,0
+Kelantan,Kecil Lojing,2021,chinese,0
+Kelantan,Pasir Mas,2021,indian,0

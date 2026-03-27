@@ -1,0 +1,61 @@
+state,district,date,ethnicity,population
+Johor,Johor Bahru,2022,bumi_malay,816300
+Johor,Johor Bahru,2022,chinese,608600
+Johor,Batu Pahat,2022,bumi_malay,316900
+Johor,Kota Tinggi,2022,bumi_malay,184300
+Johor,Muar,2022,bumi_malay,175600
+Johor,Kluang,2022,bumi_malay,170300
+Johor,Kulai,2022,bumi_malay,155300
+Johor,Johor Bahru,2022,indian,145400
+Johor,Batu Pahat,2022,chinese,140200
+Johor,Pontian,2022,bumi_malay,115500
+Johor,Johor Bahru,2022,other_noncitizen,111000
+Johor,Segamat,2022,bumi_malay,105900
+Johor,Tangkak,2022,bumi_malay,104100
+Johor,Muar,2022,chinese,100400
+Johor,Kulai,2022,chinese,95600
+Johor,Kluang,2022,chinese,91900
+Johor,Mersing,2022,bumi_malay,64300
+Johor,Segamat,2022,chinese,62700
+Johor,Tangkak,2022,chinese,42800
+Johor,Kulai,2022,other_noncitizen,42500
+Johor,Pontian,2022,chinese,42400
+Johor,Johor Bahru,2022,bumi_other,31900
+Johor,Muar,2022,other_noncitizen,30500
+Johor,Kluang,2022,other_noncitizen,30400
+Johor,Kulai,2022,indian,30400
+Johor,Batu Pahat,2022,other_noncitizen,27200
+Johor,Kluang,2022,indian,24700
+Johor,Kota Tinggi,2022,chinese,18500
+Johor,Segamat,2022,indian,15700
+Johor,Kota Tinggi,2022,other_noncitizen,12400
+Johor,Pontian,2022,other_noncitizen,12000
+Johor,Johor Bahru,2022,other_citizen,10500
+Johor,Segamat,2022,other_noncitizen,10500
+Johor,Tangkak,2022,indian,8400
+Johor,Tangkak,2022,other_noncitizen,7300
+Johor,Mersing,2022,chinese,7100
+Johor,Batu Pahat,2022,indian,6900
+Johor,Kota Tinggi,2022,indian,5500
+Johor,Muar,2022,indian,5400
+Johor,Kluang,2022,bumi_other,4600
+Johor,Batu Pahat,2022,bumi_other,4500
+Johor,Kulai,2022,bumi_other,3900
+Johor,Mersing,2022,other_noncitizen,3700
+Johor,Kota Tinggi,2022,bumi_other,3300
+Johor,Segamat,2022,bumi_other,3000
+Johor,Mersing,2022,bumi_other,2900
+Johor,Batu Pahat,2022,other_citizen,1800
+Johor,Pontian,2022,bumi_other,1600
+Johor,Kulai,2022,other_citizen,1500
+Johor,Kluang,2022,other_citizen,1400
+Johor,Pontian,2022,indian,1400
+Johor,Muar,2022,bumi_other,1400
+Johor,Tangkak,2022,bumi_other,1200
+Johor,Mersing,2022,indian,900
+Johor,Kota Tinggi,2022,other_citizen,800
+Johor,Tangkak,2022,other_citizen,800
+Johor,Pontian,2022,other_citizen,700
+Johor,Muar,2022,other_citizen,600
+Johor,Segamat,2022,other_citizen,600
+Johor,Mersing,2022,other_citizen,200

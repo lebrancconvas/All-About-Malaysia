@@ -1,0 +1,31 @@
+state,district,date,ethnicity,population
+Penang,Timur Laut,2023,chinese,320300
+Penang,Seberang Perai Utara,2023,bumi_malay,208300
+Penang,Seberang Perai Tengah,2023,bumi_malay,190500
+Penang,Seberang Perai Tengah,2023,chinese,149900
+Penang,Barat Daya,2023,bumi_malay,129800
+Penang,Timur Laut,2023,bumi_malay,120900
+Penang,Seberang Perai Utara,2023,chinese,95200
+Penang,Barat Daya,2023,chinese,82200
+Penang,Seberang Perai Selatan,2023,bumi_malay,79300
+Penang,Seberang Perai Selatan,2023,chinese,65600
+Penang,Timur Laut,2023,other_noncitizen,60400
+Penang,Seberang Perai Tengah,2023,other_noncitizen,51800
+Penang,Timur Laut,2023,indian,51200
+Penang,Seberang Perai Tengah,2023,indian,37900
+Penang,Seberang Perai Selatan,2023,indian,30100
+Penang,Seberang Perai Utara,2023,indian,22400
+Penang,Seberang Perai Utara,2023,other_noncitizen,18700
+Penang,Barat Daya,2023,other_noncitizen,16500
+Penang,Barat Daya,2023,indian,13400
+Penang,Seberang Perai Selatan,2023,other_noncitizen,10900
+Penang,Timur Laut,2023,other_citizen,5300
+Penang,Timur Laut,2023,bumi_other,3500
+Penang,Seberang Perai Tengah,2023,other_citizen,2300
+Penang,Seberang Perai Tengah,2023,bumi_other,1300
+Penang,Barat Daya,2023,bumi_other,1100
+Penang,Seberang Perai Utara,2023,other_citizen,1100
+Penang,Barat Daya,2023,other_citizen,1100
+Penang,Seberang Perai Utara,2023,bumi_other,900
+Penang,Seberang Perai Selatan,2023,other_citizen,500
+Penang,Seberang Perai Selatan,2023,bumi_other,300

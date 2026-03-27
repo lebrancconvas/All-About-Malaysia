@@ -1,0 +1,73 @@
+state,district,date,ethnicity,population
+Kedah,Kuala Muda,2020,bumi_malay,363900
+Kedah,Kota Setar,2020,bumi_malay,268200
+Kedah,Kulim,2020,bumi_malay,220300
+Kedah,Kubang Pasu,2020,bumi_malay,206500
+Kedah,Baling,2020,bumi_malay,128000
+Kedah,Pendang,2020,bumi_malay,87800
+Kedah,Kota Setar,2020,chinese,83400
+Kedah,Kuala Muda,2020,chinese,83000
+Kedah,Langkawi,2020,bumi_malay,82200
+Kedah,Yan,2020,bumi_malay,69600
+Kedah,Sik,2020,bumi_malay,61600
+Kedah,Kuala Muda,2020,indian,58600
+Kedah,Padang Terap,2020,bumi_malay,57100
+Kedah,Kulim,2020,indian,48100
+Kedah,Kulim,2020,chinese,47400
+Kedah,Pokok Sena,2020,bumi_malay,43300
+Kedah,Bandar Baharu,2020,bumi_malay,36200
+Kedah,Kuala Muda,2020,other_noncitizen,35100
+Kedah,Kulim,2020,other_noncitizen,19400
+Kedah,Kubang Pasu,2020,chinese,14900
+Kedah,Kota Setar,2020,other_noncitizen,12900
+Kedah,Kota Setar,2020,indian,7300
+Kedah,Kubang Pasu,2020,other_noncitizen,6900
+Kedah,Pendang,2020,other_citizen,5700
+Kedah,Kubang Pasu,2020,indian,4900
+Kedah,Langkawi,2020,chinese,4600
+Kedah,Padang Terap,2020,other_citizen,4600
+Kedah,Baling,2020,indian,4500
+Kedah,Baling,2020,chinese,4200
+Kedah,Langkawi,2020,other_noncitizen,4100
+Kedah,Bandar Baharu,2020,chinese,4100
+Kedah,Sik,2020,other_citizen,3400
+Kedah,Padang Terap,2020,other_noncitizen,3300
+Kedah,Kubang Pasu,2020,other_citizen,3300
+Kedah,Baling,2020,other_noncitizen,2900
+Kedah,Pendang,2020,chinese,2800
+Kedah,Pokok Sena,2020,other_noncitizen,2800
+Kedah,Yan,2020,chinese,2700
+Kedah,Bandar Baharu,2020,indian,2600
+Kedah,Pokok Sena,2020,chinese,2400
+Kedah,Baling,2020,other_citizen,2300
+Kedah,Kuala Muda,2020,other_citizen,2200
+Kedah,Sik,2020,other_noncitizen,2100
+Kedah,Kuala Muda,2020,bumi_other,2100
+Kedah,Pendang,2020,other_noncitizen,1900
+Kedah,Langkawi,2020,indian,1700
+Kedah,Kulim,2020,other_citizen,1500
+Kedah,Bandar Baharu,2020,other_noncitizen,1300
+Kedah,Kubang Pasu,2020,bumi_other,1200
+Kedah,Kota Setar,2020,other_citizen,1200
+Kedah,Kulim,2020,bumi_other,1100
+Kedah,Langkawi,2020,other_citizen,1000
+Kedah,Kota Setar,2020,bumi_other,1000
+Kedah,Pokok Sena,2020,indian,800
+Kedah,Baling,2020,bumi_other,700
+Kedah,Yan,2020,other_noncitizen,600
+Kedah,Padang Terap,2020,chinese,500
+Kedah,Langkawi,2020,bumi_other,500
+Kedah,Sik,2020,chinese,500
+Kedah,Pokok Sena,2020,other_citizen,400
+Kedah,Pendang,2020,indian,400
+Kedah,Yan,2020,bumi_other,300
+Kedah,Pendang,2020,bumi_other,300
+Kedah,Padang Terap,2020,bumi_other,200
+Kedah,Pokok Sena,2020,bumi_other,200
+Kedah,Sik,2020,bumi_other,200
+Kedah,Bandar Baharu,2020,bumi_other,100
+Kedah,Bandar Baharu,2020,other_citizen,100
+Kedah,Yan,2020,indian,100
+Kedah,Sik,2020,indian,100
+Kedah,Yan,2020,other_citizen,100
+Kedah,Padang Terap,2020,indian,0

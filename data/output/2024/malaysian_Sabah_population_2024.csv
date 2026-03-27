@@ -1,0 +1,163 @@
+state,district,date,ethnicity,population
+Sabah,Kota Kinabalu,2024,bumi_other,271500
+Sabah,Sandakan,2024,bumi_other,196900
+Sabah,Sandakan,2024,other_noncitizen,192200
+Sabah,Tawau,2024,bumi_other,190300
+Sabah,Tawau,2024,other_noncitizen,142000
+Sabah,Keningau,2024,bumi_other,125900
+Sabah,Lahad Datu,2024,bumi_other,123100
+Sabah,Kota Kinabalu,2024,other_noncitizen,121800
+Sabah,Kinabatangan,2024,other_noncitizen,120000
+Sabah,Tuaran,2024,bumi_other,114000
+Sabah,Lahad Datu,2024,other_noncitizen,102000
+Sabah,Kota Belud,2024,bumi_other,101500
+Sabah,Semporna,2024,bumi_other,101200
+Sabah,Penampang,2024,bumi_other,99200
+Sabah,Papar,2024,bumi_other,98400
+Sabah,Semporna,2024,other_noncitizen,91500
+Sabah,Kota Kinabalu,2024,chinese,75900
+Sabah,Ranau,2024,bumi_other,75000
+Sabah,Kudat,2024,bumi_other,70700
+Sabah,Kota Kinabalu,2024,bumi_malay,70200
+Sabah,Kota Marudu,2024,bumi_other,66700
+Sabah,Sandakan,2024,chinese,51900
+Sabah,Sandakan,2024,bumi_malay,51500
+Sabah,Beaufort,2024,bumi_other,48600
+Sabah,Putatan,2024,bumi_other,46100
+Sabah,Tenom,2024,bumi_other,44700
+Sabah,Beluran,2024,other_noncitizen,44200
+Sabah,Kunak,2024,other_noncitizen,43500
+Sabah,Beluran,2024,bumi_other,42500
+Sabah,Kalabakan,2024,other_noncitizen,40700
+Sabah,Papar,2024,bumi_malay,38200
+Sabah,Kinabatangan,2024,bumi_other,36800
+Sabah,Tawau,2024,chinese,36500
+Sabah,Pitas,2024,bumi_other,35100
+Sabah,Tawau,2024,bumi_malay,33600
+Sabah,Penampang,2024,chinese,32800
+Sabah,Tambunan,2024,bumi_other,31000
+Sabah,Kunak,2024,bumi_other,30900
+Sabah,Nabawan,2024,bumi_other,28700
+Sabah,Tongod,2024,bumi_other,26700
+Sabah,Sipitang,2024,bumi_other,22900
+Sabah,Penampang,2024,other_noncitizen,20000
+Sabah,Keningau,2024,other_noncitizen,18400
+Sabah,Beaufort,2024,bumi_malay,18000
+Sabah,Tongod,2024,other_noncitizen,17600
+Sabah,Kalabakan,2024,bumi_other,17100
+Sabah,Telupid,2024,bumi_other,17100
+Sabah,Kuala Penyu,2024,bumi_other,15200
+Sabah,Tuaran,2024,bumi_malay,14300
+Sabah,Putatan,2024,bumi_malay,14000
+Sabah,Lahad Datu,2024,bumi_malay,13400
+Sabah,Papar,2024,other_noncitizen,13200
+Sabah,Penampang,2024,bumi_malay,13200
+Sabah,Telupid,2024,other_noncitizen,12800
+Sabah,Kudat,2024,other_noncitizen,11900
+Sabah,Sipitang,2024,bumi_malay,11100
+Sabah,Tawau,2024,other_citizen,10600
+Sabah,Lahad Datu,2024,chinese,9900
+Sabah,Tuaran,2024,other_noncitizen,9800
+Sabah,Ranau,2024,bumi_malay,7300
+Sabah,Kuala Penyu,2024,bumi_malay,7200
+Sabah,Keningau,2024,chinese,7000
+Sabah,Beaufort,2024,other_noncitizen,6300
+Sabah,Sandakan,2024,other_citizen,6100
+Sabah,Kudat,2024,bumi_malay,5700
+Sabah,Sipitang,2024,other_noncitizen,5700
+Sabah,Putatan,2024,other_noncitizen,5600
+Sabah,Kota Kinabalu,2024,other_citizen,5600
+Sabah,Ranau,2024,other_noncitizen,5500
+Sabah,Papar,2024,chinese,5300
+Sabah,Keningau,2024,bumi_malay,5300
+Sabah,Lahad Datu,2024,other_citizen,5000
+Sabah,Kota Belud,2024,other_noncitizen,4700
+Sabah,Kudat,2024,chinese,4400
+Sabah,Semporna,2024,bumi_malay,4300
+Sabah,Beaufort,2024,chinese,4000
+Sabah,Putatan,2024,chinese,3900
+Sabah,Tenom,2024,bumi_malay,3900
+Sabah,Kinabatangan,2024,bumi_malay,3800
+Sabah,Kota Marudu,2024,other_noncitizen,3400
+Sabah,Tenom,2024,other_noncitizen,3300
+Sabah,Kinabatangan,2024,other_citizen,3200
+Sabah,Tuaran,2024,chinese,2800
+Sabah,Beluran,2024,bumi_malay,2600
+Sabah,Kota Belud,2024,bumi_malay,2400
+Sabah,Kunak,2024,bumi_malay,2300
+Sabah,Pitas,2024,other_noncitizen,2200
+Sabah,Kunak,2024,other_citizen,2200
+Sabah,Kota Marudu,2024,bumi_malay,1900
+Sabah,Penampang,2024,other_citizen,1900
+Sabah,Kota Kinabalu,2024,indian,1900
+Sabah,Kota Belud,2024,chinese,1800
+Sabah,Tambunan,2024,other_noncitizen,1800
+Sabah,Kuala Penyu,2024,other_noncitizen,1700
+Sabah,Nabawan,2024,other_noncitizen,1700
+Sabah,Tenom,2024,chinese,1500
+Sabah,Keningau,2024,other_citizen,1400
+Sabah,Kota Marudu,2024,chinese,1400
+Sabah,Semporna,2024,other_citizen,1400
+Sabah,Putatan,2024,other_citizen,1200
+Sabah,Tuaran,2024,other_citizen,1100
+Sabah,Papar,2024,other_citizen,1100
+Sabah,Semporna,2024,chinese,1000
+Sabah,Pitas,2024,bumi_malay,800
+Sabah,Sandakan,2024,indian,800
+Sabah,Ranau,2024,chinese,700
+Sabah,Tawau,2024,indian,600
+Sabah,Kunak,2024,chinese,600
+Sabah,Telupid,2024,other_citizen,600
+Sabah,Beaufort,2024,other_citizen,600
+Sabah,Kalabakan,2024,bumi_malay,600
+Sabah,Beluran,2024,other_citizen,500
+Sabah,Penampang,2024,indian,500
+Sabah,Telupid,2024,bumi_malay,500
+Sabah,Sipitang,2024,chinese,500
+Sabah,Kudat,2024,other_citizen,400
+Sabah,Tongod,2024,bumi_malay,400
+Sabah,Lahad Datu,2024,indian,400
+Sabah,Kota Belud,2024,other_citizen,400
+Sabah,Tambunan,2024,bumi_malay,300
+Sabah,Kota Marudu,2024,other_citizen,300
+Sabah,Kinabatangan,2024,chinese,300
+Sabah,Pitas,2024,chinese,300
+Sabah,Putatan,2024,indian,300
+Sabah,Nabawan,2024,bumi_malay,200
+Sabah,Beluran,2024,chinese,200
+Sabah,Kuala Penyu,2024,chinese,200
+Sabah,Tongod,2024,chinese,200
+Sabah,Tambunan,2024,chinese,200
+Sabah,Tuaran,2024,indian,200
+Sabah,Pitas,2024,other_citizen,200
+Sabah,Kuala Penyu,2024,other_citizen,200
+Sabah,Kalabakan,2024,other_citizen,200
+Sabah,Tenom,2024,other_citizen,200
+Sabah,Ranau,2024,other_citizen,200
+Sabah,Sipitang,2024,other_citizen,200
+Sabah,Keningau,2024,indian,100
+Sabah,Kunak,2024,indian,100
+Sabah,Semporna,2024,indian,100
+Sabah,Kinabatangan,2024,indian,100
+Sabah,Kota Belud,2024,indian,100
+Sabah,Kalabakan,2024,chinese,100
+Sabah,Telupid,2024,chinese,100
+Sabah,Nabawan,2024,chinese,100
+Sabah,Beaufort,2024,indian,100
+Sabah,Papar,2024,indian,100
+Sabah,Telupid,2024,indian,100
+Sabah,Tongod,2024,other_citizen,100
+Sabah,Sipitang,2024,indian,100
+Sabah,Tambunan,2024,other_citizen,100
+Sabah,Beluran,2024,indian,0
+Sabah,Ranau,2024,indian,0
+Sabah,Kota Marudu,2024,indian,0
+Sabah,Kudat,2024,indian,0
+Sabah,Kuala Penyu,2024,indian,0
+Sabah,Pitas,2024,indian,0
+Sabah,Nabawan,2024,other_citizen,0
+Sabah,Tambunan,2024,indian,0
+Sabah,Tongod,2024,indian,0
+Sabah,Kalabakan,2024,indian,0
+Sabah,Tenom,2024,indian,0
+Sabah,Nabawan,2024,indian,0

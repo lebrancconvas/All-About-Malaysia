@@ -1,0 +1,67 @@
+state,district,date,ethnicity,population
+Kelantan,Kota Bharu,2024,bumi_malay,548200
+Kelantan,Pasir Mas,2024,bumi_malay,232800
+Kelantan,Tumpat,2024,bumi_malay,173700
+Kelantan,Bachok,2024,bumi_malay,161900
+Kelantan,Tanah Merah,2024,bumi_malay,147000
+Kelantan,Pasir Puteh,2024,bumi_malay,140200
+Kelantan,Machang,2024,bumi_malay,112900
+Kelantan,Kuala Krai,2024,bumi_malay,101500
+Kelantan,Gua Musang,2024,bumi_malay,83600
+Kelantan,Jeli,2024,bumi_malay,54600
+Kelantan,Kota Bharu,2024,chinese,16700
+Kelantan,Kota Bharu,2024,other_noncitizen,13800
+Kelantan,Gua Musang,2024,other_noncitizen,11000
+Kelantan,Gua Musang,2024,bumi_other,10000
+Kelantan,Kecil Lojing,2024,bumi_other,8100
+Kelantan,Tumpat,2024,chinese,7300
+Kelantan,Tumpat,2024,other_citizen,5800
+Kelantan,Kuala Krai,2024,other_noncitizen,5500
+Kelantan,Tanah Merah,2024,other_noncitizen,5300
+Kelantan,Gua Musang,2024,chinese,4700
+Kelantan,Tanah Merah,2024,chinese,4700
+Kelantan,Kuala Krai,2024,chinese,3500
+Kelantan,Pasir Mas,2024,other_noncitizen,3400
+Kelantan,Pasir Mas,2024,chinese,3300
+Kelantan,Kecil Lojing,2024,bumi_malay,2100
+Kelantan,Kota Bharu,2024,bumi_other,2000
+Kelantan,Machang,2024,chinese,1900
+Kelantan,Tumpat,2024,other_noncitizen,1900
+Kelantan,Jeli,2024,other_noncitizen,1800
+Kelantan,Kota Bharu,2024,other_citizen,1600
+Kelantan,Kota Bharu,2024,indian,1500
+Kelantan,Bachok,2024,other_noncitizen,1500
+Kelantan,Machang,2024,other_noncitizen,1300
+Kelantan,Bachok,2024,chinese,1300
+Kelantan,Pasir Puteh,2024,other_noncitizen,1100
+Kelantan,Jeli,2024,bumi_other,1000
+Kelantan,Gua Musang,2024,indian,800
+Kelantan,Pasir Mas,2024,other_citizen,800
+Kelantan,Pasir Puteh,2024,other_citizen,800
+Kelantan,Kuala Krai,2024,indian,800
+Kelantan,Tanah Merah,2024,other_citizen,700
+Kelantan,Kecil Lojing,2024,indian,600
+Kelantan,Pasir Puteh,2024,chinese,600
+Kelantan,Tanah Merah,2024,indian,400
+Kelantan,Bachok,2024,other_citizen,400
+Kelantan,Kecil Lojing,2024,other_noncitizen,400
+Kelantan,Machang,2024,bumi_other,300
+Kelantan,Tanah Merah,2024,bumi_other,300
+Kelantan,Kuala Krai,2024,other_citizen,300
+Kelantan,Gua Musang,2024,other_citizen,300
+Kelantan,Tumpat,2024,indian,200
+Kelantan,Jeli,2024,indian,200
+Kelantan,Pasir Puteh,2024,bumi_other,200
+Kelantan,Tumpat,2024,bumi_other,200
+Kelantan,Bachok,2024,bumi_other,200
+Kelantan,Pasir Mas,2024,bumi_other,200
+Kelantan,Jeli,2024,chinese,100
+Kelantan,Kuala Krai,2024,bumi_other,100
+Kelantan,Jeli,2024,other_citizen,100
+Kelantan,Bachok,2024,indian,100
+Kelantan,Pasir Puteh,2024,indian,100
+Kelantan,Machang,2024,indian,100
+Kelantan,Machang,2024,other_citizen,100
+Kelantan,Kecil Lojing,2024,chinese,0
+Kelantan,Pasir Mas,2024,indian,0
+Kelantan,Kecil Lojing,2024,other_citizen,0
