@@ -1,163 +1,163 @@
 state,district,date,ethnicity,population
-Sabah,Kota Kinabalu,2020,bumi_other,273500
-Sabah,Sandakan,2020,bumi_other,197200
-Sabah,Tawau,2020,bumi_other,188400
-Sabah,Sandakan,2020,other_noncitizen,141000
-Sabah,Keningau,2020,bumi_other,120500
-Sabah,Lahad Datu,2020,bumi_other,120400
 Sabah,Tuaran,2020,bumi_other,112600
-Sabah,Papar,2020,bumi_other,111100
-Sabah,Tawau,2020,other_noncitizen,109100
-Sabah,Kinabatangan,2020,other_noncitizen,100400
-Sabah,Kota Belud,2020,bumi_other,99100
-Sabah,Penampang,2020,bumi_other,98000
-Sabah,Semporna,2020,bumi_other,97200
-Sabah,Kota Kinabalu,2020,other_noncitizen,86600
-Sabah,Lahad Datu,2020,other_noncitizen,83100
-Sabah,Kota Kinabalu,2020,chinese,77300
-Sabah,Ranau,2020,bumi_other,71600
-Sabah,Kudat,2020,bumi_other,68500
-Sabah,Kota Marudu,2020,bumi_other,63900
-Sabah,Semporna,2020,other_noncitizen,63800
-Sabah,Beaufort,2020,bumi_other,60400
-Sabah,Kota Kinabalu,2020,bumi_malay,56800
-Sabah,Sandakan,2020,chinese,52900
-Sabah,Putatan,2020,bumi_other,50700
-Sabah,Tenom,2020,bumi_other,43200
-Sabah,Sandakan,2020,bumi_malay,41800
-Sabah,Beluran,2020,bumi_other,40900
-Sabah,Tawau,2020,chinese,37200
-Sabah,Kinabatangan,2020,bumi_other,36200
-Sabah,Kunak,2020,other_noncitizen,34700
-Sabah,Pitas,2020,bumi_other,33900
-Sabah,Beluran,2020,other_noncitizen,33400
-Sabah,Penampang,2020,chinese,33100
-Sabah,Kalabakan,2020,other_noncitizen,30600
-Sabah,Kunak,2020,bumi_other,30100
-Sabah,Tambunan,2020,bumi_other,29800
-Sabah,Tawau,2020,bumi_malay,27100
-Sabah,Nabawan,2020,bumi_other,27000
-Sabah,Sipitang,2020,bumi_other,25900
-Sabah,Tongod,2020,bumi_other,25800
-Sabah,Papar,2020,bumi_malay,20400
-Sabah,Penampang,2020,other_noncitizen,18300
-Sabah,Keningau,2020,other_noncitizen,18100
-Sabah,Kuala Penyu,2020,bumi_other,17100
-Sabah,Kalabakan,2020,bumi_other,16900
-Sabah,Telupid,2020,bumi_other,16600
-Sabah,Tongod,2020,other_noncitizen,16300
-Sabah,Papar,2020,other_noncitizen,12500
 Sabah,Tuaran,2020,bumi_malay,11500
-Sabah,Telupid,2020,other_noncitizen,11400
-Sabah,Penampang,2020,bumi_malay,10600
-Sabah,Lahad Datu,2020,bumi_malay,10500
-Sabah,Tawau,2020,other_citizen,10200
-Sabah,Lahad Datu,2020,chinese,10100
-Sabah,Kudat,2020,other_noncitizen,8000
-Sabah,Putatan,2020,bumi_malay,7500
 Sabah,Tuaran,2020,other_noncitizen,7500
-Sabah,Keningau,2020,chinese,7200
-Sabah,Sipitang,2020,bumi_malay,7100
-Sabah,Ranau,2020,bumi_malay,7000
-Sabah,Beaufort,2020,other_noncitizen,6000
-Sabah,Papar,2020,chinese,5500
-Sabah,Ranau,2020,other_noncitizen,5400
-Sabah,Sandakan,2020,other_citizen,5300
-Sabah,Putatan,2020,other_noncitizen,5300
-Sabah,Kuala Penyu,2020,bumi_malay,5100
-Sabah,Kudat,2020,bumi_malay,4900
-Sabah,Kudat,2020,chinese,4700
-Sabah,Lahad Datu,2020,other_citizen,4600
-Sabah,Beaufort,2020,bumi_malay,4500
-Sabah,Beaufort,2020,chinese,4200
-Sabah,Sipitang,2020,other_noncitizen,4100
-Sabah,Kota Belud,2020,other_noncitizen,4100
-Sabah,Kota Kinabalu,2020,other_citizen,4100
-Sabah,Putatan,2020,chinese,4000
-Sabah,Keningau,2020,bumi_malay,3700
-Sabah,Tenom,2020,bumi_malay,3600
-Sabah,Semporna,2020,bumi_malay,3500
-Sabah,Kinabatangan,2020,other_citizen,3100
-Sabah,Kinabatangan,2020,bumi_malay,3000
 Sabah,Tuaran,2020,chinese,3000
-Sabah,Kota Marudu,2020,other_noncitizen,2800
-Sabah,Tenom,2020,other_noncitizen,2400
-Sabah,Beluran,2020,bumi_malay,2000
-Sabah,Kunak,2020,other_citizen,2000
-Sabah,Kota Kinabalu,2020,indian,2000
-Sabah,Pitas,2020,other_noncitizen,1900
-Sabah,Kota Belud,2020,chinese,1800
-Sabah,Kota Belud,2020,bumi_malay,1800
-Sabah,Tenom,2020,chinese,1700
-Sabah,Penampang,2020,other_citizen,1700
-Sabah,Kunak,2020,bumi_malay,1400
-Sabah,Kota Marudu,2020,chinese,1400
-Sabah,Tambunan,2020,other_noncitizen,1400
-Sabah,Keningau,2020,other_citizen,1300
-Sabah,Nabawan,2020,other_noncitizen,1200
-Sabah,Kuala Penyu,2020,other_noncitizen,1100
-Sabah,Putatan,2020,other_citizen,1100
-Sabah,Kota Marudu,2020,bumi_malay,1000
-Sabah,Semporna,2020,chinese,1000
-Sabah,Semporna,2020,other_citizen,1000
 Sabah,Tuaran,2020,other_citizen,900
-Sabah,Papar,2020,other_citizen,900
-Sabah,Sandakan,2020,indian,800
-Sabah,Ranau,2020,chinese,800
-Sabah,Kunak,2020,chinese,600
-Sabah,Tawau,2020,indian,600
-Sabah,Sipitang,2020,chinese,600
-Sabah,Telupid,2020,other_citizen,600
-Sabah,Penampang,2020,indian,500
-Sabah,Beaufort,2020,other_citizen,500
-Sabah,Pitas,2020,bumi_malay,500
-Sabah,Beluran,2020,other_citizen,500
-Sabah,Kalabakan,2020,bumi_malay,400
-Sabah,Telupid,2020,bumi_malay,400
-Sabah,Tongod,2020,bumi_malay,400
-Sabah,Lahad Datu,2020,indian,400
-Sabah,Kota Belud,2020,other_citizen,400
-Sabah,Putatan,2020,indian,300
-Sabah,Kota Marudu,2020,other_citizen,300
-Sabah,Kuala Penyu,2020,chinese,300
-Sabah,Pitas,2020,chinese,300
-Sabah,Kinabatangan,2020,chinese,300
-Sabah,Beluran,2020,chinese,200
 Sabah,Tuaran,2020,indian,200
-Sabah,Tenom,2020,other_citizen,200
-Sabah,Sipitang,2020,other_citizen,200
+Sabah,Tongod,2020,bumi_other,25800
+Sabah,Tongod,2020,other_noncitizen,16300
+Sabah,Tongod,2020,bumi_malay,400
 Sabah,Tongod,2020,chinese,200
-Sabah,Ranau,2020,other_citizen,200
-Sabah,Kalabakan,2020,other_citizen,200
-Sabah,Papar,2020,indian,200
-Sabah,Tambunan,2020,chinese,200
-Sabah,Kudat,2020,other_citizen,200
-Sabah,Kuala Penyu,2020,other_citizen,200
-Sabah,Tambunan,2020,bumi_malay,200
-Sabah,Kalabakan,2020,chinese,100
-Sabah,Keningau,2020,indian,100
-Sabah,Beaufort,2020,indian,100
 Sabah,Tongod,2020,other_citizen,100
+Sabah,Tongod,2020,indian,0
+Sabah,Tenom,2020,bumi_other,43200
+Sabah,Tenom,2020,bumi_malay,3600
+Sabah,Tenom,2020,other_noncitizen,2400
+Sabah,Tenom,2020,chinese,1700
+Sabah,Tenom,2020,other_citizen,200
+Sabah,Tenom,2020,indian,0
+Sabah,Telupid,2020,bumi_other,16600
+Sabah,Telupid,2020,other_noncitizen,11400
+Sabah,Telupid,2020,other_citizen,600
+Sabah,Telupid,2020,bumi_malay,400
 Sabah,Telupid,2020,chinese,100
-Sabah,Kota Belud,2020,indian,100
-Sabah,Kinabatangan,2020,indian,100
-Sabah,Kunak,2020,indian,100
-Sabah,Nabawan,2020,chinese,100
-Sabah,Nabawan,2020,bumi_malay,100
-Sabah,Pitas,2020,other_citizen,100
 Sabah,Telupid,2020,indian,100
-Sabah,Semporna,2020,indian,100
-Sabah,Beluran,2020,indian,0
-Sabah,Kalabakan,2020,indian,0
-Sabah,Kudat,2020,indian,0
-Sabah,Kota Marudu,2020,indian,0
-Sabah,Nabawan,2020,other_citizen,0
-Sabah,Kuala Penyu,2020,indian,0
-Sabah,Pitas,2020,indian,0
-Sabah,Nabawan,2020,indian,0
-Sabah,Ranau,2020,indian,0
-Sabah,Sipitang,2020,indian,0
+Sabah,Tawau,2020,bumi_other,188400
+Sabah,Tawau,2020,other_noncitizen,109100
+Sabah,Tawau,2020,chinese,37200
+Sabah,Tawau,2020,bumi_malay,27100
+Sabah,Tawau,2020,other_citizen,10200
+Sabah,Tawau,2020,indian,600
+Sabah,Tambunan,2020,bumi_other,29800
+Sabah,Tambunan,2020,other_noncitizen,1400
+Sabah,Tambunan,2020,bumi_malay,200
+Sabah,Tambunan,2020,chinese,200
 Sabah,Tambunan,2020,indian,0
 Sabah,Tambunan,2020,other_citizen,0
-Sabah,Tongod,2020,indian,0
-Sabah,Tenom,2020,indian,0
+Sabah,Sipitang,2020,bumi_other,25900
+Sabah,Sipitang,2020,bumi_malay,7100
+Sabah,Sipitang,2020,other_noncitizen,4100
+Sabah,Sipitang,2020,chinese,600
+Sabah,Sipitang,2020,other_citizen,200
+Sabah,Sipitang,2020,indian,0
+Sabah,Semporna,2020,bumi_other,97200
+Sabah,Semporna,2020,other_noncitizen,63800
+Sabah,Semporna,2020,bumi_malay,3500
+Sabah,Semporna,2020,chinese,1000
+Sabah,Semporna,2020,other_citizen,1000
+Sabah,Semporna,2020,indian,100
+Sabah,Sandakan,2020,bumi_other,197200
+Sabah,Sandakan,2020,other_noncitizen,141000
+Sabah,Sandakan,2020,chinese,52900
+Sabah,Sandakan,2020,bumi_malay,41800
+Sabah,Sandakan,2020,other_citizen,5300
+Sabah,Sandakan,2020,indian,800
+Sabah,Ranau,2020,bumi_other,71600
+Sabah,Ranau,2020,bumi_malay,7000
+Sabah,Ranau,2020,other_noncitizen,5400
+Sabah,Ranau,2020,chinese,800
+Sabah,Ranau,2020,other_citizen,200
+Sabah,Ranau,2020,indian,0
+Sabah,Putatan,2020,bumi_other,50700
+Sabah,Putatan,2020,bumi_malay,7500
+Sabah,Putatan,2020,other_noncitizen,5300
+Sabah,Putatan,2020,chinese,4000
+Sabah,Putatan,2020,other_citizen,1100
+Sabah,Putatan,2020,indian,300
+Sabah,Pitas,2020,bumi_other,33900
+Sabah,Pitas,2020,other_noncitizen,1900
+Sabah,Pitas,2020,bumi_malay,500
+Sabah,Pitas,2020,chinese,300
+Sabah,Pitas,2020,other_citizen,100
+Sabah,Pitas,2020,indian,0
+Sabah,Penampang,2020,bumi_other,98000
+Sabah,Penampang,2020,chinese,33100
+Sabah,Penampang,2020,other_noncitizen,18300
+Sabah,Penampang,2020,bumi_malay,10600
+Sabah,Penampang,2020,other_citizen,1700
+Sabah,Penampang,2020,indian,500
+Sabah,Papar,2020,bumi_other,111100
+Sabah,Papar,2020,bumi_malay,20400
+Sabah,Papar,2020,other_noncitizen,12500
+Sabah,Papar,2020,chinese,5500
+Sabah,Papar,2020,other_citizen,900
+Sabah,Papar,2020,indian,200
+Sabah,Nabawan,2020,bumi_other,27000
+Sabah,Nabawan,2020,other_noncitizen,1200
+Sabah,Nabawan,2020,bumi_malay,100
+Sabah,Nabawan,2020,chinese,100
+Sabah,Nabawan,2020,indian,0
+Sabah,Nabawan,2020,other_citizen,0
+Sabah,Lahad Datu,2020,bumi_other,120400
+Sabah,Lahad Datu,2020,other_noncitizen,83100
+Sabah,Lahad Datu,2020,bumi_malay,10500
+Sabah,Lahad Datu,2020,chinese,10100
+Sabah,Lahad Datu,2020,other_citizen,4600
+Sabah,Lahad Datu,2020,indian,400
+Sabah,Kunak,2020,other_noncitizen,34700
+Sabah,Kunak,2020,bumi_other,30100
+Sabah,Kunak,2020,other_citizen,2000
+Sabah,Kunak,2020,bumi_malay,1400
+Sabah,Kunak,2020,chinese,600
+Sabah,Kunak,2020,indian,100
+Sabah,Kudat,2020,bumi_other,68500
+Sabah,Kudat,2020,other_noncitizen,8000
+Sabah,Kudat,2020,bumi_malay,4900
+Sabah,Kudat,2020,chinese,4700
+Sabah,Kudat,2020,other_citizen,200
+Sabah,Kudat,2020,indian,0
+Sabah,Kuala Penyu,2020,bumi_other,17100
+Sabah,Kuala Penyu,2020,bumi_malay,5100
+Sabah,Kuala Penyu,2020,other_noncitizen,1100
+Sabah,Kuala Penyu,2020,chinese,300
+Sabah,Kuala Penyu,2020,other_citizen,200
+Sabah,Kuala Penyu,2020,indian,0
+Sabah,Kota Marudu,2020,bumi_other,63900
+Sabah,Kota Marudu,2020,other_noncitizen,2800
+Sabah,Kota Marudu,2020,chinese,1400
+Sabah,Kota Marudu,2020,bumi_malay,1000
+Sabah,Kota Marudu,2020,other_citizen,300
+Sabah,Kota Marudu,2020,indian,0
+Sabah,Kota Kinabalu,2020,bumi_other,273500
+Sabah,Kota Kinabalu,2020,other_noncitizen,86600
+Sabah,Kota Kinabalu,2020,chinese,77300
+Sabah,Kota Kinabalu,2020,bumi_malay,56800
+Sabah,Kota Kinabalu,2020,other_citizen,4100
+Sabah,Kota Kinabalu,2020,indian,2000
+Sabah,Kota Belud,2020,bumi_other,99100
+Sabah,Kota Belud,2020,other_noncitizen,4100
+Sabah,Kota Belud,2020,bumi_malay,1800
+Sabah,Kota Belud,2020,chinese,1800
+Sabah,Kota Belud,2020,other_citizen,400
+Sabah,Kota Belud,2020,indian,100
+Sabah,Kinabatangan,2020,other_noncitizen,100400
+Sabah,Kinabatangan,2020,bumi_other,36200
+Sabah,Kinabatangan,2020,other_citizen,3100
+Sabah,Kinabatangan,2020,bumi_malay,3000
+Sabah,Kinabatangan,2020,chinese,300
+Sabah,Kinabatangan,2020,indian,100
+Sabah,Keningau,2020,bumi_other,120500
+Sabah,Keningau,2020,other_noncitizen,18100
+Sabah,Keningau,2020,chinese,7200
+Sabah,Keningau,2020,bumi_malay,3700
+Sabah,Keningau,2020,other_citizen,1300
+Sabah,Keningau,2020,indian,100
+Sabah,Kalabakan,2020,other_noncitizen,30600
+Sabah,Kalabakan,2020,bumi_other,16900
+Sabah,Kalabakan,2020,bumi_malay,400
+Sabah,Kalabakan,2020,other_citizen,200
+Sabah,Kalabakan,2020,chinese,100
+Sabah,Kalabakan,2020,indian,0
+Sabah,Beluran,2020,bumi_other,40900
+Sabah,Beluran,2020,other_noncitizen,33400
+Sabah,Beluran,2020,bumi_malay,2000
+Sabah,Beluran,2020,other_citizen,500
+Sabah,Beluran,2020,chinese,200
+Sabah,Beluran,2020,indian,0
+Sabah,Beaufort,2020,bumi_other,60400
+Sabah,Beaufort,2020,other_noncitizen,6000
+Sabah,Beaufort,2020,bumi_malay,4500
+Sabah,Beaufort,2020,chinese,4200
+Sabah,Beaufort,2020,other_citizen,500
+Sabah,Beaufort,2020,indian,100

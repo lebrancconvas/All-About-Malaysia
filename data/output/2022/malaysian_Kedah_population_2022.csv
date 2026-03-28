@@ -1,73 +1,73 @@
 state,district,date,ethnicity,population
-Kedah,Kuala Muda,2022,bumi_malay,372400
-Kedah,Kota Setar,2022,bumi_malay,272400
-Kedah,Kulim,2022,bumi_malay,225600
-Kedah,Kubang Pasu,2022,bumi_malay,219200
-Kedah,Baling,2022,bumi_malay,130699
-Kedah,Pendang,2022,bumi_malay,88900
-Kedah,Langkawi,2022,bumi_malay,84800
-Kedah,Kota Setar,2022,chinese,83100
-Kedah,Kuala Muda,2022,chinese,82700
 Kedah,Yan,2022,bumi_malay,70400
+Kedah,Yan,2022,chinese,2700
+Kedah,Yan,2022,other_noncitizen,600
+Kedah,Yan,2022,bumi_other,100
+Kedah,Yan,2022,indian,100
+Kedah,Yan,2022,other_citizen,100
 Kedah,Sik,2022,bumi_malay,62600
-Kedah,Kuala Muda,2022,indian,58300
+Kedah,Sik,2022,other_citizen,3400
+Kedah,Sik,2022,other_noncitizen,2000
+Kedah,Sik,2022,chinese,500
+Kedah,Sik,2022,bumi_other,100
+Kedah,Sik,2022,indian,100
+Kedah,Pokok Sena,2022,bumi_malay,43800
+Kedah,Pokok Sena,2022,other_noncitizen,2700
+Kedah,Pokok Sena,2022,chinese,2400
+Kedah,Pokok Sena,2022,indian,800
+Kedah,Pokok Sena,2022,other_citizen,400
+Kedah,Pokok Sena,2022,bumi_other,100
+Kedah,Pendang,2022,bumi_malay,88900
+Kedah,Pendang,2022,other_citizen,5700
+Kedah,Pendang,2022,chinese,2800
+Kedah,Pendang,2022,other_noncitizen,1800
+Kedah,Pendang,2022,indian,400
+Kedah,Pendang,2022,bumi_other,100
 Kedah,Padang Terap,2022,bumi_malay,58200
+Kedah,Padang Terap,2022,other_citizen,4600
+Kedah,Padang Terap,2022,other_noncitizen,3200
+Kedah,Padang Terap,2022,chinese,500
+Kedah,Padang Terap,2022,bumi_other,100
+Kedah,Padang Terap,2022,indian,0
+Kedah,Langkawi,2022,bumi_malay,84800
+Kedah,Langkawi,2022,chinese,4600
+Kedah,Langkawi,2022,other_noncitizen,3900
+Kedah,Langkawi,2022,indian,1700
+Kedah,Langkawi,2022,other_citizen,1000
+Kedah,Langkawi,2022,bumi_other,300
+Kedah,Kulim,2022,bumi_malay,225600
 Kedah,Kulim,2022,indian,47900
 Kedah,Kulim,2022,chinese,47100
-Kedah,Pokok Sena,2022,bumi_malay,43800
-Kedah,Bandar Baharu,2022,bumi_malay,36500
-Kedah,Kuala Muda,2022,other_noncitizen,33500
 Kedah,Kulim,2022,other_noncitizen,18500
+Kedah,Kulim,2022,other_citizen,1500
+Kedah,Kulim,2022,bumi_other,700
+Kedah,Kubang Pasu,2022,bumi_malay,219200
 Kedah,Kubang Pasu,2022,chinese,14900
+Kedah,Kubang Pasu,2022,other_noncitizen,6600
+Kedah,Kubang Pasu,2022,indian,4900
+Kedah,Kubang Pasu,2022,other_citizen,3300
+Kedah,Kubang Pasu,2022,bumi_other,800
+Kedah,Kuala Muda,2022,bumi_malay,372400
+Kedah,Kuala Muda,2022,chinese,82700
+Kedah,Kuala Muda,2022,indian,58300
+Kedah,Kuala Muda,2022,other_noncitizen,33500
+Kedah,Kuala Muda,2022,other_citizen,2200
+Kedah,Kuala Muda,2022,bumi_other,1400
+Kedah,Kota Setar,2022,bumi_malay,272400
+Kedah,Kota Setar,2022,chinese,83100
 Kedah,Kota Setar,2022,other_noncitizen,12300
 Kedah,Kota Setar,2022,indian,7300
-Kedah,Kubang Pasu,2022,other_noncitizen,6600
-Kedah,Pendang,2022,other_citizen,5700
-Kedah,Kubang Pasu,2022,indian,4900
-Kedah,Langkawi,2022,chinese,4600
-Kedah,Padang Terap,2022,other_citizen,4600
-Kedah,Baling,2022,indian,4500
-Kedah,Baling,2022,chinese,4200
-Kedah,Bandar Baharu,2022,chinese,4100
-Kedah,Langkawi,2022,other_noncitizen,3900
-Kedah,Sik,2022,other_citizen,3400
-Kedah,Kubang Pasu,2022,other_citizen,3300
-Kedah,Padang Terap,2022,other_noncitizen,3200
-Kedah,Pendang,2022,chinese,2800
-Kedah,Baling,2022,other_noncitizen,2800
-Kedah,Yan,2022,chinese,2700
-Kedah,Pokok Sena,2022,other_noncitizen,2700
-Kedah,Bandar Baharu,2022,indian,2600
-Kedah,Pokok Sena,2022,chinese,2400
-Kedah,Baling,2022,other_citizen,2300
-Kedah,Kuala Muda,2022,other_citizen,2200
-Kedah,Sik,2022,other_noncitizen,2000
-Kedah,Pendang,2022,other_noncitizen,1800
-Kedah,Langkawi,2022,indian,1700
-Kedah,Kulim,2022,other_citizen,1500
-Kedah,Kuala Muda,2022,bumi_other,1400
-Kedah,Bandar Baharu,2022,other_noncitizen,1200
 Kedah,Kota Setar,2022,other_citizen,1200
-Kedah,Langkawi,2022,other_citizen,1000
-Kedah,Kubang Pasu,2022,bumi_other,800
-Kedah,Pokok Sena,2022,indian,800
-Kedah,Kulim,2022,bumi_other,700
-Kedah,Yan,2022,other_noncitizen,600
-Kedah,Padang Terap,2022,chinese,500
-Kedah,Baling,2022,bumi_other,500
 Kedah,Kota Setar,2022,bumi_other,500
-Kedah,Sik,2022,chinese,500
-Kedah,Pokok Sena,2022,other_citizen,400
-Kedah,Pendang,2022,indian,400
-Kedah,Langkawi,2022,bumi_other,300
+Kedah,Bandar Baharu,2022,bumi_malay,36500
+Kedah,Bandar Baharu,2022,chinese,4100
+Kedah,Bandar Baharu,2022,indian,2600
+Kedah,Bandar Baharu,2022,other_noncitizen,1200
 Kedah,Bandar Baharu,2022,bumi_other,100
 Kedah,Bandar Baharu,2022,other_citizen,100
-Kedah,Pendang,2022,bumi_other,100
-Kedah,Sik,2022,indian,100
-Kedah,Pokok Sena,2022,bumi_other,100
-Kedah,Padang Terap,2022,bumi_other,100
-Kedah,Sik,2022,bumi_other,100
-Kedah,Yan,2022,indian,100
-Kedah,Yan,2022,bumi_other,100
-Kedah,Yan,2022,other_citizen,100
-Kedah,Padang Terap,2022,indian,0
+Kedah,Baling,2022,bumi_malay,130699
+Kedah,Baling,2022,indian,4500
+Kedah,Baling,2022,chinese,4200
+Kedah,Baling,2022,other_noncitizen,2800
+Kedah,Baling,2022,other_citizen,2300
+Kedah,Baling,2022,bumi_other,500

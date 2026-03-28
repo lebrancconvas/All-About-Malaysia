@@ -1,67 +1,67 @@
 state,district,date,ethnicity,population
-Pahang,Kuantan,2023,bumi_malay,449600
 Pahang,Temerloh,2023,bumi_malay,124400
-Pahang,Maran,2023,bumi_malay,103500
-Pahang,Pekan,2023,bumi_malay,98700
-Pahang,Kuantan,2023,chinese,74800
-Pahang,Jerantut,2023,bumi_malay,74700
-Pahang,Rompin,2023,bumi_malay,74500
-Pahang,Lipis,2023,bumi_malay,67600
-Pahang,Bentong,2023,bumi_malay,64300
-Pahang,Bera,2023,bumi_malay,56500
-Pahang,Raub,2023,bumi_malay,51300
-Pahang,Bentong,2023,chinese,30800
-Pahang,Raub,2023,chinese,29300
-Pahang,Bera,2023,chinese,25400
 Pahang,Temerloh,2023,chinese,23900
-Pahang,Kuantan,2023,other_noncitizen,18300
-Pahang,Rompin,2023,bumi_other,16100
-Pahang,Lipis,2023,bumi_other,16000
-Pahang,Kuantan,2023,indian,14300
-Pahang,Pekan,2023,bumi_other,14200
-Pahang,Cameron Highlands,2023,chinese,11600
-Pahang,Jerantut,2023,chinese,11100
-Pahang,Bentong,2023,other_noncitizen,10500
 Pahang,Temerloh,2023,indian,9600
-Pahang,Cameron Highlands,2023,bumi_other,9400
-Pahang,Bentong,2023,indian,9100
 Pahang,Temerloh,2023,bumi_other,8800
-Pahang,Cameron Highlands,2023,bumi_malay,8700
-Pahang,Pekan,2023,other_noncitizen,8700
-Pahang,Rompin,2023,other_noncitizen,7900
-Pahang,Lipis,2023,chinese,7200
 Pahang,Temerloh,2023,other_noncitizen,7000
+Pahang,Temerloh,2023,other_citizen,1000
+Pahang,Rompin,2023,bumi_malay,74500
+Pahang,Rompin,2023,bumi_other,16100
+Pahang,Rompin,2023,other_noncitizen,7900
+Pahang,Rompin,2023,chinese,1600
+Pahang,Rompin,2023,indian,900
+Pahang,Rompin,2023,other_citizen,600
+Pahang,Raub,2023,bumi_malay,51300
+Pahang,Raub,2023,chinese,29300
+Pahang,Raub,2023,other_noncitizen,6600
+Pahang,Raub,2023,bumi_other,5700
+Pahang,Raub,2023,indian,5500
+Pahang,Raub,2023,other_citizen,400
+Pahang,Pekan,2023,bumi_malay,98700
+Pahang,Pekan,2023,bumi_other,14200
+Pahang,Pekan,2023,other_noncitizen,8700
+Pahang,Pekan,2023,other_citizen,1800
+Pahang,Pekan,2023,chinese,1400
+Pahang,Pekan,2023,indian,1000
+Pahang,Maran,2023,bumi_malay,103500
+Pahang,Maran,2023,other_noncitizen,6100
+Pahang,Maran,2023,bumi_other,3200
+Pahang,Maran,2023,chinese,2700
+Pahang,Maran,2023,indian,1100
+Pahang,Maran,2023,other_citizen,300
+Pahang,Lipis,2023,bumi_malay,67600
+Pahang,Lipis,2023,bumi_other,16000
+Pahang,Lipis,2023,chinese,7200
+Pahang,Lipis,2023,other_noncitizen,5600
+Pahang,Lipis,2023,indian,3300
+Pahang,Lipis,2023,other_citizen,300
+Pahang,Kuantan,2023,bumi_malay,449600
+Pahang,Kuantan,2023,chinese,74800
+Pahang,Kuantan,2023,other_noncitizen,18300
+Pahang,Kuantan,2023,indian,14300
+Pahang,Kuantan,2023,bumi_other,6000
+Pahang,Kuantan,2023,other_citizen,2800
+Pahang,Jerantut,2023,bumi_malay,74700
+Pahang,Jerantut,2023,chinese,11100
+Pahang,Jerantut,2023,other_noncitizen,5500
+Pahang,Jerantut,2023,bumi_other,4100
+Pahang,Jerantut,2023,indian,2700
+Pahang,Jerantut,2023,other_citizen,600
+Pahang,Cameron Highlands,2023,chinese,11600
+Pahang,Cameron Highlands,2023,bumi_other,9400
+Pahang,Cameron Highlands,2023,bumi_malay,8700
+Pahang,Cameron Highlands,2023,other_noncitizen,6500
+Pahang,Cameron Highlands,2023,indian,4400
+Pahang,Cameron Highlands,2023,other_citizen,300
+Pahang,Bera,2023,bumi_malay,56500
+Pahang,Bera,2023,chinese,25400
 Pahang,Bera,2023,bumi_other,7000
 Pahang,Bera,2023,other_noncitizen,6900
-Pahang,Raub,2023,other_noncitizen,6600
-Pahang,Cameron Highlands,2023,other_noncitizen,6500
-Pahang,Maran,2023,other_noncitizen,6100
-Pahang,Kuantan,2023,bumi_other,6000
-Pahang,Raub,2023,bumi_other,5700
-Pahang,Lipis,2023,other_noncitizen,5600
-Pahang,Raub,2023,indian,5500
-Pahang,Jerantut,2023,other_noncitizen,5500
-Pahang,Cameron Highlands,2023,indian,4400
-Pahang,Jerantut,2023,bumi_other,4100
-Pahang,Bentong,2023,bumi_other,3900
 Pahang,Bera,2023,indian,3900
-Pahang,Lipis,2023,indian,3300
-Pahang,Maran,2023,bumi_other,3200
-Pahang,Kuantan,2023,other_citizen,2800
-Pahang,Maran,2023,chinese,2700
-Pahang,Jerantut,2023,indian,2700
-Pahang,Pekan,2023,other_citizen,1800
-Pahang,Rompin,2023,chinese,1600
-Pahang,Pekan,2023,chinese,1400
-Pahang,Maran,2023,indian,1100
-Pahang,Pekan,2023,indian,1000
-Pahang,Temerloh,2023,other_citizen,1000
-Pahang,Rompin,2023,indian,900
-Pahang,Bentong,2023,other_citizen,900
-Pahang,Rompin,2023,other_citizen,600
-Pahang,Jerantut,2023,other_citizen,600
 Pahang,Bera,2023,other_citizen,500
-Pahang,Raub,2023,other_citizen,400
-Pahang,Cameron Highlands,2023,other_citizen,300
-Pahang,Lipis,2023,other_citizen,300
-Pahang,Maran,2023,other_citizen,300
+Pahang,Bentong,2023,bumi_malay,64300
+Pahang,Bentong,2023,chinese,30800
+Pahang,Bentong,2023,other_noncitizen,10500
+Pahang,Bentong,2023,indian,9100
+Pahang,Bentong,2023,bumi_other,3900
+Pahang,Bentong,2023,other_citizen,900

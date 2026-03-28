@@ -1,43 +1,43 @@
 state,district,date,ethnicity,population
+Negeri Sembilan,Tampin,2024,bumi_malay,52100
+Negeri Sembilan,Tampin,2024,chinese,19100
+Negeri Sembilan,Tampin,2024,indian,11600
+Negeri Sembilan,Tampin,2024,other_noncitizen,5600
+Negeri Sembilan,Tampin,2024,bumi_other,2000
+Negeri Sembilan,Tampin,2024,other_citizen,200
 Negeri Sembilan,Seremban,2024,bumi_malay,400400
 Negeri Sembilan,Seremban,2024,chinese,153700
 Negeri Sembilan,Seremban,2024,indian,103700
-Negeri Sembilan,Jempol,2024,bumi_malay,83900
-Negeri Sembilan,Port Dickson,2024,bumi_malay,69100
-Negeri Sembilan,Kuala Pilah,2024,bumi_malay,54600
-Negeri Sembilan,Tampin,2024,bumi_malay,52100
 Negeri Sembilan,Seremban,2024,other_noncitizen,43000
-Negeri Sembilan,Rembau,2024,bumi_malay,39600
-Negeri Sembilan,Port Dickson,2024,chinese,31000
-Negeri Sembilan,Jelebu,2024,bumi_malay,27900
-Negeri Sembilan,Port Dickson,2024,indian,23100
-Negeri Sembilan,Jempol,2024,chinese,20900
-Negeri Sembilan,Tampin,2024,chinese,19100
-Negeri Sembilan,Jempol,2024,indian,15600
-Negeri Sembilan,Tampin,2024,indian,11600
-Negeri Sembilan,Jelebu,2024,chinese,10100
-Negeri Sembilan,Port Dickson,2024,other_noncitizen,9100
-Negeri Sembilan,Kuala Pilah,2024,chinese,9000
 Negeri Sembilan,Seremban,2024,bumi_other,7900
-Negeri Sembilan,Jempol,2024,other_noncitizen,6300
-Negeri Sembilan,Tampin,2024,other_noncitizen,5600
-Negeri Sembilan,Jelebu,2024,other_noncitizen,4900
-Negeri Sembilan,Jempol,2024,bumi_other,4200
 Negeri Sembilan,Seremban,2024,other_citizen,3900
+Negeri Sembilan,Rembau,2024,bumi_malay,39600
 Negeri Sembilan,Rembau,2024,indian,3800
-Negeri Sembilan,Jelebu,2024,bumi_other,3700
-Negeri Sembilan,Kuala Pilah,2024,indian,3600
-Negeri Sembilan,Kuala Pilah,2024,other_noncitizen,3100
 Negeri Sembilan,Rembau,2024,other_noncitizen,2500
 Negeri Sembilan,Rembau,2024,chinese,2200
-Negeri Sembilan,Port Dickson,2024,bumi_other,2200
-Negeri Sembilan,Tampin,2024,bumi_other,2000
-Negeri Sembilan,Jelebu,2024,indian,1800
-Negeri Sembilan,Kuala Pilah,2024,bumi_other,1700
 Negeri Sembilan,Rembau,2024,bumi_other,1100
-Negeri Sembilan,Port Dickson,2024,other_citizen,800
-Negeri Sembilan,Jempol,2024,other_citizen,500
-Negeri Sembilan,Jelebu,2024,other_citizen,200
-Negeri Sembilan,Tampin,2024,other_citizen,200
-Negeri Sembilan,Kuala Pilah,2024,other_citizen,200
 Negeri Sembilan,Rembau,2024,other_citizen,100
+Negeri Sembilan,Port Dickson,2024,bumi_malay,69100
+Negeri Sembilan,Port Dickson,2024,chinese,31000
+Negeri Sembilan,Port Dickson,2024,indian,23100
+Negeri Sembilan,Port Dickson,2024,other_noncitizen,9100
+Negeri Sembilan,Port Dickson,2024,bumi_other,2200
+Negeri Sembilan,Port Dickson,2024,other_citizen,800
+Negeri Sembilan,Kuala Pilah,2024,bumi_malay,54600
+Negeri Sembilan,Kuala Pilah,2024,chinese,9000
+Negeri Sembilan,Kuala Pilah,2024,indian,3600
+Negeri Sembilan,Kuala Pilah,2024,other_noncitizen,3100
+Negeri Sembilan,Kuala Pilah,2024,bumi_other,1700
+Negeri Sembilan,Kuala Pilah,2024,other_citizen,200
+Negeri Sembilan,Jempol,2024,bumi_malay,83900
+Negeri Sembilan,Jempol,2024,chinese,20900
+Negeri Sembilan,Jempol,2024,indian,15600
+Negeri Sembilan,Jempol,2024,other_noncitizen,6300
+Negeri Sembilan,Jempol,2024,bumi_other,4200
+Negeri Sembilan,Jempol,2024,other_citizen,500
+Negeri Sembilan,Jelebu,2024,bumi_malay,27900
+Negeri Sembilan,Jelebu,2024,chinese,10100
+Negeri Sembilan,Jelebu,2024,other_noncitizen,4900
+Negeri Sembilan,Jelebu,2024,bumi_other,3700
+Negeri Sembilan,Jelebu,2024,indian,1800
+Negeri Sembilan,Jelebu,2024,other_citizen,200

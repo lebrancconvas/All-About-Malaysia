@@ -1,19 +1,19 @@
 state,district,date,ethnicity,population
 Melaka,Melaka Tengah,2022,bumi_malay,369400
-Melaka,Alor Gajah,2022,bumi_malay,185400
 Melaka,Melaka Tengah,2022,chinese,163700
-Melaka,Jasin,2022,bumi_malay,114800
 Melaka,Melaka Tengah,2022,other_noncitizen,37700
-Melaka,Alor Gajah,2022,chinese,27700
 Melaka,Melaka Tengah,2022,indian,22000
-Melaka,Alor Gajah,2022,indian,18300
-Melaka,Alor Gajah,2022,other_noncitizen,17200
+Melaka,Melaka Tengah,2022,bumi_other,5900
+Melaka,Melaka Tengah,2022,other_citizen,4000
+Melaka,Jasin,2022,bumi_malay,114800
 Melaka,Jasin,2022,chinese,12800
 Melaka,Jasin,2022,other_noncitizen,12600
 Melaka,Jasin,2022,indian,12000
-Melaka,Melaka Tengah,2022,bumi_other,5900
-Melaka,Melaka Tengah,2022,other_citizen,4000
-Melaka,Alor Gajah,2022,bumi_other,2600
 Melaka,Jasin,2022,bumi_other,1100
-Melaka,Alor Gajah,2022,other_citizen,700
 Melaka,Jasin,2022,other_citizen,500
+Melaka,Alor Gajah,2022,bumi_malay,185400
+Melaka,Alor Gajah,2022,chinese,27700
+Melaka,Alor Gajah,2022,indian,18300
+Melaka,Alor Gajah,2022,other_noncitizen,17200
+Melaka,Alor Gajah,2022,bumi_other,2600
+Melaka,Alor Gajah,2022,other_citizen,700

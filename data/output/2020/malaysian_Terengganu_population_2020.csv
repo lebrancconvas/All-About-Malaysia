@@ -1,0 +1,49 @@
+state,district,date,ethnicity,population
+Terengganu,Setiu,2020,bumi_malay,58000
+Terengganu,Setiu,2020,other_noncitizen,1300
+Terengganu,Setiu,2020,bumi_other,100
+Terengganu,Setiu,2020,chinese,100
+Terengganu,Setiu,2020,other_citizen,100
+Terengganu,Setiu,2020,indian,0
+Terengganu,Marang,2020,bumi_malay,113000
+Terengganu,Marang,2020,chinese,1500
+Terengganu,Marang,2020,other_noncitizen,1500
+Terengganu,Marang,2020,bumi_other,300
+Terengganu,Marang,2020,other_citizen,200
+Terengganu,Marang,2020,indian,0
+Terengganu,Kuala Terengganu,2020,bumi_malay,217000
+Terengganu,Kuala Terengganu,2020,chinese,7200
+Terengganu,Kuala Terengganu,2020,other_noncitizen,3900
+Terengganu,Kuala Terengganu,2020,bumi_other,900
+Terengganu,Kuala Terengganu,2020,indian,500
+Terengganu,Kuala Terengganu,2020,other_citizen,300
+Terengganu,Kuala Nerus,2020,bumi_malay,140200
+Terengganu,Kuala Nerus,2020,other_noncitizen,2300
+Terengganu,Kuala Nerus,2020,chinese,1800
+Terengganu,Kuala Nerus,2020,bumi_other,700
+Terengganu,Kuala Nerus,2020,indian,500
+Terengganu,Kuala Nerus,2020,other_citizen,200
+Terengganu,Kemaman,2020,bumi_malay,197900
+Terengganu,Kemaman,2020,chinese,7800
+Terengganu,Kemaman,2020,other_noncitizen,7400
+Terengganu,Kemaman,2020,bumi_other,1400
+Terengganu,Kemaman,2020,indian,700
+Terengganu,Kemaman,2020,other_citizen,300
+Terengganu,Hulu Terengganu,2020,bumi_malay,64700
+Terengganu,Hulu Terengganu,2020,other_noncitizen,3900
+Terengganu,Hulu Terengganu,2020,bumi_other,800
+Terengganu,Hulu Terengganu,2020,other_citizen,300
+Terengganu,Hulu Terengganu,2020,chinese,100
+Terengganu,Hulu Terengganu,2020,indian,0
+Terengganu,Dungun,2020,bumi_malay,150800
+Terengganu,Dungun,2020,chinese,3300
+Terengganu,Dungun,2020,other_noncitizen,3000
+Terengganu,Dungun,2020,bumi_other,600
+Terengganu,Dungun,2020,other_citizen,300
+Terengganu,Dungun,2020,indian,100
+Terengganu,Besut,2020,bumi_malay,148800
+Terengganu,Besut,2020,other_noncitizen,3100
+Terengganu,Besut,2020,chinese,1300
+Terengganu,Besut,2020,other_citizen,500
+Terengganu,Besut,2020,bumi_other,400
+Terengganu,Besut,2020,indian,100

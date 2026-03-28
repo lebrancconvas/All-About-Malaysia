@@ -1,241 +1,241 @@
 state,district,date,ethnicity,population
-Sarawak,Kuching,2022,bumi_malay,229700
-Sarawak,Kuching,2022,chinese,218700
-Sarawak,Kuching,2022,bumi_other,154200
-Sarawak,Miri,2022,bumi_other,115500
-Sarawak,Sibu,2022,chinese,114600
-Sarawak,Bintulu,2022,bumi_other,105500
-Sarawak,Sibu,2022,bumi_other,96300
-Sarawak,Miri,2022,chinese,73700
-Sarawak,Samarahan,2022,bumi_malay,60000
-Sarawak,Serian,2022,bumi_other,59800
-Sarawak,Miri,2022,bumi_malay,48800
-Sarawak,Samarahan,2022,bumi_other,47400
-Sarawak,Bau,2022,bumi_other,38400
-Sarawak,Sri Aman,2022,bumi_other,38300
-Sarawak,Subis,2022,bumi_other,33900
-Sarawak,Bintulu,2022,chinese,33600
-Sarawak,Kapit,2022,bumi_other,32100
-Sarawak,Mukah,2022,bumi_other,31700
-Sarawak,Asajaya,2022,bumi_malay,29300
-Sarawak,Limbang,2022,bumi_other,26300
-Sarawak,Tatau,2022,bumi_other,25800
-Sarawak,Bintulu,2022,bumi_malay,25000
-Sarawak,Sibu,2022,bumi_malay,25000
-Sarawak,Tebedu,2022,bumi_other,23800
-Sarawak,Samarahan,2022,chinese,23800
-Sarawak,Lubok Antu,2022,bumi_other,21600
-Sarawak,Kanowit,2022,bumi_other,21000
-Sarawak,Simunjan,2022,bumi_malay,19800
-Sarawak,Betong,2022,bumi_other,19800
-Sarawak,Sarikei,2022,bumi_other,19400
-Sarawak,Sebauh,2022,bumi_other,18800
-Sarawak,Belaga,2022,bumi_other,18700
-Sarawak,Lawas,2022,bumi_other,18200
-Sarawak,Selangau,2022,bumi_other,18000
-Sarawak,Pusa,2022,bumi_malay,17900
-Sarawak,Lundu,2022,bumi_other,17100
-Sarawak,Sarikei,2022,chinese,17000
 Sarawak,Telang Usan,2022,bumi_other,16900
-Sarawak,Beluru,2022,bumi_other,16800
-Sarawak,Dalat,2022,bumi_other,16700
-Sarawak,Daro,2022,bumi_other,16400
-Sarawak,Saratok,2022,bumi_other,15500
-Sarawak,Pakan,2022,bumi_other,15100
-Sarawak,Betong,2022,bumi_malay,15100
-Sarawak,Bintulu,2022,other_noncitizen,14800
-Sarawak,Lawas,2022,bumi_malay,14700
-Sarawak,Julau,2022,bumi_other,14700
-Sarawak,Serian,2022,chinese,14400
-Sarawak,Sri Aman,2022,bumi_malay,14200
-Sarawak,Subis,2022,other_noncitizen,13600
-Sarawak,Simunjan,2022,bumi_other,13600
-Sarawak,Matu,2022,bumi_other,13200
-Sarawak,Limbang,2022,bumi_malay,12900
-Sarawak,Sibu,2022,other_noncitizen,12300
-Sarawak,Marudi,2022,bumi_other,12000
-Sarawak,Miri,2022,other_noncitizen,11700
-Sarawak,Lundu,2022,bumi_malay,10900
-Sarawak,Serian,2022,bumi_malay,10000
-Sarawak,Bukit Mabong,2022,bumi_other,9500
-Sarawak,Maradong,2022,bumi_other,9400
-Sarawak,Kuching,2022,other_noncitizen,9300
-Sarawak,Kabong,2022,bumi_malay,9200
-Sarawak,Song,2022,bumi_other,9000
-Sarawak,Bau,2022,chinese,8700
-Sarawak,Kabong,2022,bumi_other,8500
-Sarawak,Sebauh,2022,other_noncitizen,8300
-Sarawak,Beluru,2022,other_noncitizen,7800
-Sarawak,Sarikei,2022,bumi_malay,7500
-Sarawak,Maradong,2022,chinese,7400
-Sarawak,Sri Aman,2022,chinese,7200
-Sarawak,Subis,2022,bumi_malay,6700
+Sarawak,Telang Usan,2022,bumi_malay,200
+Sarawak,Telang Usan,2022,chinese,200
+Sarawak,Telang Usan,2022,other_noncitizen,100
+Sarawak,Telang Usan,2022,indian,0
+Sarawak,Telang Usan,2022,other_citizen,0
+Sarawak,Tebedu,2022,bumi_other,23800
+Sarawak,Tebedu,2022,bumi_malay,600
+Sarawak,Tebedu,2022,chinese,400
+Sarawak,Tebedu,2022,other_noncitizen,400
+Sarawak,Tebedu,2022,indian,0
+Sarawak,Tebedu,2022,other_citizen,0
+Sarawak,Tatau,2022,bumi_other,25800
+Sarawak,Tatau,2022,other_noncitizen,3200
+Sarawak,Tatau,2022,bumi_malay,1400
+Sarawak,Tatau,2022,chinese,1300
+Sarawak,Tatau,2022,other_citizen,200
+Sarawak,Tatau,2022,indian,0
 Sarawak,Tanjung Manis,2022,bumi_other,6400
+Sarawak,Tanjung Manis,2022,bumi_malay,900
+Sarawak,Tanjung Manis,2022,other_noncitizen,600
+Sarawak,Tanjung Manis,2022,chinese,100
+Sarawak,Tanjung Manis,2022,indian,0
+Sarawak,Tanjung Manis,2022,other_citizen,0
+Sarawak,Subis,2022,bumi_other,33900
+Sarawak,Subis,2022,other_noncitizen,13600
+Sarawak,Subis,2022,bumi_malay,6700
+Sarawak,Subis,2022,chinese,2000
+Sarawak,Subis,2022,other_citizen,400
+Sarawak,Subis,2022,indian,0
+Sarawak,Sri Aman,2022,bumi_other,38300
+Sarawak,Sri Aman,2022,bumi_malay,14200
+Sarawak,Sri Aman,2022,chinese,7200
+Sarawak,Sri Aman,2022,other_noncitizen,1300
+Sarawak,Sri Aman,2022,other_citizen,100
+Sarawak,Sri Aman,2022,indian,0
+Sarawak,Song,2022,bumi_other,9000
+Sarawak,Song,2022,bumi_malay,500
+Sarawak,Song,2022,chinese,500
+Sarawak,Song,2022,indian,0
+Sarawak,Song,2022,other_citizen,0
+Sarawak,Song,2022,other_noncitizen,0
+Sarawak,Simunjan,2022,bumi_malay,19800
+Sarawak,Simunjan,2022,bumi_other,13600
+Sarawak,Simunjan,2022,other_noncitizen,2000
+Sarawak,Simunjan,2022,chinese,900
+Sarawak,Simunjan,2022,other_citizen,300
+Sarawak,Simunjan,2022,indian,0
+Sarawak,Sibu,2022,chinese,114600
+Sarawak,Sibu,2022,bumi_other,96300
+Sarawak,Sibu,2022,bumi_malay,25000
+Sarawak,Sibu,2022,other_noncitizen,12300
+Sarawak,Sibu,2022,other_citizen,600
+Sarawak,Sibu,2022,indian,200
+Sarawak,Serian,2022,bumi_other,59800
+Sarawak,Serian,2022,chinese,14400
+Sarawak,Serian,2022,bumi_malay,10000
+Sarawak,Serian,2022,other_noncitizen,1500
+Sarawak,Serian,2022,indian,100
+Sarawak,Serian,2022,other_citizen,100
+Sarawak,Selangau,2022,bumi_other,18000
+Sarawak,Selangau,2022,other_noncitizen,1100
+Sarawak,Selangau,2022,chinese,500
+Sarawak,Selangau,2022,bumi_malay,300
+Sarawak,Selangau,2022,indian,0
+Sarawak,Selangau,2022,other_citizen,0
+Sarawak,Sebauh,2022,bumi_other,18800
+Sarawak,Sebauh,2022,other_noncitizen,8300
+Sarawak,Sebauh,2022,bumi_malay,1200
+Sarawak,Sebauh,2022,chinese,700
+Sarawak,Sebauh,2022,other_citizen,100
+Sarawak,Sebauh,2022,indian,0
+Sarawak,Sarikei,2022,bumi_other,19400
+Sarawak,Sarikei,2022,chinese,17000
+Sarawak,Sarikei,2022,bumi_malay,7500
+Sarawak,Sarikei,2022,other_noncitizen,500
+Sarawak,Sarikei,2022,other_citizen,100
+Sarawak,Sarikei,2022,indian,0
+Sarawak,Saratok,2022,bumi_other,15500
 Sarawak,Saratok,2022,bumi_malay,6300
-Sarawak,Limbang,2022,chinese,5100
-Sarawak,Bau,2022,bumi_malay,4800
+Sarawak,Saratok,2022,chinese,1100
+Sarawak,Saratok,2022,other_noncitizen,200
+Sarawak,Saratok,2022,indian,0
+Sarawak,Saratok,2022,other_citizen,0
+Sarawak,Samarahan,2022,bumi_malay,60000
+Sarawak,Samarahan,2022,bumi_other,47400
+Sarawak,Samarahan,2022,chinese,23800
+Sarawak,Samarahan,2022,other_noncitizen,1300
+Sarawak,Samarahan,2022,indian,700
+Sarawak,Samarahan,2022,other_citizen,300
+Sarawak,Pusa,2022,bumi_malay,17900
+Sarawak,Pusa,2022,bumi_other,900
+Sarawak,Pusa,2022,other_noncitizen,700
+Sarawak,Pusa,2022,chinese,200
+Sarawak,Pusa,2022,indian,0
+Sarawak,Pusa,2022,other_citizen,0
+Sarawak,Pakan,2022,bumi_other,15100
+Sarawak,Pakan,2022,chinese,200
+Sarawak,Pakan,2022,bumi_malay,100
+Sarawak,Pakan,2022,other_noncitizen,100
+Sarawak,Pakan,2022,indian,0
+Sarawak,Pakan,2022,other_citizen,0
+Sarawak,Mukah,2022,bumi_other,31700
 Sarawak,Mukah,2022,other_noncitizen,4200
 Sarawak,Mukah,2022,bumi_malay,3300
 Sarawak,Mukah,2022,chinese,3200
-Sarawak,Tatau,2022,other_noncitizen,3200
-Sarawak,Maradong,2022,bumi_malay,3200
-Sarawak,Lundu,2022,chinese,3200
-Sarawak,Asajaya,2022,bumi_other,3000
-Sarawak,Beluru,2022,bumi_malay,2900
-Sarawak,Belaga,2022,other_noncitizen,2800
-Sarawak,Dalat,2022,other_noncitizen,2600
-Sarawak,Kuching,2022,indian,2500
-Sarawak,Lundu,2022,other_noncitizen,2500
-Sarawak,Marudi,2022,bumi_malay,2500
-Sarawak,Kapit,2022,chinese,2500
-Sarawak,Lawas,2022,chinese,2400
-Sarawak,Marudi,2022,other_noncitizen,2200
-Sarawak,Matu,2022,other_noncitizen,2200
-Sarawak,Kanowit,2022,chinese,2100
-Sarawak,Simunjan,2022,other_noncitizen,2000
-Sarawak,Subis,2022,chinese,2000
-Sarawak,Marudi,2022,chinese,2000
-Sarawak,Daro,2022,other_noncitizen,2000
-Sarawak,Lawas,2022,other_noncitizen,1700
-Sarawak,Asajaya,2022,chinese,1500
-Sarawak,Kuching,2022,other_citizen,1500
-Sarawak,Serian,2022,other_noncitizen,1500
-Sarawak,Tatau,2022,bumi_malay,1400
-Sarawak,Lubok Antu,2022,chinese,1400
-Sarawak,Betong,2022,chinese,1300
-Sarawak,Kapit,2022,bumi_malay,1300
-Sarawak,Samarahan,2022,other_noncitizen,1300
-Sarawak,Sri Aman,2022,other_noncitizen,1300
-Sarawak,Tatau,2022,chinese,1300
-Sarawak,Sebauh,2022,bumi_malay,1200
-Sarawak,Limbang,2022,other_noncitizen,1100
-Sarawak,Dalat,2022,chinese,1100
-Sarawak,Selangau,2022,other_noncitizen,1100
-Sarawak,Saratok,2022,chinese,1100
-Sarawak,Kanowit,2022,bumi_malay,1000
-Sarawak,Bau,2022,other_noncitizen,1000
-Sarawak,Tanjung Manis,2022,bumi_malay,900
-Sarawak,Pusa,2022,bumi_other,900
-Sarawak,Lubok Antu,2022,bumi_malay,900
-Sarawak,Daro,2022,bumi_malay,900
-Sarawak,Simunjan,2022,chinese,900
-Sarawak,Kabong,2022,chinese,800
-Sarawak,Miri,2022,other_citizen,800
-Sarawak,Lubok Antu,2022,other_noncitizen,700
-Sarawak,Belaga,2022,bumi_malay,700
-Sarawak,Miri,2022,indian,700
-Sarawak,Sebauh,2022,chinese,700
-Sarawak,Samarahan,2022,indian,700
-Sarawak,Pusa,2022,other_noncitizen,700
-Sarawak,Dalat,2022,bumi_malay,700
-Sarawak,Bukit Mabong,2022,other_noncitizen,700
-Sarawak,Tanjung Manis,2022,other_noncitizen,600
-Sarawak,Matu,2022,bumi_malay,600
-Sarawak,Tebedu,2022,bumi_malay,600
-Sarawak,Sibu,2022,other_citizen,600
-Sarawak,Bintulu,2022,other_citizen,600
-Sarawak,Song,2022,chinese,500
-Sarawak,Sarikei,2022,other_noncitizen,500
-Sarawak,Selangau,2022,chinese,500
-Sarawak,Beluru,2022,chinese,500
-Sarawak,Song,2022,bumi_malay,500
-Sarawak,Subis,2022,other_citizen,400
-Sarawak,Tebedu,2022,chinese,400
-Sarawak,Tebedu,2022,other_noncitizen,400
-Sarawak,Maradong,2022,other_noncitizen,400
-Sarawak,Belaga,2022,chinese,400
-Sarawak,Julau,2022,chinese,400
-Sarawak,Kanowit,2022,other_noncitizen,400
-Sarawak,Kapit,2022,other_noncitizen,400
-Sarawak,Selangau,2022,bumi_malay,300
-Sarawak,Matu,2022,chinese,300
-Sarawak,Samarahan,2022,other_citizen,300
-Sarawak,Bintulu,2022,indian,300
-Sarawak,Betong,2022,other_noncitizen,300
-Sarawak,Asajaya,2022,other_noncitizen,300
-Sarawak,Simunjan,2022,other_citizen,300
-Sarawak,Telang Usan,2022,chinese,200
-Sarawak,Lawas,2022,other_citizen,200
-Sarawak,Daro,2022,chinese,200
-Sarawak,Julau,2022,bumi_malay,200
-Sarawak,Bukit Mabong,2022,chinese,200
-Sarawak,Telang Usan,2022,bumi_malay,200
-Sarawak,Tatau,2022,other_citizen,200
-Sarawak,Pusa,2022,chinese,200
-Sarawak,Sibu,2022,indian,200
-Sarawak,Marudi,2022,other_citizen,200
-Sarawak,Pakan,2022,chinese,200
-Sarawak,Saratok,2022,other_noncitizen,200
-Sarawak,Bau,2022,other_citizen,100
-Sarawak,Belaga,2022,other_citizen,100
-Sarawak,Bukit Mabong,2022,bumi_malay,100
-Sarawak,Kabong,2022,other_noncitizen,100
-Sarawak,Daro,2022,other_citizen,100
-Sarawak,Bau,2022,indian,100
-Sarawak,Beluru,2022,other_citizen,100
-Sarawak,Lundu,2022,other_citizen,100
-Sarawak,Limbang,2022,other_citizen,100
-Sarawak,Tanjung Manis,2022,chinese,100
-Sarawak,Sri Aman,2022,other_citizen,100
-Sarawak,Telang Usan,2022,other_noncitizen,100
-Sarawak,Pakan,2022,bumi_malay,100
-Sarawak,Serian,2022,indian,100
-Sarawak,Serian,2022,other_citizen,100
-Sarawak,Sarikei,2022,other_citizen,100
-Sarawak,Sebauh,2022,other_citizen,100
-Sarawak,Pakan,2022,other_noncitizen,100
 Sarawak,Mukah,2022,other_citizen,100
-Sarawak,Maradong,2022,other_citizen,100
+Sarawak,Mukah,2022,indian,0
+Sarawak,Miri,2022,bumi_other,115500
+Sarawak,Miri,2022,chinese,73700
+Sarawak,Miri,2022,bumi_malay,48800
+Sarawak,Miri,2022,other_noncitizen,11700
+Sarawak,Miri,2022,other_citizen,800
+Sarawak,Miri,2022,indian,700
+Sarawak,Matu,2022,bumi_other,13200
+Sarawak,Matu,2022,other_noncitizen,2200
+Sarawak,Matu,2022,bumi_malay,600
+Sarawak,Matu,2022,chinese,300
 Sarawak,Matu,2022,other_citizen,100
-Sarawak,Kabong,2022,indian,0
-Sarawak,Julau,2022,indian,0
-Sarawak,Daro,2022,indian,0
-Sarawak,Julau,2022,other_noncitizen,0
-Sarawak,Belaga,2022,indian,0
-Sarawak,Betong,2022,other_citizen,0
-Sarawak,Beluru,2022,indian,0
-Sarawak,Betong,2022,indian,0
-Sarawak,Bukit Mabong,2022,indian,0
-Sarawak,Bukit Mabong,2022,other_citizen,0
-Sarawak,Asajaya,2022,indian,0
-Sarawak,Asajaya,2022,other_citizen,0
-Sarawak,Dalat,2022,indian,0
-Sarawak,Dalat,2022,other_citizen,0
-Sarawak,Julau,2022,other_citizen,0
-Sarawak,Kabong,2022,other_citizen,0
-Sarawak,Kanowit,2022,other_citizen,0
-Sarawak,Kanowit,2022,indian,0
-Sarawak,Kapit,2022,indian,0
-Sarawak,Kapit,2022,other_citizen,0
+Sarawak,Matu,2022,indian,0
+Sarawak,Marudi,2022,bumi_other,12000
+Sarawak,Marudi,2022,bumi_malay,2500
+Sarawak,Marudi,2022,other_noncitizen,2200
+Sarawak,Marudi,2022,chinese,2000
+Sarawak,Marudi,2022,other_citizen,200
+Sarawak,Marudi,2022,indian,0
+Sarawak,Maradong,2022,bumi_other,9400
+Sarawak,Maradong,2022,chinese,7400
+Sarawak,Maradong,2022,bumi_malay,3200
+Sarawak,Maradong,2022,other_noncitizen,400
+Sarawak,Maradong,2022,other_citizen,100
 Sarawak,Maradong,2022,indian,0
+Sarawak,Lundu,2022,bumi_other,17100
+Sarawak,Lundu,2022,bumi_malay,10900
+Sarawak,Lundu,2022,chinese,3200
+Sarawak,Lundu,2022,other_noncitizen,2500
+Sarawak,Lundu,2022,other_citizen,100
 Sarawak,Lundu,2022,indian,0
+Sarawak,Lubok Antu,2022,bumi_other,21600
+Sarawak,Lubok Antu,2022,chinese,1400
+Sarawak,Lubok Antu,2022,bumi_malay,900
+Sarawak,Lubok Antu,2022,other_noncitizen,700
 Sarawak,Lubok Antu,2022,indian,0
 Sarawak,Lubok Antu,2022,other_citizen,0
-Sarawak,Lawas,2022,indian,0
+Sarawak,Limbang,2022,bumi_other,26300
+Sarawak,Limbang,2022,bumi_malay,12900
+Sarawak,Limbang,2022,chinese,5100
+Sarawak,Limbang,2022,other_noncitizen,1100
+Sarawak,Limbang,2022,other_citizen,100
 Sarawak,Limbang,2022,indian,0
-Sarawak,Saratok,2022,other_citizen,0
-Sarawak,Sarikei,2022,indian,0
-Sarawak,Matu,2022,indian,0
-Sarawak,Mukah,2022,indian,0
-Sarawak,Marudi,2022,indian,0
-Sarawak,Saratok,2022,indian,0
-Sarawak,Pusa,2022,other_citizen,0
-Sarawak,Pusa,2022,indian,0
-Sarawak,Pakan,2022,indian,0
-Sarawak,Pakan,2022,other_citizen,0
-Sarawak,Sebauh,2022,indian,0
-Sarawak,Sri Aman,2022,indian,0
-Sarawak,Song,2022,other_citizen,0
-Sarawak,Song,2022,indian,0
-Sarawak,Simunjan,2022,indian,0
-Sarawak,Selangau,2022,other_citizen,0
-Sarawak,Selangau,2022,indian,0
-Sarawak,Song,2022,other_noncitizen,0
-Sarawak,Tanjung Manis,2022,other_citizen,0
-Sarawak,Tanjung Manis,2022,indian,0
-Sarawak,Subis,2022,indian,0
-Sarawak,Tatau,2022,indian,0
-Sarawak,Tebedu,2022,indian,0
-Sarawak,Tebedu,2022,other_citizen,0
-Sarawak,Telang Usan,2022,indian,0
-Sarawak,Telang Usan,2022,other_citizen,0
+Sarawak,Lawas,2022,bumi_other,18200
+Sarawak,Lawas,2022,bumi_malay,14700
+Sarawak,Lawas,2022,chinese,2400
+Sarawak,Lawas,2022,other_noncitizen,1700
+Sarawak,Lawas,2022,other_citizen,200
+Sarawak,Lawas,2022,indian,0
+Sarawak,Kuching,2022,bumi_malay,229700
+Sarawak,Kuching,2022,chinese,218700
+Sarawak,Kuching,2022,bumi_other,154200
+Sarawak,Kuching,2022,other_noncitizen,9300
+Sarawak,Kuching,2022,indian,2500
+Sarawak,Kuching,2022,other_citizen,1500
+Sarawak,Kapit,2022,bumi_other,32100
+Sarawak,Kapit,2022,chinese,2500
+Sarawak,Kapit,2022,bumi_malay,1300
+Sarawak,Kapit,2022,other_noncitizen,400
+Sarawak,Kapit,2022,indian,0
+Sarawak,Kapit,2022,other_citizen,0
+Sarawak,Kanowit,2022,bumi_other,21000
+Sarawak,Kanowit,2022,chinese,2100
+Sarawak,Kanowit,2022,bumi_malay,1000
+Sarawak,Kanowit,2022,other_noncitizen,400
+Sarawak,Kanowit,2022,indian,0
+Sarawak,Kanowit,2022,other_citizen,0
+Sarawak,Kabong,2022,bumi_malay,9200
+Sarawak,Kabong,2022,bumi_other,8500
+Sarawak,Kabong,2022,chinese,800
+Sarawak,Kabong,2022,other_noncitizen,100
+Sarawak,Kabong,2022,indian,0
+Sarawak,Kabong,2022,other_citizen,0
+Sarawak,Julau,2022,bumi_other,14700
+Sarawak,Julau,2022,chinese,400
+Sarawak,Julau,2022,bumi_malay,200
+Sarawak,Julau,2022,indian,0
+Sarawak,Julau,2022,other_citizen,0
+Sarawak,Julau,2022,other_noncitizen,0
+Sarawak,Daro,2022,bumi_other,16400
+Sarawak,Daro,2022,other_noncitizen,2000
+Sarawak,Daro,2022,bumi_malay,900
+Sarawak,Daro,2022,chinese,200
+Sarawak,Daro,2022,other_citizen,100
+Sarawak,Daro,2022,indian,0
+Sarawak,Dalat,2022,bumi_other,16700
+Sarawak,Dalat,2022,other_noncitizen,2600
+Sarawak,Dalat,2022,chinese,1100
+Sarawak,Dalat,2022,bumi_malay,700
+Sarawak,Dalat,2022,indian,0
+Sarawak,Dalat,2022,other_citizen,0
+Sarawak,Bukit Mabong,2022,bumi_other,9500
+Sarawak,Bukit Mabong,2022,other_noncitizen,700
+Sarawak,Bukit Mabong,2022,chinese,200
+Sarawak,Bukit Mabong,2022,bumi_malay,100
+Sarawak,Bukit Mabong,2022,indian,0
+Sarawak,Bukit Mabong,2022,other_citizen,0
+Sarawak,Bintulu,2022,bumi_other,105500
+Sarawak,Bintulu,2022,chinese,33600
+Sarawak,Bintulu,2022,bumi_malay,25000
+Sarawak,Bintulu,2022,other_noncitizen,14800
+Sarawak,Bintulu,2022,other_citizen,600
+Sarawak,Bintulu,2022,indian,300
+Sarawak,Betong,2022,bumi_other,19800
+Sarawak,Betong,2022,bumi_malay,15100
+Sarawak,Betong,2022,chinese,1300
+Sarawak,Betong,2022,other_noncitizen,300
+Sarawak,Betong,2022,indian,0
+Sarawak,Betong,2022,other_citizen,0
+Sarawak,Beluru,2022,bumi_other,16800
+Sarawak,Beluru,2022,other_noncitizen,7800
+Sarawak,Beluru,2022,bumi_malay,2900
+Sarawak,Beluru,2022,chinese,500
+Sarawak,Beluru,2022,other_citizen,100
+Sarawak,Beluru,2022,indian,0
+Sarawak,Belaga,2022,bumi_other,18700
+Sarawak,Belaga,2022,other_noncitizen,2800
+Sarawak,Belaga,2022,bumi_malay,700
+Sarawak,Belaga,2022,chinese,400
+Sarawak,Belaga,2022,other_citizen,100
+Sarawak,Belaga,2022,indian,0
+Sarawak,Bau,2022,bumi_other,38400
+Sarawak,Bau,2022,chinese,8700
+Sarawak,Bau,2022,bumi_malay,4800
+Sarawak,Bau,2022,other_noncitizen,1000
+Sarawak,Bau,2022,indian,100
+Sarawak,Bau,2022,other_citizen,100
+Sarawak,Asajaya,2022,bumi_malay,29300
+Sarawak,Asajaya,2022,bumi_other,3000
+Sarawak,Asajaya,2022,chinese,1500
+Sarawak,Asajaya,2022,other_noncitizen,300
+Sarawak,Asajaya,2022,indian,0
+Sarawak,Asajaya,2022,other_citizen,0

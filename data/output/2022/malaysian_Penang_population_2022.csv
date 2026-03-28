@@ -1,31 +1,31 @@
 state,district,date,ethnicity,population
 Penang,Timur Laut,2022,chinese,322100
-Penang,Seberang Perai Utara,2022,bumi_malay,206200
-Penang,Seberang Perai Tengah,2022,bumi_malay,188600
-Penang,Seberang Perai Tengah,2022,chinese,150100
-Penang,Barat Daya,2022,bumi_malay,128400
 Penang,Timur Laut,2022,bumi_malay,119900
-Penang,Seberang Perai Utara,2022,chinese,95400
-Penang,Barat Daya,2022,chinese,82100
-Penang,Seberang Perai Selatan,2022,bumi_malay,78300
-Penang,Seberang Perai Selatan,2022,chinese,65500
 Penang,Timur Laut,2022,indian,51300
 Penang,Timur Laut,2022,other_noncitizen,49700
-Penang,Seberang Perai Tengah,2022,other_noncitizen,42600
-Penang,Seberang Perai Tengah,2022,indian,37900
-Penang,Seberang Perai Selatan,2022,indian,30100
-Penang,Seberang Perai Utara,2022,indian,22500
-Penang,Seberang Perai Utara,2022,other_noncitizen,15400
-Penang,Barat Daya,2022,other_noncitizen,13500
-Penang,Barat Daya,2022,indian,13400
-Penang,Seberang Perai Selatan,2022,other_noncitizen,10800
 Penang,Timur Laut,2022,other_citizen,5300
 Penang,Timur Laut,2022,bumi_other,3500
-Penang,Seberang Perai Tengah,2022,other_citizen,2300
-Penang,Seberang Perai Tengah,2022,bumi_other,1300
-Penang,Barat Daya,2022,bumi_other,1100
-Penang,Barat Daya,2022,other_citizen,1100
+Penang,Seberang Perai Utara,2022,bumi_malay,206200
+Penang,Seberang Perai Utara,2022,chinese,95400
+Penang,Seberang Perai Utara,2022,indian,22500
+Penang,Seberang Perai Utara,2022,other_noncitizen,15400
 Penang,Seberang Perai Utara,2022,other_citizen,1100
 Penang,Seberang Perai Utara,2022,bumi_other,900
+Penang,Seberang Perai Tengah,2022,bumi_malay,188600
+Penang,Seberang Perai Tengah,2022,chinese,150100
+Penang,Seberang Perai Tengah,2022,other_noncitizen,42600
+Penang,Seberang Perai Tengah,2022,indian,37900
+Penang,Seberang Perai Tengah,2022,other_citizen,2300
+Penang,Seberang Perai Tengah,2022,bumi_other,1300
+Penang,Seberang Perai Selatan,2022,bumi_malay,78300
+Penang,Seberang Perai Selatan,2022,chinese,65500
+Penang,Seberang Perai Selatan,2022,indian,30100
+Penang,Seberang Perai Selatan,2022,other_noncitizen,10800
 Penang,Seberang Perai Selatan,2022,other_citizen,500
 Penang,Seberang Perai Selatan,2022,bumi_other,300
+Penang,Barat Daya,2022,bumi_malay,128400
+Penang,Barat Daya,2022,chinese,82100
+Penang,Barat Daya,2022,other_noncitizen,13500
+Penang,Barat Daya,2022,indian,13400
+Penang,Barat Daya,2022,bumi_other,1100
+Penang,Barat Daya,2022,other_citizen,1100

@@ -1,0 +1,49 @@
+state,district,date,ethnicity,population
+Terengganu,Setiu,2023,bumi_malay,60800
+Terengganu,Setiu,2023,other_noncitizen,1900
+Terengganu,Setiu,2023,bumi_other,100
+Terengganu,Setiu,2023,chinese,100
+Terengganu,Setiu,2023,other_citizen,100
+Terengganu,Setiu,2023,indian,0
+Terengganu,Marang,2023,bumi_malay,120000
+Terengganu,Marang,2023,other_noncitizen,2200
+Terengganu,Marang,2023,chinese,1500
+Terengganu,Marang,2023,bumi_other,200
+Terengganu,Marang,2023,other_citizen,200
+Terengganu,Marang,2023,indian,0
+Terengganu,Kuala Terengganu,2023,bumi_malay,227900
+Terengganu,Kuala Terengganu,2023,chinese,7000
+Terengganu,Kuala Terengganu,2023,other_noncitizen,4800
+Terengganu,Kuala Terengganu,2023,bumi_other,500
+Terengganu,Kuala Terengganu,2023,indian,500
+Terengganu,Kuala Terengganu,2023,other_citizen,300
+Terengganu,Kuala Nerus,2023,bumi_malay,147800
+Terengganu,Kuala Nerus,2023,other_noncitizen,2800
+Terengganu,Kuala Nerus,2023,chinese,1800
+Terengganu,Kuala Nerus,2023,indian,500
+Terengganu,Kuala Nerus,2023,bumi_other,400
+Terengganu,Kuala Nerus,2023,other_citizen,200
+Terengganu,Kemaman,2023,bumi_malay,206800
+Terengganu,Kemaman,2023,other_noncitizen,10000
+Terengganu,Kemaman,2023,chinese,7800
+Terengganu,Kemaman,2023,bumi_other,900
+Terengganu,Kemaman,2023,indian,700
+Terengganu,Kemaman,2023,other_citizen,300
+Terengganu,Hulu Terengganu,2023,bumi_malay,67900
+Terengganu,Hulu Terengganu,2023,other_noncitizen,4800
+Terengganu,Hulu Terengganu,2023,bumi_other,600
+Terengganu,Hulu Terengganu,2023,other_citizen,300
+Terengganu,Hulu Terengganu,2023,chinese,100
+Terengganu,Hulu Terengganu,2023,indian,0
+Terengganu,Dungun,2023,bumi_malay,157700
+Terengganu,Dungun,2023,other_noncitizen,3700
+Terengganu,Dungun,2023,chinese,3300
+Terengganu,Dungun,2023,bumi_other,300
+Terengganu,Dungun,2023,other_citizen,300
+Terengganu,Dungun,2023,indian,100
+Terengganu,Besut,2023,bumi_malay,156200
+Terengganu,Besut,2023,other_noncitizen,4200
+Terengganu,Besut,2023,chinese,1300
+Terengganu,Besut,2023,other_citizen,500
+Terengganu,Besut,2023,bumi_other,300
+Terengganu,Besut,2023,indian,100

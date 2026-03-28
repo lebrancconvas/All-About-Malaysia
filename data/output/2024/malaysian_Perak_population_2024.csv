@@ -1,79 +1,79 @@
 state,district,date,ethnicity,population
-Perak,Kinta,2024,bumi_malay,410900
-Perak,Kinta,2024,chinese,316500
-Perak,Larut Dan Matang,2024,bumi_malay,176200
-Perak,Manjung,2024,bumi_malay,137400
-Perak,Kerian,2024,bumi_malay,127900
-Perak,Kinta,2024,indian,111000
-Perak,Kuala Kangsar,2024,bumi_malay,106400
-Perak,Perak Tengah,2024,bumi_malay,87900
-Perak,Hilir Perak,2024,bumi_malay,74700
-Perak,Hulu Perak,2024,bumi_malay,71300
-Perak,Kinta,2024,other_noncitizen,70200
-Perak,Batang Padang,2024,bumi_malay,67200
-Perak,Manjung,2024,chinese,65099
-Perak,Larut Dan Matang,2024,chinese,60200
-Perak,Muallim,2024,bumi_malay,53600
-Perak,Kampar,2024,chinese,45600
-Perak,Bagan Datuk,2024,bumi_malay,41600
-Perak,Hilir Perak,2024,chinese,36800
-Perak,Kampar,2024,bumi_malay,34500
-Perak,Kuala Kangsar,2024,chinese,32800
 Perak,Selama,2024,bumi_malay,31200
-Perak,Manjung,2024,indian,29600
-Perak,Larut Dan Matang,2024,indian,25000
-Perak,Kerian,2024,chinese,24900
-Perak,Kuala Kangsar,2024,indian,22800
-Perak,Batang Padang,2024,chinese,19800
-Perak,Manjung,2024,other_noncitizen,19100
-Perak,Batang Padang,2024,bumi_other,18400
-Perak,Bagan Datuk,2024,indian,17000
-Perak,Hilir Perak,2024,indian,16900
-Perak,Batang Padang,2024,indian,15400
-Perak,Larut Dan Matang,2024,other_noncitizen,14400
-Perak,Bagan Datuk,2024,chinese,14200
-Perak,Hulu Perak,2024,bumi_other,13400
-Perak,Kinta,2024,bumi_other,11100
-Perak,Kuala Kangsar,2024,bumi_other,10600
-Perak,Hilir Perak,2024,other_noncitizen,10300
-Perak,Kerian,2024,indian,10100
-Perak,Bagan Datuk,2024,other_noncitizen,10100
-Perak,Kampar,2024,indian,10000
-Perak,Muallim,2024,indian,8200
-Perak,Muallim,2024,bumi_other,7400
-Perak,Kuala Kangsar,2024,other_noncitizen,6900
-Perak,Hulu Perak,2024,chinese,6300
-Perak,Muallim,2024,chinese,6300
-Perak,Kerian,2024,other_noncitizen,5900
-Perak,Perak Tengah,2024,other_noncitizen,5200
-Perak,Kampar,2024,other_noncitizen,5100
-Perak,Batang Padang,2024,other_noncitizen,5100
-Perak,Kampar,2024,bumi_other,4500
-Perak,Hulu Perak,2024,other_noncitizen,3700
-Perak,Kinta,2024,other_citizen,3600
-Perak,Perak Tengah,2024,bumi_other,3300
-Perak,Muallim,2024,other_noncitizen,3300
-Perak,Manjung,2024,bumi_other,2900
-Perak,Hilir Perak,2024,bumi_other,2400
-Perak,Hulu Perak,2024,indian,2000
-Perak,Hulu Perak,2024,other_citizen,1600
 Perak,Selama,2024,indian,1400
-Perak,Larut Dan Matang,2024,bumi_other,1400
 Perak,Selama,2024,chinese,1300
-Perak,Perak Tengah,2024,indian,1300
 Perak,Selama,2024,other_noncitizen,1100
-Perak,Larut Dan Matang,2024,other_citizen,900
-Perak,Manjung,2024,other_citizen,900
-Perak,Perak Tengah,2024,chinese,800
-Perak,Batang Padang,2024,other_citizen,800
-Perak,Kerian,2024,other_citizen,700
-Perak,Hilir Perak,2024,other_citizen,700
-Perak,Muallim,2024,other_citizen,500
-Perak,Kampar,2024,other_citizen,400
-Perak,Kuala Kangsar,2024,other_citizen,400
-Perak,Bagan Datuk,2024,bumi_other,300
-Perak,Kerian,2024,bumi_other,200
-Perak,Bagan Datuk,2024,other_citizen,200
-Perak,Perak Tengah,2024,other_citizen,200
 Perak,Selama,2024,bumi_other,100
 Perak,Selama,2024,other_citizen,0
+Perak,Perak Tengah,2024,bumi_malay,87900
+Perak,Perak Tengah,2024,other_noncitizen,5200
+Perak,Perak Tengah,2024,bumi_other,3300
+Perak,Perak Tengah,2024,indian,1300
+Perak,Perak Tengah,2024,chinese,800
+Perak,Perak Tengah,2024,other_citizen,200
+Perak,Muallim,2024,bumi_malay,53600
+Perak,Muallim,2024,indian,8200
+Perak,Muallim,2024,bumi_other,7400
+Perak,Muallim,2024,chinese,6300
+Perak,Muallim,2024,other_noncitizen,3300
+Perak,Muallim,2024,other_citizen,500
+Perak,Manjung,2024,bumi_malay,137400
+Perak,Manjung,2024,chinese,65099
+Perak,Manjung,2024,indian,29600
+Perak,Manjung,2024,other_noncitizen,19100
+Perak,Manjung,2024,bumi_other,2900
+Perak,Manjung,2024,other_citizen,900
+Perak,Larut Dan Matang,2024,bumi_malay,176200
+Perak,Larut Dan Matang,2024,chinese,60200
+Perak,Larut Dan Matang,2024,indian,25000
+Perak,Larut Dan Matang,2024,other_noncitizen,14400
+Perak,Larut Dan Matang,2024,bumi_other,1400
+Perak,Larut Dan Matang,2024,other_citizen,900
+Perak,Kuala Kangsar,2024,bumi_malay,106400
+Perak,Kuala Kangsar,2024,chinese,32800
+Perak,Kuala Kangsar,2024,indian,22800
+Perak,Kuala Kangsar,2024,bumi_other,10600
+Perak,Kuala Kangsar,2024,other_noncitizen,6900
+Perak,Kuala Kangsar,2024,other_citizen,400
+Perak,Kinta,2024,bumi_malay,410900
+Perak,Kinta,2024,chinese,316500
+Perak,Kinta,2024,indian,111000
+Perak,Kinta,2024,other_noncitizen,70200
+Perak,Kinta,2024,bumi_other,11100
+Perak,Kinta,2024,other_citizen,3600
+Perak,Kerian,2024,bumi_malay,127900
+Perak,Kerian,2024,chinese,24900
+Perak,Kerian,2024,indian,10100
+Perak,Kerian,2024,other_noncitizen,5900
+Perak,Kerian,2024,other_citizen,700
+Perak,Kerian,2024,bumi_other,200
+Perak,Kampar,2024,chinese,45600
+Perak,Kampar,2024,bumi_malay,34500
+Perak,Kampar,2024,indian,10000
+Perak,Kampar,2024,other_noncitizen,5100
+Perak,Kampar,2024,bumi_other,4500
+Perak,Kampar,2024,other_citizen,400
+Perak,Hulu Perak,2024,bumi_malay,71300
+Perak,Hulu Perak,2024,bumi_other,13400
+Perak,Hulu Perak,2024,chinese,6300
+Perak,Hulu Perak,2024,other_noncitizen,3700
+Perak,Hulu Perak,2024,indian,2000
+Perak,Hulu Perak,2024,other_citizen,1600
+Perak,Hilir Perak,2024,bumi_malay,74700
+Perak,Hilir Perak,2024,chinese,36800
+Perak,Hilir Perak,2024,indian,16900
+Perak,Hilir Perak,2024,other_noncitizen,10300
+Perak,Hilir Perak,2024,bumi_other,2400
+Perak,Hilir Perak,2024,other_citizen,700
+Perak,Batang Padang,2024,bumi_malay,67200
+Perak,Batang Padang,2024,chinese,19800
+Perak,Batang Padang,2024,bumi_other,18400
+Perak,Batang Padang,2024,indian,15400
+Perak,Batang Padang,2024,other_noncitizen,5100
+Perak,Batang Padang,2024,other_citizen,800
+Perak,Bagan Datuk,2024,bumi_malay,41600
+Perak,Bagan Datuk,2024,indian,17000
+Perak,Bagan Datuk,2024,chinese,14200
+Perak,Bagan Datuk,2024,other_noncitizen,10100
+Perak,Bagan Datuk,2024,bumi_other,300
+Perak,Bagan Datuk,2024,other_citizen,200

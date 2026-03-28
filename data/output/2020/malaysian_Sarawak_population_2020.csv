@@ -1,241 +1,241 @@
 state,district,date,ethnicity,population
+Sarawak,Telang Usan,2020,bumi_other,16900
+Sarawak,Telang Usan,2020,bumi_malay,200
+Sarawak,Telang Usan,2020,chinese,200
+Sarawak,Telang Usan,2020,other_noncitizen,100
+Sarawak,Telang Usan,2020,indian,0
+Sarawak,Telang Usan,2020,other_citizen,0
+Sarawak,Tebedu,2020,bumi_other,23800
+Sarawak,Tebedu,2020,bumi_malay,600
+Sarawak,Tebedu,2020,chinese,400
+Sarawak,Tebedu,2020,other_noncitizen,400
+Sarawak,Tebedu,2020,indian,0
+Sarawak,Tebedu,2020,other_citizen,0
+Sarawak,Tatau,2020,bumi_other,25600
+Sarawak,Tatau,2020,other_noncitizen,3500
+Sarawak,Tatau,2020,bumi_malay,1400
+Sarawak,Tatau,2020,chinese,1300
+Sarawak,Tatau,2020,other_citizen,200
+Sarawak,Tatau,2020,indian,0
+Sarawak,Tanjung Manis,2020,bumi_other,6400
+Sarawak,Tanjung Manis,2020,bumi_malay,900
+Sarawak,Tanjung Manis,2020,other_noncitizen,600
+Sarawak,Tanjung Manis,2020,chinese,100
+Sarawak,Tanjung Manis,2020,indian,0
+Sarawak,Tanjung Manis,2020,other_citizen,0
+Sarawak,Subis,2020,bumi_other,33700
+Sarawak,Subis,2020,other_noncitizen,14700
+Sarawak,Subis,2020,bumi_malay,6600
+Sarawak,Subis,2020,chinese,2000
+Sarawak,Subis,2020,other_citizen,400
+Sarawak,Subis,2020,indian,0
+Sarawak,Sri Aman,2020,bumi_other,38400
+Sarawak,Sri Aman,2020,bumi_malay,14100
+Sarawak,Sri Aman,2020,chinese,7300
+Sarawak,Sri Aman,2020,other_noncitizen,1400
+Sarawak,Sri Aman,2020,other_citizen,100
+Sarawak,Sri Aman,2020,indian,0
+Sarawak,Song,2020,bumi_other,8900
+Sarawak,Song,2020,bumi_malay,500
+Sarawak,Song,2020,chinese,500
+Sarawak,Song,2020,indian,0
+Sarawak,Song,2020,other_citizen,0
+Sarawak,Song,2020,other_noncitizen,0
+Sarawak,Simunjan,2020,bumi_malay,19400
+Sarawak,Simunjan,2020,bumi_other,13500
+Sarawak,Simunjan,2020,other_noncitizen,2200
+Sarawak,Simunjan,2020,chinese,900
+Sarawak,Simunjan,2020,other_citizen,300
+Sarawak,Simunjan,2020,indian,0
+Sarawak,Sibu,2020,chinese,114500
+Sarawak,Sibu,2020,bumi_other,94900
+Sarawak,Sibu,2020,bumi_malay,24600
+Sarawak,Sibu,2020,other_noncitizen,13200
+Sarawak,Sibu,2020,other_citizen,600
+Sarawak,Sibu,2020,indian,200
+Sarawak,Serian,2020,bumi_other,59300
+Sarawak,Serian,2020,chinese,14400
+Sarawak,Serian,2020,bumi_malay,9800
+Sarawak,Serian,2020,other_noncitizen,1600
+Sarawak,Serian,2020,indian,100
+Sarawak,Serian,2020,other_citizen,100
+Sarawak,Selangau,2020,bumi_other,17800
+Sarawak,Selangau,2020,other_noncitizen,1200
+Sarawak,Selangau,2020,chinese,500
+Sarawak,Selangau,2020,bumi_malay,300
+Sarawak,Selangau,2020,indian,0
+Sarawak,Selangau,2020,other_citizen,0
+Sarawak,Sebauh,2020,bumi_other,18800
+Sarawak,Sebauh,2020,other_noncitizen,8900
+Sarawak,Sebauh,2020,bumi_malay,1100
+Sarawak,Sebauh,2020,chinese,700
+Sarawak,Sebauh,2020,other_citizen,100
+Sarawak,Sebauh,2020,indian,0
+Sarawak,Sarikei,2020,bumi_other,19200
+Sarawak,Sarikei,2020,chinese,16900
+Sarawak,Sarikei,2020,bumi_malay,7300
+Sarawak,Sarikei,2020,other_noncitizen,500
+Sarawak,Sarikei,2020,other_citizen,100
+Sarawak,Sarikei,2020,indian,0
+Sarawak,Saratok,2020,bumi_other,15500
+Sarawak,Saratok,2020,bumi_malay,6200
+Sarawak,Saratok,2020,chinese,1200
+Sarawak,Saratok,2020,other_noncitizen,200
+Sarawak,Saratok,2020,indian,0
+Sarawak,Saratok,2020,other_citizen,0
+Sarawak,Samarahan,2020,bumi_malay,57300
+Sarawak,Samarahan,2020,bumi_other,45500
+Sarawak,Samarahan,2020,chinese,23000
+Sarawak,Samarahan,2020,other_noncitizen,1400
+Sarawak,Samarahan,2020,indian,700
+Sarawak,Samarahan,2020,other_citizen,300
+Sarawak,Pusa,2020,bumi_malay,17700
+Sarawak,Pusa,2020,bumi_other,1000
+Sarawak,Pusa,2020,other_noncitizen,700
+Sarawak,Pusa,2020,chinese,200
+Sarawak,Pusa,2020,indian,0
+Sarawak,Pusa,2020,other_citizen,0
+Sarawak,Pakan,2020,bumi_other,15100
+Sarawak,Pakan,2020,chinese,200
+Sarawak,Pakan,2020,bumi_malay,100
+Sarawak,Pakan,2020,other_noncitizen,100
+Sarawak,Pakan,2020,indian,0
+Sarawak,Pakan,2020,other_citizen,0
+Sarawak,Mukah,2020,bumi_other,31300
+Sarawak,Mukah,2020,other_noncitizen,4500
+Sarawak,Mukah,2020,bumi_malay,3200
+Sarawak,Mukah,2020,chinese,3100
+Sarawak,Mukah,2020,other_citizen,100
+Sarawak,Mukah,2020,indian,0
+Sarawak,Miri,2020,bumi_other,113500
+Sarawak,Miri,2020,chinese,73700
+Sarawak,Miri,2020,bumi_malay,47600
+Sarawak,Miri,2020,other_noncitizen,12700
+Sarawak,Miri,2020,indian,700
+Sarawak,Miri,2020,other_citizen,700
+Sarawak,Matu,2020,bumi_other,13000
+Sarawak,Matu,2020,other_noncitizen,2300
+Sarawak,Matu,2020,bumi_malay,500
+Sarawak,Matu,2020,chinese,300
+Sarawak,Matu,2020,other_citizen,100
+Sarawak,Matu,2020,indian,0
+Sarawak,Marudi,2020,bumi_other,11800
+Sarawak,Marudi,2020,bumi_malay,2500
+Sarawak,Marudi,2020,other_noncitizen,2400
+Sarawak,Marudi,2020,chinese,2000
+Sarawak,Marudi,2020,other_citizen,200
+Sarawak,Marudi,2020,indian,0
+Sarawak,Maradong,2020,bumi_other,9300
+Sarawak,Maradong,2020,chinese,7400
+Sarawak,Maradong,2020,bumi_malay,3100
+Sarawak,Maradong,2020,other_noncitizen,400
+Sarawak,Maradong,2020,other_citizen,100
+Sarawak,Maradong,2020,indian,0
+Sarawak,Lundu,2020,bumi_other,16900
+Sarawak,Lundu,2020,bumi_malay,10600
+Sarawak,Lundu,2020,chinese,3200
+Sarawak,Lundu,2020,other_noncitizen,2700
+Sarawak,Lundu,2020,other_citizen,100
+Sarawak,Lundu,2020,indian,0
+Sarawak,Lubok Antu,2020,bumi_other,21600
+Sarawak,Lubok Antu,2020,chinese,1400
+Sarawak,Lubok Antu,2020,bumi_malay,800
+Sarawak,Lubok Antu,2020,other_noncitizen,700
+Sarawak,Lubok Antu,2020,indian,0
+Sarawak,Lubok Antu,2020,other_citizen,0
+Sarawak,Limbang,2020,bumi_other,26900
+Sarawak,Limbang,2020,bumi_malay,11700
+Sarawak,Limbang,2020,chinese,5100
+Sarawak,Limbang,2020,other_noncitizen,1200
+Sarawak,Limbang,2020,other_citizen,100
+Sarawak,Limbang,2020,indian,0
+Sarawak,Lawas,2020,bumi_other,18400
+Sarawak,Lawas,2020,bumi_malay,13800
+Sarawak,Lawas,2020,chinese,2400
+Sarawak,Lawas,2020,other_noncitizen,1800
+Sarawak,Lawas,2020,other_citizen,200
+Sarawak,Lawas,2020,indian,0
 Sarawak,Kuching,2020,bumi_malay,224300
 Sarawak,Kuching,2020,chinese,218700
 Sarawak,Kuching,2020,bumi_other,152200
-Sarawak,Sibu,2020,chinese,114500
-Sarawak,Miri,2020,bumi_other,113500
-Sarawak,Bintulu,2020,bumi_other,104000
-Sarawak,Sibu,2020,bumi_other,94900
-Sarawak,Miri,2020,chinese,73700
-Sarawak,Serian,2020,bumi_other,59300
-Sarawak,Samarahan,2020,bumi_malay,57300
-Sarawak,Miri,2020,bumi_malay,47600
-Sarawak,Samarahan,2020,bumi_other,45500
-Sarawak,Sri Aman,2020,bumi_other,38400
-Sarawak,Bau,2020,bumi_other,38000
-Sarawak,Subis,2020,bumi_other,33700
-Sarawak,Bintulu,2020,chinese,33300
-Sarawak,Kapit,2020,bumi_other,31900
-Sarawak,Mukah,2020,bumi_other,31300
-Sarawak,Asajaya,2020,bumi_malay,28700
-Sarawak,Limbang,2020,bumi_other,26900
-Sarawak,Tatau,2020,bumi_other,25600
-Sarawak,Sibu,2020,bumi_malay,24600
-Sarawak,Bintulu,2020,bumi_malay,24400
-Sarawak,Tebedu,2020,bumi_other,23800
-Sarawak,Samarahan,2020,chinese,23000
-Sarawak,Lubok Antu,2020,bumi_other,21600
-Sarawak,Kanowit,2020,bumi_other,21000
-Sarawak,Betong,2020,bumi_other,19800
-Sarawak,Simunjan,2020,bumi_malay,19400
-Sarawak,Sarikei,2020,bumi_other,19200
-Sarawak,Sebauh,2020,bumi_other,18800
-Sarawak,Lawas,2020,bumi_other,18400
-Sarawak,Belaga,2020,bumi_other,18400
-Sarawak,Selangau,2020,bumi_other,17800
-Sarawak,Pusa,2020,bumi_malay,17700
-Sarawak,Telang Usan,2020,bumi_other,16900
-Sarawak,Sarikei,2020,chinese,16900
-Sarawak,Lundu,2020,bumi_other,16900
-Sarawak,Beluru,2020,bumi_other,16800
-Sarawak,Dalat,2020,bumi_other,16500
-Sarawak,Daro,2020,bumi_other,16200
-Sarawak,Bintulu,2020,other_noncitizen,16000
-Sarawak,Saratok,2020,bumi_other,15500
-Sarawak,Pakan,2020,bumi_other,15100
-Sarawak,Betong,2020,bumi_malay,14800
-Sarawak,Subis,2020,other_noncitizen,14700
-Sarawak,Julau,2020,bumi_other,14600
-Sarawak,Serian,2020,chinese,14400
-Sarawak,Sri Aman,2020,bumi_malay,14100
-Sarawak,Lawas,2020,bumi_malay,13800
-Sarawak,Simunjan,2020,bumi_other,13500
-Sarawak,Sibu,2020,other_noncitizen,13200
-Sarawak,Matu,2020,bumi_other,13000
-Sarawak,Miri,2020,other_noncitizen,12700
-Sarawak,Marudi,2020,bumi_other,11800
-Sarawak,Limbang,2020,bumi_malay,11700
-Sarawak,Lundu,2020,bumi_malay,10600
 Sarawak,Kuching,2020,other_noncitizen,10000
-Sarawak,Serian,2020,bumi_malay,9800
-Sarawak,Maradong,2020,bumi_other,9300
-Sarawak,Bukit Mabong,2020,bumi_other,9100
-Sarawak,Kabong,2020,bumi_malay,9000
-Sarawak,Sebauh,2020,other_noncitizen,8900
-Sarawak,Song,2020,bumi_other,8900
-Sarawak,Bau,2020,chinese,8700
-Sarawak,Kabong,2020,bumi_other,8400
-Sarawak,Beluru,2020,other_noncitizen,8400
-Sarawak,Maradong,2020,chinese,7400
-Sarawak,Sarikei,2020,bumi_malay,7300
-Sarawak,Sri Aman,2020,chinese,7300
-Sarawak,Subis,2020,bumi_malay,6600
-Sarawak,Tanjung Manis,2020,bumi_other,6400
-Sarawak,Saratok,2020,bumi_malay,6200
-Sarawak,Limbang,2020,chinese,5100
-Sarawak,Bau,2020,bumi_malay,4600
-Sarawak,Mukah,2020,other_noncitizen,4500
-Sarawak,Tatau,2020,other_noncitizen,3500
-Sarawak,Mukah,2020,bumi_malay,3200
-Sarawak,Lundu,2020,chinese,3200
-Sarawak,Mukah,2020,chinese,3100
-Sarawak,Maradong,2020,bumi_malay,3100
-Sarawak,Asajaya,2020,bumi_other,3000
-Sarawak,Belaga,2020,other_noncitizen,3000
-Sarawak,Beluru,2020,bumi_malay,2900
-Sarawak,Dalat,2020,other_noncitizen,2800
-Sarawak,Lundu,2020,other_noncitizen,2700
 Sarawak,Kuching,2020,indian,2600
-Sarawak,Marudi,2020,bumi_malay,2500
-Sarawak,Kapit,2020,chinese,2500
-Sarawak,Lawas,2020,chinese,2400
-Sarawak,Marudi,2020,other_noncitizen,2400
-Sarawak,Matu,2020,other_noncitizen,2300
-Sarawak,Simunjan,2020,other_noncitizen,2200
-Sarawak,Daro,2020,other_noncitizen,2200
-Sarawak,Kanowit,2020,chinese,2100
-Sarawak,Marudi,2020,chinese,2000
-Sarawak,Subis,2020,chinese,2000
-Sarawak,Lawas,2020,other_noncitizen,1800
-Sarawak,Serian,2020,other_noncitizen,1600
-Sarawak,Asajaya,2020,chinese,1500
 Sarawak,Kuching,2020,other_citizen,1500
-Sarawak,Samarahan,2020,other_noncitizen,1400
-Sarawak,Lubok Antu,2020,chinese,1400
-Sarawak,Tatau,2020,bumi_malay,1400
-Sarawak,Sri Aman,2020,other_noncitizen,1400
-Sarawak,Tatau,2020,chinese,1300
+Sarawak,Kapit,2020,bumi_other,31900
+Sarawak,Kapit,2020,chinese,2500
 Sarawak,Kapit,2020,bumi_malay,1300
-Sarawak,Betong,2020,chinese,1300
-Sarawak,Selangau,2020,other_noncitizen,1200
-Sarawak,Limbang,2020,other_noncitizen,1200
-Sarawak,Saratok,2020,chinese,1200
-Sarawak,Bau,2020,other_noncitizen,1100
-Sarawak,Dalat,2020,chinese,1100
-Sarawak,Sebauh,2020,bumi_malay,1100
-Sarawak,Pusa,2020,bumi_other,1000
-Sarawak,Kanowit,2020,bumi_malay,1000
-Sarawak,Tanjung Manis,2020,bumi_malay,900
-Sarawak,Simunjan,2020,chinese,900
-Sarawak,Lubok Antu,2020,bumi_malay,800
-Sarawak,Kabong,2020,chinese,800
-Sarawak,Daro,2020,bumi_malay,800
-Sarawak,Sebauh,2020,chinese,700
-Sarawak,Lubok Antu,2020,other_noncitizen,700
-Sarawak,Bukit Mabong,2020,other_noncitizen,700
-Sarawak,Miri,2020,other_citizen,700
-Sarawak,Pusa,2020,other_noncitizen,700
-Sarawak,Samarahan,2020,indian,700
-Sarawak,Miri,2020,indian,700
-Sarawak,Dalat,2020,bumi_malay,700
-Sarawak,Bintulu,2020,other_citizen,600
-Sarawak,Tanjung Manis,2020,other_noncitizen,600
-Sarawak,Sibu,2020,other_citizen,600
-Sarawak,Tebedu,2020,bumi_malay,600
-Sarawak,Belaga,2020,bumi_malay,600
-Sarawak,Song,2020,chinese,500
-Sarawak,Song,2020,bumi_malay,500
-Sarawak,Sarikei,2020,other_noncitizen,500
-Sarawak,Matu,2020,bumi_malay,500
-Sarawak,Beluru,2020,chinese,500
-Sarawak,Selangau,2020,chinese,500
-Sarawak,Kanowit,2020,other_noncitizen,500
-Sarawak,Subis,2020,other_citizen,400
-Sarawak,Tebedu,2020,other_noncitizen,400
-Sarawak,Maradong,2020,other_noncitizen,400
-Sarawak,Belaga,2020,chinese,400
-Sarawak,Tebedu,2020,chinese,400
-Sarawak,Julau,2020,chinese,400
 Sarawak,Kapit,2020,other_noncitizen,400
-Sarawak,Selangau,2020,bumi_malay,300
-Sarawak,Matu,2020,chinese,300
-Sarawak,Samarahan,2020,other_citizen,300
-Sarawak,Bintulu,2020,indian,300
-Sarawak,Betong,2020,other_noncitizen,300
-Sarawak,Asajaya,2020,other_noncitizen,300
-Sarawak,Simunjan,2020,other_citizen,300
-Sarawak,Telang Usan,2020,chinese,200
-Sarawak,Lawas,2020,other_citizen,200
-Sarawak,Daro,2020,chinese,200
-Sarawak,Julau,2020,bumi_malay,200
-Sarawak,Bukit Mabong,2020,chinese,200
-Sarawak,Telang Usan,2020,bumi_malay,200
-Sarawak,Tatau,2020,other_citizen,200
-Sarawak,Pusa,2020,chinese,200
-Sarawak,Sibu,2020,indian,200
-Sarawak,Marudi,2020,other_citizen,200
-Sarawak,Pakan,2020,chinese,200
-Sarawak,Saratok,2020,other_noncitizen,200
-Sarawak,Bau,2020,other_citizen,100
-Sarawak,Belaga,2020,other_citizen,100
-Sarawak,Bukit Mabong,2020,bumi_malay,100
-Sarawak,Kabong,2020,other_noncitizen,100
-Sarawak,Daro,2020,other_citizen,100
-Sarawak,Bau,2020,indian,100
-Sarawak,Beluru,2020,other_citizen,100
-Sarawak,Lundu,2020,other_citizen,100
-Sarawak,Limbang,2020,other_citizen,100
-Sarawak,Tanjung Manis,2020,chinese,100
-Sarawak,Sri Aman,2020,other_citizen,100
-Sarawak,Telang Usan,2020,other_noncitizen,100
-Sarawak,Pakan,2020,bumi_malay,100
-Sarawak,Serian,2020,indian,100
-Sarawak,Serian,2020,other_citizen,100
-Sarawak,Sarikei,2020,other_citizen,100
-Sarawak,Sebauh,2020,other_citizen,100
-Sarawak,Pakan,2020,other_noncitizen,100
-Sarawak,Mukah,2020,other_citizen,100
-Sarawak,Maradong,2020,other_citizen,100
-Sarawak,Matu,2020,other_citizen,100
-Sarawak,Kabong,2020,indian,0
-Sarawak,Julau,2020,indian,0
-Sarawak,Daro,2020,indian,0
-Sarawak,Julau,2020,other_noncitizen,0
-Sarawak,Belaga,2020,indian,0
-Sarawak,Betong,2020,other_citizen,0
-Sarawak,Beluru,2020,indian,0
-Sarawak,Betong,2020,indian,0
-Sarawak,Bukit Mabong,2020,indian,0
-Sarawak,Bukit Mabong,2020,other_citizen,0
-Sarawak,Asajaya,2020,indian,0
-Sarawak,Asajaya,2020,other_citizen,0
-Sarawak,Dalat,2020,indian,0
-Sarawak,Dalat,2020,other_citizen,0
-Sarawak,Julau,2020,other_citizen,0
-Sarawak,Kabong,2020,other_citizen,0
-Sarawak,Kanowit,2020,other_citizen,0
-Sarawak,Kanowit,2020,indian,0
 Sarawak,Kapit,2020,indian,0
 Sarawak,Kapit,2020,other_citizen,0
-Sarawak,Maradong,2020,indian,0
-Sarawak,Lundu,2020,indian,0
-Sarawak,Lubok Antu,2020,indian,0
-Sarawak,Lubok Antu,2020,other_citizen,0
-Sarawak,Lawas,2020,indian,0
-Sarawak,Limbang,2020,indian,0
-Sarawak,Saratok,2020,other_citizen,0
-Sarawak,Sarikei,2020,indian,0
-Sarawak,Matu,2020,indian,0
-Sarawak,Mukah,2020,indian,0
-Sarawak,Marudi,2020,indian,0
-Sarawak,Saratok,2020,indian,0
-Sarawak,Pusa,2020,other_citizen,0
-Sarawak,Pusa,2020,indian,0
-Sarawak,Pakan,2020,indian,0
-Sarawak,Pakan,2020,other_citizen,0
-Sarawak,Sebauh,2020,indian,0
-Sarawak,Sri Aman,2020,indian,0
-Sarawak,Song,2020,other_citizen,0
-Sarawak,Song,2020,indian,0
-Sarawak,Simunjan,2020,indian,0
-Sarawak,Selangau,2020,other_citizen,0
-Sarawak,Selangau,2020,indian,0
-Sarawak,Song,2020,other_noncitizen,0
-Sarawak,Tanjung Manis,2020,other_citizen,0
-Sarawak,Tanjung Manis,2020,indian,0
-Sarawak,Subis,2020,indian,0
-Sarawak,Tatau,2020,indian,0
-Sarawak,Tebedu,2020,indian,0
-Sarawak,Tebedu,2020,other_citizen,0
-Sarawak,Telang Usan,2020,indian,0
-Sarawak,Telang Usan,2020,other_citizen,0
+Sarawak,Kanowit,2020,bumi_other,21000
+Sarawak,Kanowit,2020,chinese,2100
+Sarawak,Kanowit,2020,bumi_malay,1000
+Sarawak,Kanowit,2020,other_noncitizen,500
+Sarawak,Kanowit,2020,indian,0
+Sarawak,Kanowit,2020,other_citizen,0
+Sarawak,Kabong,2020,bumi_malay,9000
+Sarawak,Kabong,2020,bumi_other,8400
+Sarawak,Kabong,2020,chinese,800
+Sarawak,Kabong,2020,other_noncitizen,100
+Sarawak,Kabong,2020,indian,0
+Sarawak,Kabong,2020,other_citizen,0
+Sarawak,Julau,2020,bumi_other,14600
+Sarawak,Julau,2020,chinese,400
+Sarawak,Julau,2020,bumi_malay,200
+Sarawak,Julau,2020,indian,0
+Sarawak,Julau,2020,other_citizen,0
+Sarawak,Julau,2020,other_noncitizen,0
+Sarawak,Daro,2020,bumi_other,16200
+Sarawak,Daro,2020,other_noncitizen,2200
+Sarawak,Daro,2020,bumi_malay,800
+Sarawak,Daro,2020,chinese,200
+Sarawak,Daro,2020,other_citizen,100
+Sarawak,Daro,2020,indian,0
+Sarawak,Dalat,2020,bumi_other,16500
+Sarawak,Dalat,2020,other_noncitizen,2800
+Sarawak,Dalat,2020,chinese,1100
+Sarawak,Dalat,2020,bumi_malay,700
+Sarawak,Dalat,2020,indian,0
+Sarawak,Dalat,2020,other_citizen,0
+Sarawak,Bukit Mabong,2020,bumi_other,9100
+Sarawak,Bukit Mabong,2020,other_noncitizen,700
+Sarawak,Bukit Mabong,2020,chinese,200
+Sarawak,Bukit Mabong,2020,bumi_malay,100
+Sarawak,Bukit Mabong,2020,indian,0
+Sarawak,Bukit Mabong,2020,other_citizen,0
+Sarawak,Bintulu,2020,bumi_other,104000
+Sarawak,Bintulu,2020,chinese,33300
+Sarawak,Bintulu,2020,bumi_malay,24400
+Sarawak,Bintulu,2020,other_noncitizen,16000
+Sarawak,Bintulu,2020,other_citizen,600
+Sarawak,Bintulu,2020,indian,300
+Sarawak,Betong,2020,bumi_other,19800
+Sarawak,Betong,2020,bumi_malay,14800
+Sarawak,Betong,2020,chinese,1300
+Sarawak,Betong,2020,other_noncitizen,300
+Sarawak,Betong,2020,indian,0
+Sarawak,Betong,2020,other_citizen,0
+Sarawak,Beluru,2020,bumi_other,16800
+Sarawak,Beluru,2020,other_noncitizen,8400
+Sarawak,Beluru,2020,bumi_malay,2900
+Sarawak,Beluru,2020,chinese,500
+Sarawak,Beluru,2020,other_citizen,100
+Sarawak,Beluru,2020,indian,0
+Sarawak,Belaga,2020,bumi_other,18400
+Sarawak,Belaga,2020,other_noncitizen,3000
+Sarawak,Belaga,2020,bumi_malay,600
+Sarawak,Belaga,2020,chinese,400
+Sarawak,Belaga,2020,other_citizen,100
+Sarawak,Belaga,2020,indian,0
+Sarawak,Bau,2020,bumi_other,38000
+Sarawak,Bau,2020,chinese,8700
+Sarawak,Bau,2020,bumi_malay,4600
+Sarawak,Bau,2020,other_noncitizen,1100
+Sarawak,Bau,2020,indian,100
+Sarawak,Bau,2020,other_citizen,100
+Sarawak,Asajaya,2020,bumi_malay,28700
+Sarawak,Asajaya,2020,bumi_other,3000
+Sarawak,Asajaya,2020,chinese,1500
+Sarawak,Asajaya,2020,other_noncitizen,300
+Sarawak,Asajaya,2020,indian,0
+Sarawak,Asajaya,2020,other_citizen,0

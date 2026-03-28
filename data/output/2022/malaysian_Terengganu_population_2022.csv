@@ -1,0 +1,49 @@
+state,district,date,ethnicity,population
+Terengganu,Setiu,2022,bumi_malay,59800
+Terengganu,Setiu,2022,other_noncitizen,1400
+Terengganu,Setiu,2022,bumi_other,100
+Terengganu,Setiu,2022,chinese,100
+Terengganu,Setiu,2022,other_citizen,100
+Terengganu,Setiu,2022,indian,0
+Terengganu,Marang,2022,bumi_malay,117900
+Terengganu,Marang,2022,other_noncitizen,1700
+Terengganu,Marang,2022,chinese,1500
+Terengganu,Marang,2022,bumi_other,200
+Terengganu,Marang,2022,other_citizen,200
+Terengganu,Marang,2022,indian,0
+Terengganu,Kuala Terengganu,2022,bumi_malay,224100
+Terengganu,Kuala Terengganu,2022,chinese,7100
+Terengganu,Kuala Terengganu,2022,other_noncitizen,4200
+Terengganu,Kuala Terengganu,2022,bumi_other,500
+Terengganu,Kuala Terengganu,2022,indian,500
+Terengganu,Kuala Terengganu,2022,other_citizen,300
+Terengganu,Kuala Nerus,2022,bumi_malay,145700
+Terengganu,Kuala Nerus,2022,other_noncitizen,2500
+Terengganu,Kuala Nerus,2022,chinese,1800
+Terengganu,Kuala Nerus,2022,indian,500
+Terengganu,Kuala Nerus,2022,bumi_other,400
+Terengganu,Kuala Nerus,2022,other_citizen,200
+Terengganu,Kemaman,2022,bumi_malay,203900
+Terengganu,Kemaman,2022,other_noncitizen,8000
+Terengganu,Kemaman,2022,chinese,7800
+Terengganu,Kemaman,2022,bumi_other,900
+Terengganu,Kemaman,2022,indian,700
+Terengganu,Kemaman,2022,other_citizen,300
+Terengganu,Hulu Terengganu,2022,bumi_malay,67000
+Terengganu,Hulu Terengganu,2022,other_noncitizen,4200
+Terengganu,Hulu Terengganu,2022,bumi_other,600
+Terengganu,Hulu Terengganu,2022,other_citizen,300
+Terengganu,Hulu Terengganu,2022,chinese,200
+Terengganu,Hulu Terengganu,2022,indian,0
+Terengganu,Dungun,2022,bumi_malay,155300
+Terengganu,Dungun,2022,chinese,3300
+Terengganu,Dungun,2022,other_noncitizen,3200
+Terengganu,Dungun,2022,bumi_other,300
+Terengganu,Dungun,2022,other_citizen,300
+Terengganu,Dungun,2022,indian,100
+Terengganu,Besut,2022,bumi_malay,153800
+Terengganu,Besut,2022,other_noncitizen,3400
+Terengganu,Besut,2022,chinese,1300
+Terengganu,Besut,2022,other_citizen,500
+Terengganu,Besut,2022,bumi_other,300
+Terengganu,Besut,2022,indian,100

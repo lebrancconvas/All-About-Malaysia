@@ -1,67 +1,67 @@
 state,district,date,ethnicity,population
-Kelantan,Kota Bharu,2023,bumi_malay,541600
-Kelantan,Pasir Mas,2023,bumi_malay,230200
 Kelantan,Tumpat,2023,bumi_malay,171300
-Kelantan,Bachok,2023,bumi_malay,159700
-Kelantan,Tanah Merah,2023,bumi_malay,145300
-Kelantan,Pasir Puteh,2023,bumi_malay,138400
-Kelantan,Machang,2023,bumi_malay,111700
-Kelantan,Kuala Krai,2023,bumi_malay,100100
-Kelantan,Gua Musang,2023,bumi_malay,82400
-Kelantan,Jeli,2023,bumi_malay,54000
-Kelantan,Kota Bharu,2023,chinese,16800
-Kelantan,Kota Bharu,2023,other_noncitizen,12300
-Kelantan,Gua Musang,2023,bumi_other,9900
-Kelantan,Gua Musang,2023,other_noncitizen,9000
-Kelantan,Kecil Lojing,2023,bumi_other,8000
 Kelantan,Tumpat,2023,chinese,7300
 Kelantan,Tumpat,2023,other_citizen,5900
-Kelantan,Gua Musang,2023,chinese,4700
-Kelantan,Tanah Merah,2023,other_noncitizen,4700
-Kelantan,Tanah Merah,2023,chinese,4700
-Kelantan,Kuala Krai,2023,other_noncitizen,4500
-Kelantan,Kuala Krai,2023,chinese,3500
-Kelantan,Pasir Mas,2023,chinese,3300
-Kelantan,Pasir Mas,2023,other_noncitizen,2900
-Kelantan,Kecil Lojing,2023,bumi_malay,2100
-Kelantan,Kota Bharu,2023,bumi_other,2000
-Kelantan,Machang,2023,chinese,1900
-Kelantan,Kota Bharu,2023,other_citizen,1600
 Kelantan,Tumpat,2023,other_noncitizen,1600
-Kelantan,Jeli,2023,other_noncitizen,1600
-Kelantan,Kota Bharu,2023,indian,1500
-Kelantan,Bachok,2023,other_noncitizen,1300
-Kelantan,Bachok,2023,chinese,1300
-Kelantan,Machang,2023,other_noncitizen,1100
-Kelantan,Pasir Puteh,2023,other_noncitizen,1000
-Kelantan,Jeli,2023,bumi_other,1000
-Kelantan,Gua Musang,2023,indian,800
-Kelantan,Pasir Mas,2023,other_citizen,800
-Kelantan,Pasir Puteh,2023,other_citizen,800
-Kelantan,Kuala Krai,2023,indian,800
-Kelantan,Tanah Merah,2023,other_citizen,700
-Kelantan,Kecil Lojing,2023,indian,600
-Kelantan,Pasir Puteh,2023,chinese,600
-Kelantan,Tanah Merah,2023,indian,400
-Kelantan,Bachok,2023,other_citizen,400
-Kelantan,Kecil Lojing,2023,other_noncitizen,400
-Kelantan,Machang,2023,bumi_other,300
-Kelantan,Tanah Merah,2023,bumi_other,300
-Kelantan,Gua Musang,2023,other_citizen,300
 Kelantan,Tumpat,2023,bumi_other,200
 Kelantan,Tumpat,2023,indian,200
-Kelantan,Kuala Krai,2023,other_citizen,200
+Kelantan,Tanah Merah,2023,bumi_malay,145300
+Kelantan,Tanah Merah,2023,chinese,4700
+Kelantan,Tanah Merah,2023,other_noncitizen,4700
+Kelantan,Tanah Merah,2023,other_citizen,700
+Kelantan,Tanah Merah,2023,indian,400
+Kelantan,Tanah Merah,2023,bumi_other,300
+Kelantan,Pasir Puteh,2023,bumi_malay,138400
+Kelantan,Pasir Puteh,2023,other_noncitizen,1000
+Kelantan,Pasir Puteh,2023,other_citizen,800
+Kelantan,Pasir Puteh,2023,chinese,600
 Kelantan,Pasir Puteh,2023,bumi_other,200
-Kelantan,Jeli,2023,indian,200
-Kelantan,Bachok,2023,bumi_other,200
-Kelantan,Pasir Mas,2023,bumi_other,200
-Kelantan,Jeli,2023,chinese,100
-Kelantan,Kuala Krai,2023,bumi_other,100
-Kelantan,Jeli,2023,other_citizen,100
-Kelantan,Bachok,2023,indian,100
 Kelantan,Pasir Puteh,2023,indian,100
+Kelantan,Pasir Mas,2023,bumi_malay,230200
+Kelantan,Pasir Mas,2023,chinese,3300
+Kelantan,Pasir Mas,2023,other_noncitizen,2900
+Kelantan,Pasir Mas,2023,other_citizen,800
+Kelantan,Pasir Mas,2023,bumi_other,200
+Kelantan,Pasir Mas,2023,indian,0
+Kelantan,Machang,2023,bumi_malay,111700
+Kelantan,Machang,2023,chinese,1900
+Kelantan,Machang,2023,other_noncitizen,1100
+Kelantan,Machang,2023,bumi_other,300
 Kelantan,Machang,2023,indian,100
 Kelantan,Machang,2023,other_citizen,100
+Kelantan,Kuala Krai,2023,bumi_malay,100100
+Kelantan,Kuala Krai,2023,other_noncitizen,4500
+Kelantan,Kuala Krai,2023,chinese,3500
+Kelantan,Kuala Krai,2023,indian,800
+Kelantan,Kuala Krai,2023,other_citizen,200
+Kelantan,Kuala Krai,2023,bumi_other,100
+Kelantan,Kota Bharu,2023,bumi_malay,541600
+Kelantan,Kota Bharu,2023,chinese,16800
+Kelantan,Kota Bharu,2023,other_noncitizen,12300
+Kelantan,Kota Bharu,2023,bumi_other,2000
+Kelantan,Kota Bharu,2023,other_citizen,1600
+Kelantan,Kota Bharu,2023,indian,1500
+Kelantan,Kecil Lojing,2023,bumi_other,8000
+Kelantan,Kecil Lojing,2023,bumi_malay,2100
+Kelantan,Kecil Lojing,2023,indian,600
+Kelantan,Kecil Lojing,2023,other_noncitizen,400
 Kelantan,Kecil Lojing,2023,chinese,0
-Kelantan,Pasir Mas,2023,indian,0
 Kelantan,Kecil Lojing,2023,other_citizen,0
+Kelantan,Jeli,2023,bumi_malay,54000
+Kelantan,Jeli,2023,other_noncitizen,1600
+Kelantan,Jeli,2023,bumi_other,1000
+Kelantan,Jeli,2023,indian,200
+Kelantan,Jeli,2023,chinese,100
+Kelantan,Jeli,2023,other_citizen,100
+Kelantan,Gua Musang,2023,bumi_malay,82400
+Kelantan,Gua Musang,2023,bumi_other,9900
+Kelantan,Gua Musang,2023,other_noncitizen,9000
+Kelantan,Gua Musang,2023,chinese,4700
+Kelantan,Gua Musang,2023,indian,800
+Kelantan,Gua Musang,2023,other_citizen,300
+Kelantan,Bachok,2023,bumi_malay,159700
+Kelantan,Bachok,2023,chinese,1300
+Kelantan,Bachok,2023,other_noncitizen,1300
+Kelantan,Bachok,2023,other_citizen,400
+Kelantan,Bachok,2023,bumi_other,200
+Kelantan,Bachok,2023,indian,100
