@@ -1,19 +1,19 @@
-state,district,date,ethnicity,population
-Melaka,Melaka Tengah,2020,bumi_malay,360400
-Melaka,Melaka Tengah,2020,chinese,164400
-Melaka,Melaka Tengah,2020,other_noncitizen,39700
-Melaka,Melaka Tengah,2020,indian,22100
-Melaka,Melaka Tengah,2020,bumi_other,6600
-Melaka,Melaka Tengah,2020,other_citizen,3900
-Melaka,Jasin,2020,bumi_malay,111900
-Melaka,Jasin,2020,other_noncitizen,13200
-Melaka,Jasin,2020,chinese,12900
-Melaka,Jasin,2020,indian,12000
-Melaka,Jasin,2020,bumi_other,1300
-Melaka,Jasin,2020,other_citizen,500
-Melaka,Alor Gajah,2020,bumi_malay,181600
-Melaka,Alor Gajah,2020,chinese,27900
-Melaka,Alor Gajah,2020,indian,18200
-Melaka,Alor Gajah,2020,other_noncitizen,18100
-Melaka,Alor Gajah,2020,bumi_other,2800
-Melaka,Alor Gajah,2020,other_citizen,700
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+Melaka,Melaka Tengah,2020,bumi_malay,360400,597100,60.36
+Melaka,Melaka Tengah,2020,chinese,164400,597100,27.53
+Melaka,Melaka Tengah,2020,other_noncitizen,39700,597100,6.65
+Melaka,Melaka Tengah,2020,indian,22100,597100,3.7
+Melaka,Melaka Tengah,2020,bumi_other,6600,597100,1.11
+Melaka,Melaka Tengah,2020,other_citizen,3900,597100,0.65
+Melaka,Jasin,2020,bumi_malay,111900,151800,73.72
+Melaka,Jasin,2020,other_noncitizen,13200,151800,8.7
+Melaka,Jasin,2020,chinese,12900,151800,8.5
+Melaka,Jasin,2020,indian,12000,151800,7.91
+Melaka,Jasin,2020,bumi_other,1300,151800,0.86
+Melaka,Jasin,2020,other_citizen,500,151800,0.33
+Melaka,Alor Gajah,2020,bumi_malay,181600,249300,72.84
+Melaka,Alor Gajah,2020,chinese,27900,249300,11.19
+Melaka,Alor Gajah,2020,indian,18200,249300,7.3
+Melaka,Alor Gajah,2020,other_noncitizen,18100,249300,7.26
+Melaka,Alor Gajah,2020,bumi_other,2800,249300,1.12
+Melaka,Alor Gajah,2020,other_citizen,700,249300,0.28

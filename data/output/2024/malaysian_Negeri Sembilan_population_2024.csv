@@ -1,43 +1,43 @@
-state,district,date,ethnicity,population
-Negeri Sembilan,Tampin,2024,bumi_malay,52100
-Negeri Sembilan,Tampin,2024,chinese,19100
-Negeri Sembilan,Tampin,2024,indian,11600
-Negeri Sembilan,Tampin,2024,other_noncitizen,5600
-Negeri Sembilan,Tampin,2024,bumi_other,2000
-Negeri Sembilan,Tampin,2024,other_citizen,200
-Negeri Sembilan,Seremban,2024,bumi_malay,400400
-Negeri Sembilan,Seremban,2024,chinese,153700
-Negeri Sembilan,Seremban,2024,indian,103700
-Negeri Sembilan,Seremban,2024,other_noncitizen,43000
-Negeri Sembilan,Seremban,2024,bumi_other,7900
-Negeri Sembilan,Seremban,2024,other_citizen,3900
-Negeri Sembilan,Rembau,2024,bumi_malay,39600
-Negeri Sembilan,Rembau,2024,indian,3800
-Negeri Sembilan,Rembau,2024,other_noncitizen,2500
-Negeri Sembilan,Rembau,2024,chinese,2200
-Negeri Sembilan,Rembau,2024,bumi_other,1100
-Negeri Sembilan,Rembau,2024,other_citizen,100
-Negeri Sembilan,Port Dickson,2024,bumi_malay,69100
-Negeri Sembilan,Port Dickson,2024,chinese,31000
-Negeri Sembilan,Port Dickson,2024,indian,23100
-Negeri Sembilan,Port Dickson,2024,other_noncitizen,9100
-Negeri Sembilan,Port Dickson,2024,bumi_other,2200
-Negeri Sembilan,Port Dickson,2024,other_citizen,800
-Negeri Sembilan,Kuala Pilah,2024,bumi_malay,54600
-Negeri Sembilan,Kuala Pilah,2024,chinese,9000
-Negeri Sembilan,Kuala Pilah,2024,indian,3600
-Negeri Sembilan,Kuala Pilah,2024,other_noncitizen,3100
-Negeri Sembilan,Kuala Pilah,2024,bumi_other,1700
-Negeri Sembilan,Kuala Pilah,2024,other_citizen,200
-Negeri Sembilan,Jempol,2024,bumi_malay,83900
-Negeri Sembilan,Jempol,2024,chinese,20900
-Negeri Sembilan,Jempol,2024,indian,15600
-Negeri Sembilan,Jempol,2024,other_noncitizen,6300
-Negeri Sembilan,Jempol,2024,bumi_other,4200
-Negeri Sembilan,Jempol,2024,other_citizen,500
-Negeri Sembilan,Jelebu,2024,bumi_malay,27900
-Negeri Sembilan,Jelebu,2024,chinese,10100
-Negeri Sembilan,Jelebu,2024,other_noncitizen,4900
-Negeri Sembilan,Jelebu,2024,bumi_other,3700
-Negeri Sembilan,Jelebu,2024,indian,1800
-Negeri Sembilan,Jelebu,2024,other_citizen,200
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+Negeri Sembilan,Tampin,2024,bumi_malay,52100,90600,57.51
+Negeri Sembilan,Tampin,2024,chinese,19100,90600,21.08
+Negeri Sembilan,Tampin,2024,indian,11600,90600,12.8
+Negeri Sembilan,Tampin,2024,other_noncitizen,5600,90600,6.18
+Negeri Sembilan,Tampin,2024,bumi_other,2000,90600,2.21
+Negeri Sembilan,Tampin,2024,other_citizen,200,90600,0.22
+Negeri Sembilan,Seremban,2024,bumi_malay,400400,712600,56.19
+Negeri Sembilan,Seremban,2024,chinese,153700,712600,21.57
+Negeri Sembilan,Seremban,2024,indian,103700,712600,14.55
+Negeri Sembilan,Seremban,2024,other_noncitizen,43000,712600,6.03
+Negeri Sembilan,Seremban,2024,bumi_other,7900,712600,1.11
+Negeri Sembilan,Seremban,2024,other_citizen,3900,712600,0.55
+Negeri Sembilan,Rembau,2024,bumi_malay,39600,49300,80.32
+Negeri Sembilan,Rembau,2024,indian,3800,49300,7.71
+Negeri Sembilan,Rembau,2024,other_noncitizen,2500,49300,5.07
+Negeri Sembilan,Rembau,2024,chinese,2200,49300,4.46
+Negeri Sembilan,Rembau,2024,bumi_other,1100,49300,2.23
+Negeri Sembilan,Rembau,2024,other_citizen,100,49300,0.2
+Negeri Sembilan,Port Dickson,2024,bumi_malay,69100,135300,51.07
+Negeri Sembilan,Port Dickson,2024,chinese,31000,135300,22.91
+Negeri Sembilan,Port Dickson,2024,indian,23100,135300,17.07
+Negeri Sembilan,Port Dickson,2024,other_noncitizen,9100,135300,6.73
+Negeri Sembilan,Port Dickson,2024,bumi_other,2200,135300,1.63
+Negeri Sembilan,Port Dickson,2024,other_citizen,800,135300,0.59
+Negeri Sembilan,Kuala Pilah,2024,bumi_malay,54600,72200,75.62
+Negeri Sembilan,Kuala Pilah,2024,chinese,9000,72200,12.47
+Negeri Sembilan,Kuala Pilah,2024,indian,3600,72200,4.99
+Negeri Sembilan,Kuala Pilah,2024,other_noncitizen,3100,72200,4.29
+Negeri Sembilan,Kuala Pilah,2024,bumi_other,1700,72200,2.35
+Negeri Sembilan,Kuala Pilah,2024,other_citizen,200,72200,0.28
+Negeri Sembilan,Jempol,2024,bumi_malay,83900,131400,63.85
+Negeri Sembilan,Jempol,2024,chinese,20900,131400,15.91
+Negeri Sembilan,Jempol,2024,indian,15600,131400,11.87
+Negeri Sembilan,Jempol,2024,other_noncitizen,6300,131400,4.79
+Negeri Sembilan,Jempol,2024,bumi_other,4200,131400,3.2
+Negeri Sembilan,Jempol,2024,other_citizen,500,131400,0.38
+Negeri Sembilan,Jelebu,2024,bumi_malay,27900,48600,57.41
+Negeri Sembilan,Jelebu,2024,chinese,10100,48600,20.78
+Negeri Sembilan,Jelebu,2024,other_noncitizen,4900,48600,10.08
+Negeri Sembilan,Jelebu,2024,bumi_other,3700,48600,7.61
+Negeri Sembilan,Jelebu,2024,indian,1800,48600,3.7
+Negeri Sembilan,Jelebu,2024,other_citizen,200,48600,0.41

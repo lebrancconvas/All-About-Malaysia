@@ -1,7 +1,7 @@
-state,district,date,ethnicity,population
-W.P. Labuan,W.P. Labuan,2023,bumi_other,51000
-W.P. Labuan,W.P. Labuan,2023,bumi_malay,24800
-W.P. Labuan,W.P. Labuan,2023,other_noncitizen,11400
-W.P. Labuan,W.P. Labuan,2023,chinese,9700
-W.P. Labuan,W.P. Labuan,2023,other_citizen,1200
-W.P. Labuan,W.P. Labuan,2023,indian,900
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+W.P. Labuan,W.P. Labuan,2023,bumi_other,51000,99000,51.52
+W.P. Labuan,W.P. Labuan,2023,bumi_malay,24800,99000,25.05
+W.P. Labuan,W.P. Labuan,2023,other_noncitizen,11400,99000,11.52
+W.P. Labuan,W.P. Labuan,2023,chinese,9700,99000,9.8
+W.P. Labuan,W.P. Labuan,2023,other_citizen,1200,99000,1.21
+W.P. Labuan,W.P. Labuan,2023,indian,900,99000,0.91

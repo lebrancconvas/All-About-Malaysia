@@ -1,49 +1,49 @@
-state,district,date,ethnicity,population
-Terengganu,Setiu,2022,bumi_malay,59800
-Terengganu,Setiu,2022,other_noncitizen,1400
-Terengganu,Setiu,2022,bumi_other,100
-Terengganu,Setiu,2022,chinese,100
-Terengganu,Setiu,2022,other_citizen,100
-Terengganu,Setiu,2022,indian,0
-Terengganu,Marang,2022,bumi_malay,117900
-Terengganu,Marang,2022,other_noncitizen,1700
-Terengganu,Marang,2022,chinese,1500
-Terengganu,Marang,2022,bumi_other,200
-Terengganu,Marang,2022,other_citizen,200
-Terengganu,Marang,2022,indian,0
-Terengganu,Kuala Terengganu,2022,bumi_malay,224100
-Terengganu,Kuala Terengganu,2022,chinese,7100
-Terengganu,Kuala Terengganu,2022,other_noncitizen,4200
-Terengganu,Kuala Terengganu,2022,bumi_other,500
-Terengganu,Kuala Terengganu,2022,indian,500
-Terengganu,Kuala Terengganu,2022,other_citizen,300
-Terengganu,Kuala Nerus,2022,bumi_malay,145700
-Terengganu,Kuala Nerus,2022,other_noncitizen,2500
-Terengganu,Kuala Nerus,2022,chinese,1800
-Terengganu,Kuala Nerus,2022,indian,500
-Terengganu,Kuala Nerus,2022,bumi_other,400
-Terengganu,Kuala Nerus,2022,other_citizen,200
-Terengganu,Kemaman,2022,bumi_malay,203900
-Terengganu,Kemaman,2022,other_noncitizen,8000
-Terengganu,Kemaman,2022,chinese,7800
-Terengganu,Kemaman,2022,bumi_other,900
-Terengganu,Kemaman,2022,indian,700
-Terengganu,Kemaman,2022,other_citizen,300
-Terengganu,Hulu Terengganu,2022,bumi_malay,67000
-Terengganu,Hulu Terengganu,2022,other_noncitizen,4200
-Terengganu,Hulu Terengganu,2022,bumi_other,600
-Terengganu,Hulu Terengganu,2022,other_citizen,300
-Terengganu,Hulu Terengganu,2022,chinese,200
-Terengganu,Hulu Terengganu,2022,indian,0
-Terengganu,Dungun,2022,bumi_malay,155300
-Terengganu,Dungun,2022,chinese,3300
-Terengganu,Dungun,2022,other_noncitizen,3200
-Terengganu,Dungun,2022,bumi_other,300
-Terengganu,Dungun,2022,other_citizen,300
-Terengganu,Dungun,2022,indian,100
-Terengganu,Besut,2022,bumi_malay,153800
-Terengganu,Besut,2022,other_noncitizen,3400
-Terengganu,Besut,2022,chinese,1300
-Terengganu,Besut,2022,other_citizen,500
-Terengganu,Besut,2022,bumi_other,300
-Terengganu,Besut,2022,indian,100
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+Terengganu,Setiu,2022,bumi_malay,59800,61500,97.24
+Terengganu,Setiu,2022,other_noncitizen,1400,61500,2.28
+Terengganu,Setiu,2022,bumi_other,100,61500,0.16
+Terengganu,Setiu,2022,chinese,100,61500,0.16
+Terengganu,Setiu,2022,other_citizen,100,61500,0.16
+Terengganu,Setiu,2022,indian,0,61500,0.0
+Terengganu,Marang,2022,bumi_malay,117900,121500,97.04
+Terengganu,Marang,2022,other_noncitizen,1700,121500,1.4
+Terengganu,Marang,2022,chinese,1500,121500,1.23
+Terengganu,Marang,2022,bumi_other,200,121500,0.16
+Terengganu,Marang,2022,other_citizen,200,121500,0.16
+Terengganu,Marang,2022,indian,0,121500,0.0
+Terengganu,Kuala Terengganu,2022,bumi_malay,224100,236700,94.68
+Terengganu,Kuala Terengganu,2022,chinese,7100,236700,3.0
+Terengganu,Kuala Terengganu,2022,other_noncitizen,4200,236700,1.77
+Terengganu,Kuala Terengganu,2022,bumi_other,500,236700,0.21
+Terengganu,Kuala Terengganu,2022,indian,500,236700,0.21
+Terengganu,Kuala Terengganu,2022,other_citizen,300,236700,0.13
+Terengganu,Kuala Nerus,2022,bumi_malay,145700,151100,96.43
+Terengganu,Kuala Nerus,2022,other_noncitizen,2500,151100,1.65
+Terengganu,Kuala Nerus,2022,chinese,1800,151100,1.19
+Terengganu,Kuala Nerus,2022,indian,500,151100,0.33
+Terengganu,Kuala Nerus,2022,bumi_other,400,151100,0.26
+Terengganu,Kuala Nerus,2022,other_citizen,200,151100,0.13
+Terengganu,Kemaman,2022,bumi_malay,203900,221600,92.01
+Terengganu,Kemaman,2022,other_noncitizen,8000,221600,3.61
+Terengganu,Kemaman,2022,chinese,7800,221600,3.52
+Terengganu,Kemaman,2022,bumi_other,900,221600,0.41
+Terengganu,Kemaman,2022,indian,700,221600,0.32
+Terengganu,Kemaman,2022,other_citizen,300,221600,0.14
+Terengganu,Hulu Terengganu,2022,bumi_malay,67000,72300,92.67
+Terengganu,Hulu Terengganu,2022,other_noncitizen,4200,72300,5.81
+Terengganu,Hulu Terengganu,2022,bumi_other,600,72300,0.83
+Terengganu,Hulu Terengganu,2022,other_citizen,300,72300,0.41
+Terengganu,Hulu Terengganu,2022,chinese,200,72300,0.28
+Terengganu,Hulu Terengganu,2022,indian,0,72300,0.0
+Terengganu,Dungun,2022,bumi_malay,155300,162500,95.57
+Terengganu,Dungun,2022,chinese,3300,162500,2.03
+Terengganu,Dungun,2022,other_noncitizen,3200,162500,1.97
+Terengganu,Dungun,2022,bumi_other,300,162500,0.18
+Terengganu,Dungun,2022,other_citizen,300,162500,0.18
+Terengganu,Dungun,2022,indian,100,162500,0.06
+Terengganu,Besut,2022,bumi_malay,153800,159400,96.49
+Terengganu,Besut,2022,other_noncitizen,3400,159400,2.13
+Terengganu,Besut,2022,chinese,1300,159400,0.82
+Terengganu,Besut,2022,other_citizen,500,159400,0.31
+Terengganu,Besut,2022,bumi_other,300,159400,0.19
+Terengganu,Besut,2022,indian,100,159400,0.06

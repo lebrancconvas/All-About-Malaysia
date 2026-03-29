@@ -1,7 +1,7 @@
-state,district,date,ethnicity,population
-W.P. Labuan,W.P. Labuan,2020,bumi_other,49000
-W.P. Labuan,W.P. Labuan,2020,bumi_malay,23600
-W.P. Labuan,W.P. Labuan,2020,other_noncitizen,10800
-W.P. Labuan,W.P. Labuan,2020,chinese,9800
-W.P. Labuan,W.P. Labuan,2020,indian,900
-W.P. Labuan,W.P. Labuan,2020,other_citizen,900
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+W.P. Labuan,W.P. Labuan,2020,bumi_other,49000,95000,51.58
+W.P. Labuan,W.P. Labuan,2020,bumi_malay,23600,95000,24.84
+W.P. Labuan,W.P. Labuan,2020,other_noncitizen,10800,95000,11.37
+W.P. Labuan,W.P. Labuan,2020,chinese,9800,95000,10.32
+W.P. Labuan,W.P. Labuan,2020,indian,900,95000,0.95
+W.P. Labuan,W.P. Labuan,2020,other_citizen,900,95000,0.95

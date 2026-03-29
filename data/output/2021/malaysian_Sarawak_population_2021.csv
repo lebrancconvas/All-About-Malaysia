@@ -1,241 +1,241 @@
-state,district,date,ethnicity,population
-Sarawak,Telang Usan,2021,bumi_other,16900
-Sarawak,Telang Usan,2021,bumi_malay,200
-Sarawak,Telang Usan,2021,chinese,200
-Sarawak,Telang Usan,2021,other_noncitizen,100
-Sarawak,Telang Usan,2021,indian,0
-Sarawak,Telang Usan,2021,other_citizen,0
-Sarawak,Tebedu,2021,bumi_other,23800
-Sarawak,Tebedu,2021,bumi_malay,600
-Sarawak,Tebedu,2021,chinese,400
-Sarawak,Tebedu,2021,other_noncitizen,300
-Sarawak,Tebedu,2021,indian,0
-Sarawak,Tebedu,2021,other_citizen,0
-Sarawak,Tatau,2021,bumi_other,25700
-Sarawak,Tatau,2021,other_noncitizen,3700
-Sarawak,Tatau,2021,bumi_malay,1400
-Sarawak,Tatau,2021,chinese,1300
-Sarawak,Tatau,2021,other_citizen,200
-Sarawak,Tatau,2021,indian,0
-Sarawak,Tanjung Manis,2021,bumi_other,6400
-Sarawak,Tanjung Manis,2021,bumi_malay,900
-Sarawak,Tanjung Manis,2021,other_noncitizen,700
-Sarawak,Tanjung Manis,2021,chinese,100
-Sarawak,Tanjung Manis,2021,indian,0
-Sarawak,Tanjung Manis,2021,other_citizen,0
-Sarawak,Subis,2021,bumi_other,33800
-Sarawak,Subis,2021,other_noncitizen,15800
-Sarawak,Subis,2021,bumi_malay,6600
-Sarawak,Subis,2021,chinese,2000
-Sarawak,Subis,2021,other_citizen,400
-Sarawak,Subis,2021,indian,0
-Sarawak,Sri Aman,2021,bumi_other,38400
-Sarawak,Sri Aman,2021,bumi_malay,14100
-Sarawak,Sri Aman,2021,chinese,7200
-Sarawak,Sri Aman,2021,other_noncitizen,1500
-Sarawak,Sri Aman,2021,other_citizen,100
-Sarawak,Sri Aman,2021,indian,0
-Sarawak,Song,2021,bumi_other,9000
-Sarawak,Song,2021,chinese,500
-Sarawak,Song,2021,bumi_malay,400
-Sarawak,Song,2021,indian,0
-Sarawak,Song,2021,other_citizen,0
-Sarawak,Song,2021,other_noncitizen,0
-Sarawak,Simunjan,2021,bumi_malay,19600
-Sarawak,Simunjan,2021,bumi_other,13500
-Sarawak,Simunjan,2021,other_noncitizen,2200
-Sarawak,Simunjan,2021,chinese,900
-Sarawak,Simunjan,2021,other_citizen,300
-Sarawak,Simunjan,2021,indian,0
-Sarawak,Sibu,2021,chinese,114700
-Sarawak,Sibu,2021,bumi_other,95900
-Sarawak,Sibu,2021,bumi_malay,24900
-Sarawak,Sibu,2021,other_noncitizen,11300
-Sarawak,Sibu,2021,other_citizen,600
-Sarawak,Sibu,2021,indian,200
-Sarawak,Serian,2021,bumi_other,59500
-Sarawak,Serian,2021,chinese,14400
-Sarawak,Serian,2021,bumi_malay,9900
-Sarawak,Serian,2021,other_noncitizen,1400
-Sarawak,Serian,2021,indian,100
-Sarawak,Serian,2021,other_citizen,100
-Sarawak,Selangau,2021,bumi_other,18000
-Sarawak,Selangau,2021,other_noncitizen,1000
-Sarawak,Selangau,2021,chinese,400
-Sarawak,Selangau,2021,bumi_malay,300
-Sarawak,Selangau,2021,indian,0
-Sarawak,Selangau,2021,other_citizen,0
-Sarawak,Sebauh,2021,bumi_other,18800
-Sarawak,Sebauh,2021,other_noncitizen,7400
-Sarawak,Sebauh,2021,bumi_malay,1200
-Sarawak,Sebauh,2021,chinese,700
-Sarawak,Sebauh,2021,other_citizen,100
-Sarawak,Sebauh,2021,indian,0
-Sarawak,Sarikei,2021,bumi_other,19300
-Sarawak,Sarikei,2021,chinese,17000
-Sarawak,Sarikei,2021,bumi_malay,7400
-Sarawak,Sarikei,2021,other_noncitizen,500
-Sarawak,Sarikei,2021,other_citizen,100
-Sarawak,Sarikei,2021,indian,0
-Sarawak,Saratok,2021,bumi_other,15500
-Sarawak,Saratok,2021,bumi_malay,6200
-Sarawak,Saratok,2021,chinese,1200
-Sarawak,Saratok,2021,other_noncitizen,200
-Sarawak,Saratok,2021,indian,0
-Sarawak,Saratok,2021,other_citizen,0
-Sarawak,Samarahan,2021,bumi_malay,59400
-Sarawak,Samarahan,2021,bumi_other,47100
-Sarawak,Samarahan,2021,chinese,23700
-Sarawak,Samarahan,2021,other_noncitizen,1500
-Sarawak,Samarahan,2021,indian,700
-Sarawak,Samarahan,2021,other_citizen,300
-Sarawak,Pusa,2021,bumi_malay,17800
-Sarawak,Pusa,2021,bumi_other,900
-Sarawak,Pusa,2021,other_noncitizen,600
-Sarawak,Pusa,2021,chinese,200
-Sarawak,Pusa,2021,indian,0
-Sarawak,Pusa,2021,other_citizen,0
-Sarawak,Pakan,2021,bumi_other,15100
-Sarawak,Pakan,2021,chinese,200
-Sarawak,Pakan,2021,bumi_malay,100
-Sarawak,Pakan,2021,other_noncitizen,100
-Sarawak,Pakan,2021,indian,0
-Sarawak,Pakan,2021,other_citizen,0
-Sarawak,Mukah,2021,bumi_other,31500
-Sarawak,Mukah,2021,other_noncitizen,4800
-Sarawak,Mukah,2021,bumi_malay,3300
-Sarawak,Mukah,2021,chinese,3200
-Sarawak,Mukah,2021,other_citizen,100
-Sarawak,Mukah,2021,indian,0
-Sarawak,Miri,2021,bumi_other,114700
-Sarawak,Miri,2021,chinese,73800
-Sarawak,Miri,2021,bumi_malay,48400
-Sarawak,Miri,2021,other_noncitizen,12000
-Sarawak,Miri,2021,other_citizen,800
-Sarawak,Miri,2021,indian,700
-Sarawak,Matu,2021,bumi_other,13100
-Sarawak,Matu,2021,other_noncitizen,2400
-Sarawak,Matu,2021,bumi_malay,600
-Sarawak,Matu,2021,chinese,300
-Sarawak,Matu,2021,other_citizen,100
-Sarawak,Matu,2021,indian,0
-Sarawak,Marudi,2021,bumi_other,11900
-Sarawak,Marudi,2021,other_noncitizen,2700
-Sarawak,Marudi,2021,bumi_malay,2500
-Sarawak,Marudi,2021,chinese,2000
-Sarawak,Marudi,2021,other_citizen,200
-Sarawak,Marudi,2021,indian,0
-Sarawak,Maradong,2021,bumi_other,9400
-Sarawak,Maradong,2021,chinese,7400
-Sarawak,Maradong,2021,bumi_malay,3200
-Sarawak,Maradong,2021,other_noncitizen,300
-Sarawak,Maradong,2021,other_citizen,100
-Sarawak,Maradong,2021,indian,0
-Sarawak,Lundu,2021,bumi_other,17000
-Sarawak,Lundu,2021,bumi_malay,10800
-Sarawak,Lundu,2021,chinese,3200
-Sarawak,Lundu,2021,other_noncitizen,2600
-Sarawak,Lundu,2021,other_citizen,100
-Sarawak,Lundu,2021,indian,0
-Sarawak,Lubok Antu,2021,bumi_other,21700
-Sarawak,Lubok Antu,2021,chinese,1400
-Sarawak,Lubok Antu,2021,bumi_malay,900
-Sarawak,Lubok Antu,2021,other_noncitizen,800
-Sarawak,Lubok Antu,2021,indian,0
-Sarawak,Lubok Antu,2021,other_citizen,0
-Sarawak,Limbang,2021,bumi_other,26200
-Sarawak,Limbang,2021,bumi_malay,12700
-Sarawak,Limbang,2021,chinese,5100
-Sarawak,Limbang,2021,other_noncitizen,1000
-Sarawak,Limbang,2021,other_citizen,100
-Sarawak,Limbang,2021,indian,0
-Sarawak,Lawas,2021,bumi_other,18100
-Sarawak,Lawas,2021,bumi_malay,14500
-Sarawak,Lawas,2021,chinese,2400
-Sarawak,Lawas,2021,other_noncitizen,1700
-Sarawak,Lawas,2021,other_citizen,200
-Sarawak,Lawas,2021,indian,0
-Sarawak,Kuching,2021,bumi_malay,227300
-Sarawak,Kuching,2021,chinese,219000
-Sarawak,Kuching,2021,bumi_other,153100
-Sarawak,Kuching,2021,other_noncitizen,9100
-Sarawak,Kuching,2021,indian,2500
-Sarawak,Kuching,2021,other_citizen,1500
-Sarawak,Kapit,2021,bumi_other,31900
-Sarawak,Kapit,2021,chinese,2500
-Sarawak,Kapit,2021,bumi_malay,1200
-Sarawak,Kapit,2021,other_noncitizen,400
-Sarawak,Kapit,2021,indian,0
-Sarawak,Kapit,2021,other_citizen,0
-Sarawak,Kanowit,2021,bumi_other,21000
-Sarawak,Kanowit,2021,chinese,2100
-Sarawak,Kanowit,2021,bumi_malay,1000
-Sarawak,Kanowit,2021,other_noncitizen,400
-Sarawak,Kanowit,2021,indian,0
-Sarawak,Kanowit,2021,other_citizen,0
-Sarawak,Kabong,2021,bumi_malay,9100
-Sarawak,Kabong,2021,bumi_other,8500
-Sarawak,Kabong,2021,chinese,800
-Sarawak,Kabong,2021,other_noncitizen,100
-Sarawak,Kabong,2021,indian,0
-Sarawak,Kabong,2021,other_citizen,0
-Sarawak,Julau,2021,bumi_other,14600
-Sarawak,Julau,2021,chinese,400
-Sarawak,Julau,2021,bumi_malay,200
-Sarawak,Julau,2021,indian,0
-Sarawak,Julau,2021,other_citizen,0
-Sarawak,Julau,2021,other_noncitizen,0
-Sarawak,Daro,2021,bumi_other,16300
-Sarawak,Daro,2021,other_noncitizen,2100
-Sarawak,Daro,2021,bumi_malay,800
-Sarawak,Daro,2021,chinese,200
-Sarawak,Daro,2021,other_citizen,100
-Sarawak,Daro,2021,indian,0
-Sarawak,Dalat,2021,bumi_other,16600
-Sarawak,Dalat,2021,other_noncitizen,2600
-Sarawak,Dalat,2021,chinese,1100
-Sarawak,Dalat,2021,bumi_malay,700
-Sarawak,Dalat,2021,indian,0
-Sarawak,Dalat,2021,other_citizen,0
-Sarawak,Bukit Mabong,2021,bumi_other,9400
-Sarawak,Bukit Mabong,2021,other_noncitizen,700
-Sarawak,Bukit Mabong,2021,chinese,200
-Sarawak,Bukit Mabong,2021,bumi_malay,100
-Sarawak,Bukit Mabong,2021,indian,0
-Sarawak,Bukit Mabong,2021,other_citizen,0
-Sarawak,Bintulu,2021,bumi_other,104900
-Sarawak,Bintulu,2021,chinese,33500
-Sarawak,Bintulu,2021,bumi_malay,24700
-Sarawak,Bintulu,2021,other_noncitizen,13100
-Sarawak,Bintulu,2021,other_citizen,600
-Sarawak,Bintulu,2021,indian,300
-Sarawak,Betong,2021,bumi_other,19700
-Sarawak,Betong,2021,bumi_malay,14900
-Sarawak,Betong,2021,chinese,1300
-Sarawak,Betong,2021,other_noncitizen,300
-Sarawak,Betong,2021,indian,0
-Sarawak,Betong,2021,other_citizen,0
-Sarawak,Beluru,2021,bumi_other,16900
-Sarawak,Beluru,2021,other_noncitizen,9000
-Sarawak,Beluru,2021,bumi_malay,2900
-Sarawak,Beluru,2021,chinese,500
-Sarawak,Beluru,2021,other_citizen,100
-Sarawak,Beluru,2021,indian,0
-Sarawak,Belaga,2021,bumi_other,18500
-Sarawak,Belaga,2021,other_noncitizen,3100
-Sarawak,Belaga,2021,bumi_malay,600
-Sarawak,Belaga,2021,chinese,300
-Sarawak,Belaga,2021,other_citizen,100
-Sarawak,Belaga,2021,indian,0
-Sarawak,Bau,2021,bumi_other,38200
-Sarawak,Bau,2021,chinese,8700
-Sarawak,Bau,2021,bumi_malay,4700
-Sarawak,Bau,2021,other_noncitizen,1100
-Sarawak,Bau,2021,indian,100
-Sarawak,Bau,2021,other_citizen,100
-Sarawak,Asajaya,2021,bumi_malay,29100
-Sarawak,Asajaya,2021,bumi_other,3000
-Sarawak,Asajaya,2021,chinese,1500
-Sarawak,Asajaya,2021,other_noncitizen,300
-Sarawak,Asajaya,2021,indian,0
-Sarawak,Asajaya,2021,other_citizen,0
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+Sarawak,Telang Usan,2021,bumi_other,16900,17400,97.13
+Sarawak,Telang Usan,2021,bumi_malay,200,17400,1.15
+Sarawak,Telang Usan,2021,chinese,200,17400,1.15
+Sarawak,Telang Usan,2021,other_noncitizen,100,17400,0.57
+Sarawak,Telang Usan,2021,indian,0,17400,0.0
+Sarawak,Telang Usan,2021,other_citizen,0,17400,0.0
+Sarawak,Tebedu,2021,bumi_other,23800,25100,94.82
+Sarawak,Tebedu,2021,bumi_malay,600,25100,2.39
+Sarawak,Tebedu,2021,chinese,400,25100,1.59
+Sarawak,Tebedu,2021,other_noncitizen,300,25100,1.2
+Sarawak,Tebedu,2021,indian,0,25100,0.0
+Sarawak,Tebedu,2021,other_citizen,0,25100,0.0
+Sarawak,Tatau,2021,bumi_other,25700,32300,79.57
+Sarawak,Tatau,2021,other_noncitizen,3700,32300,11.46
+Sarawak,Tatau,2021,bumi_malay,1400,32300,4.33
+Sarawak,Tatau,2021,chinese,1300,32300,4.02
+Sarawak,Tatau,2021,other_citizen,200,32300,0.62
+Sarawak,Tatau,2021,indian,0,32300,0.0
+Sarawak,Tanjung Manis,2021,bumi_other,6400,8100,79.01
+Sarawak,Tanjung Manis,2021,bumi_malay,900,8100,11.11
+Sarawak,Tanjung Manis,2021,other_noncitizen,700,8100,8.64
+Sarawak,Tanjung Manis,2021,chinese,100,8100,1.23
+Sarawak,Tanjung Manis,2021,indian,0,8100,0.0
+Sarawak,Tanjung Manis,2021,other_citizen,0,8100,0.0
+Sarawak,Subis,2021,bumi_other,33800,58600,57.68
+Sarawak,Subis,2021,other_noncitizen,15800,58600,26.96
+Sarawak,Subis,2021,bumi_malay,6600,58600,11.26
+Sarawak,Subis,2021,chinese,2000,58600,3.41
+Sarawak,Subis,2021,other_citizen,400,58600,0.68
+Sarawak,Subis,2021,indian,0,58600,0.0
+Sarawak,Sri Aman,2021,bumi_other,38400,61300,62.64
+Sarawak,Sri Aman,2021,bumi_malay,14100,61300,23.0
+Sarawak,Sri Aman,2021,chinese,7200,61300,11.75
+Sarawak,Sri Aman,2021,other_noncitizen,1500,61300,2.45
+Sarawak,Sri Aman,2021,other_citizen,100,61300,0.16
+Sarawak,Sri Aman,2021,indian,0,61300,0.0
+Sarawak,Song,2021,bumi_other,9000,9900,90.91
+Sarawak,Song,2021,chinese,500,9900,5.05
+Sarawak,Song,2021,bumi_malay,400,9900,4.04
+Sarawak,Song,2021,indian,0,9900,0.0
+Sarawak,Song,2021,other_citizen,0,9900,0.0
+Sarawak,Song,2021,other_noncitizen,0,9900,0.0
+Sarawak,Simunjan,2021,bumi_malay,19600,36500,53.7
+Sarawak,Simunjan,2021,bumi_other,13500,36500,36.99
+Sarawak,Simunjan,2021,other_noncitizen,2200,36500,6.03
+Sarawak,Simunjan,2021,chinese,900,36500,2.47
+Sarawak,Simunjan,2021,other_citizen,300,36500,0.82
+Sarawak,Simunjan,2021,indian,0,36500,0.0
+Sarawak,Sibu,2021,chinese,114700,247600,46.32
+Sarawak,Sibu,2021,bumi_other,95900,247600,38.73
+Sarawak,Sibu,2021,bumi_malay,24900,247600,10.06
+Sarawak,Sibu,2021,other_noncitizen,11300,247600,4.56
+Sarawak,Sibu,2021,other_citizen,600,247600,0.24
+Sarawak,Sibu,2021,indian,200,247600,0.08
+Sarawak,Serian,2021,bumi_other,59500,85400,69.67
+Sarawak,Serian,2021,chinese,14400,85400,16.86
+Sarawak,Serian,2021,bumi_malay,9900,85400,11.59
+Sarawak,Serian,2021,other_noncitizen,1400,85400,1.64
+Sarawak,Serian,2021,indian,100,85400,0.12
+Sarawak,Serian,2021,other_citizen,100,85400,0.12
+Sarawak,Selangau,2021,bumi_other,18000,19700,91.37
+Sarawak,Selangau,2021,other_noncitizen,1000,19700,5.08
+Sarawak,Selangau,2021,chinese,400,19700,2.03
+Sarawak,Selangau,2021,bumi_malay,300,19700,1.52
+Sarawak,Selangau,2021,indian,0,19700,0.0
+Sarawak,Selangau,2021,other_citizen,0,19700,0.0
+Sarawak,Sebauh,2021,bumi_other,18800,28200,66.67
+Sarawak,Sebauh,2021,other_noncitizen,7400,28200,26.24
+Sarawak,Sebauh,2021,bumi_malay,1200,28200,4.26
+Sarawak,Sebauh,2021,chinese,700,28200,2.48
+Sarawak,Sebauh,2021,other_citizen,100,28200,0.35
+Sarawak,Sebauh,2021,indian,0,28200,0.0
+Sarawak,Sarikei,2021,bumi_other,19300,44300,43.57
+Sarawak,Sarikei,2021,chinese,17000,44300,38.37
+Sarawak,Sarikei,2021,bumi_malay,7400,44300,16.7
+Sarawak,Sarikei,2021,other_noncitizen,500,44300,1.13
+Sarawak,Sarikei,2021,other_citizen,100,44300,0.23
+Sarawak,Sarikei,2021,indian,0,44300,0.0
+Sarawak,Saratok,2021,bumi_other,15500,23100,67.1
+Sarawak,Saratok,2021,bumi_malay,6200,23100,26.84
+Sarawak,Saratok,2021,chinese,1200,23100,5.19
+Sarawak,Saratok,2021,other_noncitizen,200,23100,0.87
+Sarawak,Saratok,2021,indian,0,23100,0.0
+Sarawak,Saratok,2021,other_citizen,0,23100,0.0
+Sarawak,Samarahan,2021,bumi_malay,59400,132700,44.76
+Sarawak,Samarahan,2021,bumi_other,47100,132700,35.49
+Sarawak,Samarahan,2021,chinese,23700,132700,17.86
+Sarawak,Samarahan,2021,other_noncitizen,1500,132700,1.13
+Sarawak,Samarahan,2021,indian,700,132700,0.53
+Sarawak,Samarahan,2021,other_citizen,300,132700,0.23
+Sarawak,Pusa,2021,bumi_malay,17800,19500,91.28
+Sarawak,Pusa,2021,bumi_other,900,19500,4.62
+Sarawak,Pusa,2021,other_noncitizen,600,19500,3.08
+Sarawak,Pusa,2021,chinese,200,19500,1.03
+Sarawak,Pusa,2021,indian,0,19500,0.0
+Sarawak,Pusa,2021,other_citizen,0,19500,0.0
+Sarawak,Pakan,2021,bumi_other,15100,15500,97.42
+Sarawak,Pakan,2021,chinese,200,15500,1.29
+Sarawak,Pakan,2021,bumi_malay,100,15500,0.65
+Sarawak,Pakan,2021,other_noncitizen,100,15500,0.65
+Sarawak,Pakan,2021,indian,0,15500,0.0
+Sarawak,Pakan,2021,other_citizen,0,15500,0.0
+Sarawak,Mukah,2021,bumi_other,31500,42900,73.43
+Sarawak,Mukah,2021,other_noncitizen,4800,42900,11.19
+Sarawak,Mukah,2021,bumi_malay,3300,42900,7.69
+Sarawak,Mukah,2021,chinese,3200,42900,7.46
+Sarawak,Mukah,2021,other_citizen,100,42900,0.23
+Sarawak,Mukah,2021,indian,0,42900,0.0
+Sarawak,Miri,2021,bumi_other,114700,250400,45.81
+Sarawak,Miri,2021,chinese,73800,250400,29.47
+Sarawak,Miri,2021,bumi_malay,48400,250400,19.33
+Sarawak,Miri,2021,other_noncitizen,12000,250400,4.79
+Sarawak,Miri,2021,other_citizen,800,250400,0.32
+Sarawak,Miri,2021,indian,700,250400,0.28
+Sarawak,Matu,2021,bumi_other,13100,16500,79.39
+Sarawak,Matu,2021,other_noncitizen,2400,16500,14.55
+Sarawak,Matu,2021,bumi_malay,600,16500,3.64
+Sarawak,Matu,2021,chinese,300,16500,1.82
+Sarawak,Matu,2021,other_citizen,100,16500,0.61
+Sarawak,Matu,2021,indian,0,16500,0.0
+Sarawak,Marudi,2021,bumi_other,11900,19300,61.66
+Sarawak,Marudi,2021,other_noncitizen,2700,19300,13.99
+Sarawak,Marudi,2021,bumi_malay,2500,19300,12.95
+Sarawak,Marudi,2021,chinese,2000,19300,10.36
+Sarawak,Marudi,2021,other_citizen,200,19300,1.04
+Sarawak,Marudi,2021,indian,0,19300,0.0
+Sarawak,Maradong,2021,bumi_other,9400,20400,46.08
+Sarawak,Maradong,2021,chinese,7400,20400,36.27
+Sarawak,Maradong,2021,bumi_malay,3200,20400,15.69
+Sarawak,Maradong,2021,other_noncitizen,300,20400,1.47
+Sarawak,Maradong,2021,other_citizen,100,20400,0.49
+Sarawak,Maradong,2021,indian,0,20400,0.0
+Sarawak,Lundu,2021,bumi_other,17000,33700,50.45
+Sarawak,Lundu,2021,bumi_malay,10800,33700,32.05
+Sarawak,Lundu,2021,chinese,3200,33700,9.5
+Sarawak,Lundu,2021,other_noncitizen,2600,33700,7.72
+Sarawak,Lundu,2021,other_citizen,100,33700,0.3
+Sarawak,Lundu,2021,indian,0,33700,0.0
+Sarawak,Lubok Antu,2021,bumi_other,21700,24800,87.5
+Sarawak,Lubok Antu,2021,chinese,1400,24800,5.65
+Sarawak,Lubok Antu,2021,bumi_malay,900,24800,3.63
+Sarawak,Lubok Antu,2021,other_noncitizen,800,24800,3.23
+Sarawak,Lubok Antu,2021,indian,0,24800,0.0
+Sarawak,Lubok Antu,2021,other_citizen,0,24800,0.0
+Sarawak,Limbang,2021,bumi_other,26200,45100,58.09
+Sarawak,Limbang,2021,bumi_malay,12700,45100,28.16
+Sarawak,Limbang,2021,chinese,5100,45100,11.31
+Sarawak,Limbang,2021,other_noncitizen,1000,45100,2.22
+Sarawak,Limbang,2021,other_citizen,100,45100,0.22
+Sarawak,Limbang,2021,indian,0,45100,0.0
+Sarawak,Lawas,2021,bumi_other,18100,36900,49.05
+Sarawak,Lawas,2021,bumi_malay,14500,36900,39.3
+Sarawak,Lawas,2021,chinese,2400,36900,6.5
+Sarawak,Lawas,2021,other_noncitizen,1700,36900,4.61
+Sarawak,Lawas,2021,other_citizen,200,36900,0.54
+Sarawak,Lawas,2021,indian,0,36900,0.0
+Sarawak,Kuching,2021,bumi_malay,227300,612500,37.11
+Sarawak,Kuching,2021,chinese,219000,612500,35.76
+Sarawak,Kuching,2021,bumi_other,153100,612500,25.0
+Sarawak,Kuching,2021,other_noncitizen,9100,612500,1.49
+Sarawak,Kuching,2021,indian,2500,612500,0.41
+Sarawak,Kuching,2021,other_citizen,1500,612500,0.24
+Sarawak,Kapit,2021,bumi_other,31900,36000,88.61
+Sarawak,Kapit,2021,chinese,2500,36000,6.94
+Sarawak,Kapit,2021,bumi_malay,1200,36000,3.33
+Sarawak,Kapit,2021,other_noncitizen,400,36000,1.11
+Sarawak,Kapit,2021,indian,0,36000,0.0
+Sarawak,Kapit,2021,other_citizen,0,36000,0.0
+Sarawak,Kanowit,2021,bumi_other,21000,24500,85.71
+Sarawak,Kanowit,2021,chinese,2100,24500,8.57
+Sarawak,Kanowit,2021,bumi_malay,1000,24500,4.08
+Sarawak,Kanowit,2021,other_noncitizen,400,24500,1.63
+Sarawak,Kanowit,2021,indian,0,24500,0.0
+Sarawak,Kanowit,2021,other_citizen,0,24500,0.0
+Sarawak,Kabong,2021,bumi_malay,9100,18500,49.19
+Sarawak,Kabong,2021,bumi_other,8500,18500,45.95
+Sarawak,Kabong,2021,chinese,800,18500,4.32
+Sarawak,Kabong,2021,other_noncitizen,100,18500,0.54
+Sarawak,Kabong,2021,indian,0,18500,0.0
+Sarawak,Kabong,2021,other_citizen,0,18500,0.0
+Sarawak,Julau,2021,bumi_other,14600,15200,96.05
+Sarawak,Julau,2021,chinese,400,15200,2.63
+Sarawak,Julau,2021,bumi_malay,200,15200,1.32
+Sarawak,Julau,2021,indian,0,15200,0.0
+Sarawak,Julau,2021,other_citizen,0,15200,0.0
+Sarawak,Julau,2021,other_noncitizen,0,15200,0.0
+Sarawak,Daro,2021,bumi_other,16300,19500,83.59
+Sarawak,Daro,2021,other_noncitizen,2100,19500,10.77
+Sarawak,Daro,2021,bumi_malay,800,19500,4.1
+Sarawak,Daro,2021,chinese,200,19500,1.03
+Sarawak,Daro,2021,other_citizen,100,19500,0.51
+Sarawak,Daro,2021,indian,0,19500,0.0
+Sarawak,Dalat,2021,bumi_other,16600,21000,79.05
+Sarawak,Dalat,2021,other_noncitizen,2600,21000,12.38
+Sarawak,Dalat,2021,chinese,1100,21000,5.24
+Sarawak,Dalat,2021,bumi_malay,700,21000,3.33
+Sarawak,Dalat,2021,indian,0,21000,0.0
+Sarawak,Dalat,2021,other_citizen,0,21000,0.0
+Sarawak,Bukit Mabong,2021,bumi_other,9400,10400,90.38
+Sarawak,Bukit Mabong,2021,other_noncitizen,700,10400,6.73
+Sarawak,Bukit Mabong,2021,chinese,200,10400,1.92
+Sarawak,Bukit Mabong,2021,bumi_malay,100,10400,0.96
+Sarawak,Bukit Mabong,2021,indian,0,10400,0.0
+Sarawak,Bukit Mabong,2021,other_citizen,0,10400,0.0
+Sarawak,Bintulu,2021,bumi_other,104900,177100,59.23
+Sarawak,Bintulu,2021,chinese,33500,177100,18.92
+Sarawak,Bintulu,2021,bumi_malay,24700,177100,13.95
+Sarawak,Bintulu,2021,other_noncitizen,13100,177100,7.4
+Sarawak,Bintulu,2021,other_citizen,600,177100,0.34
+Sarawak,Bintulu,2021,indian,300,177100,0.17
+Sarawak,Betong,2021,bumi_other,19700,36200,54.42
+Sarawak,Betong,2021,bumi_malay,14900,36200,41.16
+Sarawak,Betong,2021,chinese,1300,36200,3.59
+Sarawak,Betong,2021,other_noncitizen,300,36200,0.83
+Sarawak,Betong,2021,indian,0,36200,0.0
+Sarawak,Betong,2021,other_citizen,0,36200,0.0
+Sarawak,Beluru,2021,bumi_other,16900,29400,57.48
+Sarawak,Beluru,2021,other_noncitizen,9000,29400,30.61
+Sarawak,Beluru,2021,bumi_malay,2900,29400,9.86
+Sarawak,Beluru,2021,chinese,500,29400,1.7
+Sarawak,Beluru,2021,other_citizen,100,29400,0.34
+Sarawak,Beluru,2021,indian,0,29400,0.0
+Sarawak,Belaga,2021,bumi_other,18500,22600,81.86
+Sarawak,Belaga,2021,other_noncitizen,3100,22600,13.72
+Sarawak,Belaga,2021,bumi_malay,600,22600,2.65
+Sarawak,Belaga,2021,chinese,300,22600,1.33
+Sarawak,Belaga,2021,other_citizen,100,22600,0.44
+Sarawak,Belaga,2021,indian,0,22600,0.0
+Sarawak,Bau,2021,bumi_other,38200,52900,72.21
+Sarawak,Bau,2021,chinese,8700,52900,16.45
+Sarawak,Bau,2021,bumi_malay,4700,52900,8.88
+Sarawak,Bau,2021,other_noncitizen,1100,52900,2.08
+Sarawak,Bau,2021,indian,100,52900,0.19
+Sarawak,Bau,2021,other_citizen,100,52900,0.19
+Sarawak,Asajaya,2021,bumi_malay,29100,33900,85.84
+Sarawak,Asajaya,2021,bumi_other,3000,33900,8.85
+Sarawak,Asajaya,2021,chinese,1500,33900,4.42
+Sarawak,Asajaya,2021,other_noncitizen,300,33900,0.88
+Sarawak,Asajaya,2021,indian,0,33900,0.0
+Sarawak,Asajaya,2021,other_citizen,0,33900,0.0

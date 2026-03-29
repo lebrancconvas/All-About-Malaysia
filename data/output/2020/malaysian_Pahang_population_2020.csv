@@ -1,67 +1,67 @@
-state,district,date,ethnicity,population
-Pahang,Temerloh,2020,bumi_malay,120300
-Pahang,Temerloh,2020,chinese,24100
-Pahang,Temerloh,2020,indian,9600
-Pahang,Temerloh,2020,bumi_other,8800
-Pahang,Temerloh,2020,other_noncitizen,5300
-Pahang,Temerloh,2020,other_citizen,1000
-Pahang,Rompin,2020,bumi_malay,71200
-Pahang,Rompin,2020,bumi_other,15400
-Pahang,Rompin,2020,other_noncitizen,8400
-Pahang,Rompin,2020,chinese,1600
-Pahang,Rompin,2020,indian,900
-Pahang,Rompin,2020,other_citizen,600
-Pahang,Raub,2020,bumi_malay,49900
-Pahang,Raub,2020,chinese,29500
-Pahang,Raub,2020,bumi_other,5600
-Pahang,Raub,2020,indian,5500
-Pahang,Raub,2020,other_noncitizen,5300
-Pahang,Raub,2020,other_citizen,400
-Pahang,Pekan,2020,bumi_malay,95300
-Pahang,Pekan,2020,bumi_other,13400
-Pahang,Pekan,2020,other_noncitizen,8200
-Pahang,Pekan,2020,other_citizen,1700
-Pahang,Pekan,2020,chinese,1500
-Pahang,Pekan,2020,indian,1100
-Pahang,Maran,2020,bumi_malay,100000
-Pahang,Maran,2020,other_noncitizen,4800
-Pahang,Maran,2020,bumi_other,3200
-Pahang,Maran,2020,chinese,2800
-Pahang,Maran,2020,indian,1100
-Pahang,Maran,2020,other_citizen,300
-Pahang,Lipis,2020,bumi_malay,66000
-Pahang,Lipis,2020,bumi_other,15300
-Pahang,Lipis,2020,chinese,7300
-Pahang,Lipis,2020,other_noncitizen,4300
-Pahang,Lipis,2020,indian,3300
-Pahang,Lipis,2020,other_citizen,300
-Pahang,Kuantan,2020,bumi_malay,432600
-Pahang,Kuantan,2020,chinese,75200
-Pahang,Kuantan,2020,other_noncitizen,16700
-Pahang,Kuantan,2020,indian,14300
-Pahang,Kuantan,2020,bumi_other,6500
-Pahang,Kuantan,2020,other_citizen,2700
-Pahang,Jerantut,2020,bumi_malay,72800
-Pahang,Jerantut,2020,chinese,11100
-Pahang,Jerantut,2020,other_noncitizen,4900
-Pahang,Jerantut,2020,bumi_other,4100
-Pahang,Jerantut,2020,indian,2700
-Pahang,Jerantut,2020,other_citizen,600
-Pahang,Cameron Highlands,2020,chinese,11700
-Pahang,Cameron Highlands,2020,bumi_other,9100
-Pahang,Cameron Highlands,2020,bumi_malay,8200
-Pahang,Cameron Highlands,2020,other_noncitizen,5300
-Pahang,Cameron Highlands,2020,indian,4400
-Pahang,Cameron Highlands,2020,other_citizen,300
-Pahang,Bera,2020,bumi_malay,55000
-Pahang,Bera,2020,chinese,25500
-Pahang,Bera,2020,bumi_other,6900
-Pahang,Bera,2020,other_noncitizen,6400
-Pahang,Bera,2020,indian,3800
-Pahang,Bera,2020,other_citizen,500
-Pahang,Bentong,2020,bumi_malay,62800
-Pahang,Bentong,2020,chinese,31500
-Pahang,Bentong,2020,indian,9200
-Pahang,Bentong,2020,other_noncitizen,8400
-Pahang,Bentong,2020,bumi_other,3900
-Pahang,Bentong,2020,other_citizen,900
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+Pahang,Temerloh,2020,bumi_malay,120300,169100,71.14
+Pahang,Temerloh,2020,chinese,24100,169100,14.25
+Pahang,Temerloh,2020,indian,9600,169100,5.68
+Pahang,Temerloh,2020,bumi_other,8800,169100,5.2
+Pahang,Temerloh,2020,other_noncitizen,5300,169100,3.13
+Pahang,Temerloh,2020,other_citizen,1000,169100,0.59
+Pahang,Rompin,2020,bumi_malay,71200,98100,72.58
+Pahang,Rompin,2020,bumi_other,15400,98100,15.7
+Pahang,Rompin,2020,other_noncitizen,8400,98100,8.56
+Pahang,Rompin,2020,chinese,1600,98100,1.63
+Pahang,Rompin,2020,indian,900,98100,0.92
+Pahang,Rompin,2020,other_citizen,600,98100,0.61
+Pahang,Raub,2020,bumi_malay,49900,96200,51.87
+Pahang,Raub,2020,chinese,29500,96200,30.67
+Pahang,Raub,2020,bumi_other,5600,96200,5.82
+Pahang,Raub,2020,indian,5500,96200,5.72
+Pahang,Raub,2020,other_noncitizen,5300,96200,5.51
+Pahang,Raub,2020,other_citizen,400,96200,0.42
+Pahang,Pekan,2020,bumi_malay,95300,121200,78.63
+Pahang,Pekan,2020,bumi_other,13400,121200,11.06
+Pahang,Pekan,2020,other_noncitizen,8200,121200,6.77
+Pahang,Pekan,2020,other_citizen,1700,121200,1.4
+Pahang,Pekan,2020,chinese,1500,121200,1.24
+Pahang,Pekan,2020,indian,1100,121200,0.91
+Pahang,Maran,2020,bumi_malay,100000,112200,89.13
+Pahang,Maran,2020,other_noncitizen,4800,112200,4.28
+Pahang,Maran,2020,bumi_other,3200,112200,2.85
+Pahang,Maran,2020,chinese,2800,112200,2.5
+Pahang,Maran,2020,indian,1100,112200,0.98
+Pahang,Maran,2020,other_citizen,300,112200,0.27
+Pahang,Lipis,2020,bumi_malay,66000,96500,68.39
+Pahang,Lipis,2020,bumi_other,15300,96500,15.85
+Pahang,Lipis,2020,chinese,7300,96500,7.56
+Pahang,Lipis,2020,other_noncitizen,4300,96500,4.46
+Pahang,Lipis,2020,indian,3300,96500,3.42
+Pahang,Lipis,2020,other_citizen,300,96500,0.31
+Pahang,Kuantan,2020,bumi_malay,432600,548000,78.94
+Pahang,Kuantan,2020,chinese,75200,548000,13.72
+Pahang,Kuantan,2020,other_noncitizen,16700,548000,3.05
+Pahang,Kuantan,2020,indian,14300,548000,2.61
+Pahang,Kuantan,2020,bumi_other,6500,548000,1.19
+Pahang,Kuantan,2020,other_citizen,2700,548000,0.49
+Pahang,Jerantut,2020,bumi_malay,72800,96200,75.68
+Pahang,Jerantut,2020,chinese,11100,96200,11.54
+Pahang,Jerantut,2020,other_noncitizen,4900,96200,5.09
+Pahang,Jerantut,2020,bumi_other,4100,96200,4.26
+Pahang,Jerantut,2020,indian,2700,96200,2.81
+Pahang,Jerantut,2020,other_citizen,600,96200,0.62
+Pahang,Cameron Highlands,2020,chinese,11700,39000,30.0
+Pahang,Cameron Highlands,2020,bumi_other,9100,39000,23.33
+Pahang,Cameron Highlands,2020,bumi_malay,8200,39000,21.03
+Pahang,Cameron Highlands,2020,other_noncitizen,5300,39000,13.59
+Pahang,Cameron Highlands,2020,indian,4400,39000,11.28
+Pahang,Cameron Highlands,2020,other_citizen,300,39000,0.77
+Pahang,Bera,2020,bumi_malay,55000,98100,56.07
+Pahang,Bera,2020,chinese,25500,98100,25.99
+Pahang,Bera,2020,bumi_other,6900,98100,7.03
+Pahang,Bera,2020,other_noncitizen,6400,98100,6.52
+Pahang,Bera,2020,indian,3800,98100,3.87
+Pahang,Bera,2020,other_citizen,500,98100,0.51
+Pahang,Bentong,2020,bumi_malay,62800,116700,53.81
+Pahang,Bentong,2020,chinese,31500,116700,26.99
+Pahang,Bentong,2020,indian,9200,116700,7.88
+Pahang,Bentong,2020,other_noncitizen,8400,116700,7.2
+Pahang,Bentong,2020,bumi_other,3900,116700,3.34
+Pahang,Bentong,2020,other_citizen,900,116700,0.77

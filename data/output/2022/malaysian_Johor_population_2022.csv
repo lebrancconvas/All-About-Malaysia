@@ -1,61 +1,61 @@
-state,district,date,ethnicity,population
-Johor,Tangkak,2022,bumi_malay,104100
-Johor,Tangkak,2022,chinese,42800
-Johor,Tangkak,2022,indian,8400
-Johor,Tangkak,2022,other_noncitizen,7300
-Johor,Tangkak,2022,bumi_other,1200
-Johor,Tangkak,2022,other_citizen,800
-Johor,Segamat,2022,bumi_malay,105900
-Johor,Segamat,2022,chinese,62700
-Johor,Segamat,2022,indian,15700
-Johor,Segamat,2022,other_noncitizen,10500
-Johor,Segamat,2022,bumi_other,3000
-Johor,Segamat,2022,other_citizen,600
-Johor,Pontian,2022,bumi_malay,115500
-Johor,Pontian,2022,chinese,42400
-Johor,Pontian,2022,other_noncitizen,12000
-Johor,Pontian,2022,bumi_other,1600
-Johor,Pontian,2022,indian,1400
-Johor,Pontian,2022,other_citizen,700
-Johor,Muar,2022,bumi_malay,175600
-Johor,Muar,2022,chinese,100400
-Johor,Muar,2022,other_noncitizen,30500
-Johor,Muar,2022,indian,5400
-Johor,Muar,2022,bumi_other,1400
-Johor,Muar,2022,other_citizen,600
-Johor,Mersing,2022,bumi_malay,64300
-Johor,Mersing,2022,chinese,7100
-Johor,Mersing,2022,other_noncitizen,3700
-Johor,Mersing,2022,bumi_other,2900
-Johor,Mersing,2022,indian,900
-Johor,Mersing,2022,other_citizen,200
-Johor,Kulai,2022,bumi_malay,155300
-Johor,Kulai,2022,chinese,95600
-Johor,Kulai,2022,other_noncitizen,42500
-Johor,Kulai,2022,indian,30400
-Johor,Kulai,2022,bumi_other,3900
-Johor,Kulai,2022,other_citizen,1500
-Johor,Kota Tinggi,2022,bumi_malay,184300
-Johor,Kota Tinggi,2022,chinese,18500
-Johor,Kota Tinggi,2022,other_noncitizen,12400
-Johor,Kota Tinggi,2022,indian,5500
-Johor,Kota Tinggi,2022,bumi_other,3300
-Johor,Kota Tinggi,2022,other_citizen,800
-Johor,Kluang,2022,bumi_malay,170300
-Johor,Kluang,2022,chinese,91900
-Johor,Kluang,2022,other_noncitizen,30400
-Johor,Kluang,2022,indian,24700
-Johor,Kluang,2022,bumi_other,4600
-Johor,Kluang,2022,other_citizen,1400
-Johor,Johor Bahru,2022,bumi_malay,816300
-Johor,Johor Bahru,2022,chinese,608600
-Johor,Johor Bahru,2022,indian,145400
-Johor,Johor Bahru,2022,other_noncitizen,111000
-Johor,Johor Bahru,2022,bumi_other,31900
-Johor,Johor Bahru,2022,other_citizen,10500
-Johor,Batu Pahat,2022,bumi_malay,316900
-Johor,Batu Pahat,2022,chinese,140200
-Johor,Batu Pahat,2022,other_noncitizen,27200
-Johor,Batu Pahat,2022,indian,6900
-Johor,Batu Pahat,2022,bumi_other,4500
-Johor,Batu Pahat,2022,other_citizen,1800
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+Johor,Tangkak,2022,bumi_malay,104100,164600,63.24
+Johor,Tangkak,2022,chinese,42800,164600,26.0
+Johor,Tangkak,2022,indian,8400,164600,5.1
+Johor,Tangkak,2022,other_noncitizen,7300,164600,4.43
+Johor,Tangkak,2022,bumi_other,1200,164600,0.73
+Johor,Tangkak,2022,other_citizen,800,164600,0.49
+Johor,Segamat,2022,bumi_malay,105900,198400,53.38
+Johor,Segamat,2022,chinese,62700,198400,31.6
+Johor,Segamat,2022,indian,15700,198400,7.91
+Johor,Segamat,2022,other_noncitizen,10500,198400,5.29
+Johor,Segamat,2022,bumi_other,3000,198400,1.51
+Johor,Segamat,2022,other_citizen,600,198400,0.3
+Johor,Pontian,2022,bumi_malay,115500,173600,66.53
+Johor,Pontian,2022,chinese,42400,173600,24.42
+Johor,Pontian,2022,other_noncitizen,12000,173600,6.91
+Johor,Pontian,2022,bumi_other,1600,173600,0.92
+Johor,Pontian,2022,indian,1400,173600,0.81
+Johor,Pontian,2022,other_citizen,700,173600,0.4
+Johor,Muar,2022,bumi_malay,175600,313900,55.94
+Johor,Muar,2022,chinese,100400,313900,31.98
+Johor,Muar,2022,other_noncitizen,30500,313900,9.72
+Johor,Muar,2022,indian,5400,313900,1.72
+Johor,Muar,2022,bumi_other,1400,313900,0.45
+Johor,Muar,2022,other_citizen,600,313900,0.19
+Johor,Mersing,2022,bumi_malay,64300,79100,81.29
+Johor,Mersing,2022,chinese,7100,79100,8.98
+Johor,Mersing,2022,other_noncitizen,3700,79100,4.68
+Johor,Mersing,2022,bumi_other,2900,79100,3.67
+Johor,Mersing,2022,indian,900,79100,1.14
+Johor,Mersing,2022,other_citizen,200,79100,0.25
+Johor,Kulai,2022,bumi_malay,155300,329200,47.17
+Johor,Kulai,2022,chinese,95600,329200,29.04
+Johor,Kulai,2022,other_noncitizen,42500,329200,12.91
+Johor,Kulai,2022,indian,30400,329200,9.23
+Johor,Kulai,2022,bumi_other,3900,329200,1.18
+Johor,Kulai,2022,other_citizen,1500,329200,0.46
+Johor,Kota Tinggi,2022,bumi_malay,184300,224800,81.98
+Johor,Kota Tinggi,2022,chinese,18500,224800,8.23
+Johor,Kota Tinggi,2022,other_noncitizen,12400,224800,5.52
+Johor,Kota Tinggi,2022,indian,5500,224800,2.45
+Johor,Kota Tinggi,2022,bumi_other,3300,224800,1.47
+Johor,Kota Tinggi,2022,other_citizen,800,224800,0.36
+Johor,Kluang,2022,bumi_malay,170300,323300,52.68
+Johor,Kluang,2022,chinese,91900,323300,28.43
+Johor,Kluang,2022,other_noncitizen,30400,323300,9.4
+Johor,Kluang,2022,indian,24700,323300,7.64
+Johor,Kluang,2022,bumi_other,4600,323300,1.42
+Johor,Kluang,2022,other_citizen,1400,323300,0.43
+Johor,Johor Bahru,2022,bumi_malay,816300,1723700,47.36
+Johor,Johor Bahru,2022,chinese,608600,1723700,35.31
+Johor,Johor Bahru,2022,indian,145400,1723700,8.44
+Johor,Johor Bahru,2022,other_noncitizen,111000,1723700,6.44
+Johor,Johor Bahru,2022,bumi_other,31900,1723700,1.85
+Johor,Johor Bahru,2022,other_citizen,10500,1723700,0.61
+Johor,Batu Pahat,2022,bumi_malay,316900,497500,63.7
+Johor,Batu Pahat,2022,chinese,140200,497500,28.18
+Johor,Batu Pahat,2022,other_noncitizen,27200,497500,5.47
+Johor,Batu Pahat,2022,indian,6900,497500,1.39
+Johor,Batu Pahat,2022,bumi_other,4500,497500,0.9
+Johor,Batu Pahat,2022,other_citizen,1800,497500,0.36

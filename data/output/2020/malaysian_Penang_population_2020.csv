@@ -1,31 +1,31 @@
-state,district,date,ethnicity,population
-Penang,Timur Laut,2020,chinese,324900
-Penang,Timur Laut,2020,bumi_malay,118300
-Penang,Timur Laut,2020,other_noncitizen,52900
-Penang,Timur Laut,2020,indian,51500
-Penang,Timur Laut,2020,other_citizen,5300
-Penang,Timur Laut,2020,bumi_other,3600
-Penang,Seberang Perai Utara,2020,bumi_malay,202200
-Penang,Seberang Perai Utara,2020,chinese,95600
-Penang,Seberang Perai Utara,2020,indian,22600
-Penang,Seberang Perai Utara,2020,other_noncitizen,16400
-Penang,Seberang Perai Utara,2020,bumi_other,1300
-Penang,Seberang Perai Utara,2020,other_citizen,1100
-Penang,Seberang Perai Tengah,2020,bumi_malay,185300
-Penang,Seberang Perai Tengah,2020,chinese,150600
-Penang,Seberang Perai Tengah,2020,other_noncitizen,45400
-Penang,Seberang Perai Tengah,2020,indian,38000
-Penang,Seberang Perai Tengah,2020,other_citizen,2200
-Penang,Seberang Perai Tengah,2020,bumi_other,1500
-Penang,Seberang Perai Selatan,2020,bumi_malay,76200
-Penang,Seberang Perai Selatan,2020,chinese,65300
-Penang,Seberang Perai Selatan,2020,indian,30100
-Penang,Seberang Perai Selatan,2020,other_noncitizen,11500
-Penang,Seberang Perai Selatan,2020,other_citizen,500
-Penang,Seberang Perai Selatan,2020,bumi_other,400
-Penang,Barat Daya,2020,bumi_malay,125900
-Penang,Barat Daya,2020,chinese,81900
-Penang,Barat Daya,2020,other_noncitizen,14300
-Penang,Barat Daya,2020,indian,13300
-Penang,Barat Daya,2020,bumi_other,1300
-Penang,Barat Daya,2020,other_citizen,1100
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+Penang,Timur Laut,2020,chinese,324900,556500,58.38
+Penang,Timur Laut,2020,bumi_malay,118300,556500,21.26
+Penang,Timur Laut,2020,other_noncitizen,52900,556500,9.51
+Penang,Timur Laut,2020,indian,51500,556500,9.25
+Penang,Timur Laut,2020,other_citizen,5300,556500,0.95
+Penang,Timur Laut,2020,bumi_other,3600,556500,0.65
+Penang,Seberang Perai Utara,2020,bumi_malay,202200,339200,59.61
+Penang,Seberang Perai Utara,2020,chinese,95600,339200,28.18
+Penang,Seberang Perai Utara,2020,indian,22600,339200,6.66
+Penang,Seberang Perai Utara,2020,other_noncitizen,16400,339200,4.83
+Penang,Seberang Perai Utara,2020,bumi_other,1300,339200,0.38
+Penang,Seberang Perai Utara,2020,other_citizen,1100,339200,0.32
+Penang,Seberang Perai Tengah,2020,bumi_malay,185300,423000,43.81
+Penang,Seberang Perai Tengah,2020,chinese,150600,423000,35.6
+Penang,Seberang Perai Tengah,2020,other_noncitizen,45400,423000,10.73
+Penang,Seberang Perai Tengah,2020,indian,38000,423000,8.98
+Penang,Seberang Perai Tengah,2020,other_citizen,2200,423000,0.52
+Penang,Seberang Perai Tengah,2020,bumi_other,1500,423000,0.35
+Penang,Seberang Perai Selatan,2020,bumi_malay,76200,184000,41.41
+Penang,Seberang Perai Selatan,2020,chinese,65300,184000,35.49
+Penang,Seberang Perai Selatan,2020,indian,30100,184000,16.36
+Penang,Seberang Perai Selatan,2020,other_noncitizen,11500,184000,6.25
+Penang,Seberang Perai Selatan,2020,other_citizen,500,184000,0.27
+Penang,Seberang Perai Selatan,2020,bumi_other,400,184000,0.22
+Penang,Barat Daya,2020,bumi_malay,125900,237800,52.94
+Penang,Barat Daya,2020,chinese,81900,237800,34.44
+Penang,Barat Daya,2020,other_noncitizen,14300,237800,6.01
+Penang,Barat Daya,2020,indian,13300,237800,5.59
+Penang,Barat Daya,2020,bumi_other,1300,237800,0.55
+Penang,Barat Daya,2020,other_citizen,1100,237800,0.46

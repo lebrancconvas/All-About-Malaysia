@@ -1,7 +1,7 @@
-state,district,date,ethnicity,population
-W.P. Putrajaya,W.P. Putrajaya,2020,bumi_malay,101800
-W.P. Putrajaya,W.P. Putrajaya,2020,other_noncitizen,2800
-W.P. Putrajaya,W.P. Putrajaya,2020,bumi_other,2300
-W.P. Putrajaya,W.P. Putrajaya,2020,indian,1300
-W.P. Putrajaya,W.P. Putrajaya,2020,chinese,700
-W.P. Putrajaya,W.P. Putrajaya,2020,other_citizen,300
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+W.P. Putrajaya,W.P. Putrajaya,2020,bumi_malay,101800,109200,93.22
+W.P. Putrajaya,W.P. Putrajaya,2020,other_noncitizen,2800,109200,2.56
+W.P. Putrajaya,W.P. Putrajaya,2020,bumi_other,2300,109200,2.11
+W.P. Putrajaya,W.P. Putrajaya,2020,indian,1300,109200,1.19
+W.P. Putrajaya,W.P. Putrajaya,2020,chinese,700,109200,0.64
+W.P. Putrajaya,W.P. Putrajaya,2020,other_citizen,300,109200,0.27

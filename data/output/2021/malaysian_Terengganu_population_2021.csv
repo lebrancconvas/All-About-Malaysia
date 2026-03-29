@@ -1,49 +1,49 @@
-state,district,date,ethnicity,population
-Terengganu,Setiu,2021,bumi_malay,58900
-Terengganu,Setiu,2021,other_noncitizen,1400
-Terengganu,Setiu,2021,bumi_other,100
-Terengganu,Setiu,2021,chinese,100
-Terengganu,Setiu,2021,other_citizen,100
-Terengganu,Setiu,2021,indian,0
-Terengganu,Marang,2021,bumi_malay,116000
-Terengganu,Marang,2021,chinese,1500
-Terengganu,Marang,2021,other_noncitizen,1500
-Terengganu,Marang,2021,bumi_other,200
-Terengganu,Marang,2021,other_citizen,200
-Terengganu,Marang,2021,indian,0
-Terengganu,Kuala Terengganu,2021,bumi_malay,220700
-Terengganu,Kuala Terengganu,2021,chinese,7100
-Terengganu,Kuala Terengganu,2021,other_noncitizen,4500
-Terengganu,Kuala Terengganu,2021,bumi_other,500
-Terengganu,Kuala Terengganu,2021,indian,500
-Terengganu,Kuala Terengganu,2021,other_citizen,300
-Terengganu,Kuala Nerus,2021,bumi_malay,143700
-Terengganu,Kuala Nerus,2021,other_noncitizen,2700
-Terengganu,Kuala Nerus,2021,chinese,1800
-Terengganu,Kuala Nerus,2021,indian,500
-Terengganu,Kuala Nerus,2021,bumi_other,400
-Terengganu,Kuala Nerus,2021,other_citizen,200
-Terengganu,Kemaman,2021,bumi_malay,201200
-Terengganu,Kemaman,2021,chinese,7800
-Terengganu,Kemaman,2021,other_noncitizen,7700
-Terengganu,Kemaman,2021,bumi_other,900
-Terengganu,Kemaman,2021,indian,700
-Terengganu,Kemaman,2021,other_citizen,300
-Terengganu,Hulu Terengganu,2021,bumi_malay,66100
-Terengganu,Hulu Terengganu,2021,other_noncitizen,4500
-Terengganu,Hulu Terengganu,2021,bumi_other,600
-Terengganu,Hulu Terengganu,2021,other_citizen,300
-Terengganu,Hulu Terengganu,2021,chinese,100
-Terengganu,Hulu Terengganu,2021,indian,0
-Terengganu,Dungun,2021,bumi_malay,153300
-Terengganu,Dungun,2021,other_noncitizen,3400
-Terengganu,Dungun,2021,chinese,3300
-Terengganu,Dungun,2021,bumi_other,300
-Terengganu,Dungun,2021,other_citizen,300
-Terengganu,Dungun,2021,indian,100
-Terengganu,Besut,2021,bumi_malay,151400
-Terengganu,Besut,2021,other_noncitizen,3200
-Terengganu,Besut,2021,chinese,1300
-Terengganu,Besut,2021,other_citizen,500
-Terengganu,Besut,2021,bumi_other,300
-Terengganu,Besut,2021,indian,100
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+Terengganu,Setiu,2021,bumi_malay,58900,60600,97.19
+Terengganu,Setiu,2021,other_noncitizen,1400,60600,2.31
+Terengganu,Setiu,2021,bumi_other,100,60600,0.17
+Terengganu,Setiu,2021,chinese,100,60600,0.17
+Terengganu,Setiu,2021,other_citizen,100,60600,0.17
+Terengganu,Setiu,2021,indian,0,60600,0.0
+Terengganu,Marang,2021,bumi_malay,116000,119400,97.15
+Terengganu,Marang,2021,chinese,1500,119400,1.26
+Terengganu,Marang,2021,other_noncitizen,1500,119400,1.26
+Terengganu,Marang,2021,bumi_other,200,119400,0.17
+Terengganu,Marang,2021,other_citizen,200,119400,0.17
+Terengganu,Marang,2021,indian,0,119400,0.0
+Terengganu,Kuala Terengganu,2021,bumi_malay,220700,233600,94.48
+Terengganu,Kuala Terengganu,2021,chinese,7100,233600,3.04
+Terengganu,Kuala Terengganu,2021,other_noncitizen,4500,233600,1.93
+Terengganu,Kuala Terengganu,2021,bumi_other,500,233600,0.21
+Terengganu,Kuala Terengganu,2021,indian,500,233600,0.21
+Terengganu,Kuala Terengganu,2021,other_citizen,300,233600,0.13
+Terengganu,Kuala Nerus,2021,bumi_malay,143700,149300,96.25
+Terengganu,Kuala Nerus,2021,other_noncitizen,2700,149300,1.81
+Terengganu,Kuala Nerus,2021,chinese,1800,149300,1.21
+Terengganu,Kuala Nerus,2021,indian,500,149300,0.33
+Terengganu,Kuala Nerus,2021,bumi_other,400,149300,0.27
+Terengganu,Kuala Nerus,2021,other_citizen,200,149300,0.13
+Terengganu,Kemaman,2021,bumi_malay,201200,218600,92.04
+Terengganu,Kemaman,2021,chinese,7800,218600,3.57
+Terengganu,Kemaman,2021,other_noncitizen,7700,218600,3.52
+Terengganu,Kemaman,2021,bumi_other,900,218600,0.41
+Terengganu,Kemaman,2021,indian,700,218600,0.32
+Terengganu,Kemaman,2021,other_citizen,300,218600,0.14
+Terengganu,Hulu Terengganu,2021,bumi_malay,66100,71600,92.32
+Terengganu,Hulu Terengganu,2021,other_noncitizen,4500,71600,6.28
+Terengganu,Hulu Terengganu,2021,bumi_other,600,71600,0.84
+Terengganu,Hulu Terengganu,2021,other_citizen,300,71600,0.42
+Terengganu,Hulu Terengganu,2021,chinese,100,71600,0.14
+Terengganu,Hulu Terengganu,2021,indian,0,71600,0.0
+Terengganu,Dungun,2021,bumi_malay,153300,160700,95.4
+Terengganu,Dungun,2021,other_noncitizen,3400,160700,2.12
+Terengganu,Dungun,2021,chinese,3300,160700,2.05
+Terengganu,Dungun,2021,bumi_other,300,160700,0.19
+Terengganu,Dungun,2021,other_citizen,300,160700,0.19
+Terengganu,Dungun,2021,indian,100,160700,0.06
+Terengganu,Besut,2021,bumi_malay,151400,156800,96.56
+Terengganu,Besut,2021,other_noncitizen,3200,156800,2.04
+Terengganu,Besut,2021,chinese,1300,156800,0.83
+Terengganu,Besut,2021,other_citizen,500,156800,0.32
+Terengganu,Besut,2021,bumi_other,300,156800,0.19
+Terengganu,Besut,2021,indian,100,156800,0.06

@@ -1,67 +1,67 @@
-state,district,date,ethnicity,population
-Kelantan,Tumpat,2022,bumi_malay,168700
-Kelantan,Tumpat,2022,chinese,7300
-Kelantan,Tumpat,2022,other_citizen,5900
-Kelantan,Tumpat,2022,other_noncitizen,1400
-Kelantan,Tumpat,2022,bumi_other,200
-Kelantan,Tumpat,2022,indian,200
-Kelantan,Tanah Merah,2022,bumi_malay,143500
-Kelantan,Tanah Merah,2022,chinese,4700
-Kelantan,Tanah Merah,2022,other_noncitizen,4100
-Kelantan,Tanah Merah,2022,other_citizen,700
-Kelantan,Tanah Merah,2022,indian,400
-Kelantan,Tanah Merah,2022,bumi_other,300
-Kelantan,Pasir Puteh,2022,bumi_malay,136400
-Kelantan,Pasir Puteh,2022,other_citizen,800
-Kelantan,Pasir Puteh,2022,other_noncitizen,800
-Kelantan,Pasir Puteh,2022,chinese,600
-Kelantan,Pasir Puteh,2022,bumi_other,200
-Kelantan,Pasir Puteh,2022,indian,100
-Kelantan,Pasir Mas,2022,bumi_malay,227400
-Kelantan,Pasir Mas,2022,chinese,3300
-Kelantan,Pasir Mas,2022,other_noncitizen,2400
-Kelantan,Pasir Mas,2022,other_citizen,800
-Kelantan,Pasir Mas,2022,bumi_other,200
-Kelantan,Pasir Mas,2022,indian,0
-Kelantan,Machang,2022,bumi_malay,110500
-Kelantan,Machang,2022,chinese,1900
-Kelantan,Machang,2022,other_noncitizen,1000
-Kelantan,Machang,2022,bumi_other,300
-Kelantan,Machang,2022,indian,100
-Kelantan,Machang,2022,other_citizen,100
-Kelantan,Kuala Krai,2022,bumi_malay,98700
-Kelantan,Kuala Krai,2022,other_noncitizen,3600
-Kelantan,Kuala Krai,2022,chinese,3500
-Kelantan,Kuala Krai,2022,indian,800
-Kelantan,Kuala Krai,2022,other_citizen,200
-Kelantan,Kuala Krai,2022,bumi_other,100
-Kelantan,Kota Bharu,2022,bumi_malay,534800
-Kelantan,Kota Bharu,2022,chinese,16800
-Kelantan,Kota Bharu,2022,other_noncitizen,10800
-Kelantan,Kota Bharu,2022,bumi_other,2000
-Kelantan,Kota Bharu,2022,other_citizen,1600
-Kelantan,Kota Bharu,2022,indian,1500
-Kelantan,Kecil Lojing,2022,bumi_other,7900
-Kelantan,Kecil Lojing,2022,bumi_malay,2000
-Kelantan,Kecil Lojing,2022,indian,600
-Kelantan,Kecil Lojing,2022,other_noncitizen,300
-Kelantan,Kecil Lojing,2022,chinese,0
-Kelantan,Kecil Lojing,2022,other_citizen,0
-Kelantan,Jeli,2022,bumi_malay,53400
-Kelantan,Jeli,2022,other_noncitizen,1300
-Kelantan,Jeli,2022,bumi_other,1000
-Kelantan,Jeli,2022,indian,200
-Kelantan,Jeli,2022,chinese,100
-Kelantan,Jeli,2022,other_citizen,100
-Kelantan,Gua Musang,2022,bumi_malay,81200
-Kelantan,Gua Musang,2022,bumi_other,9800
-Kelantan,Gua Musang,2022,other_noncitizen,7100
-Kelantan,Gua Musang,2022,chinese,4800
-Kelantan,Gua Musang,2022,indian,800
-Kelantan,Gua Musang,2022,other_citizen,300
-Kelantan,Bachok,2022,bumi_malay,157500
-Kelantan,Bachok,2022,chinese,1300
-Kelantan,Bachok,2022,other_noncitizen,1100
-Kelantan,Bachok,2022,other_citizen,400
-Kelantan,Bachok,2022,bumi_other,200
-Kelantan,Bachok,2022,indian,100
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+Kelantan,Tumpat,2022,bumi_malay,168700,183700,91.83
+Kelantan,Tumpat,2022,chinese,7300,183700,3.97
+Kelantan,Tumpat,2022,other_citizen,5900,183700,3.21
+Kelantan,Tumpat,2022,other_noncitizen,1400,183700,0.76
+Kelantan,Tumpat,2022,bumi_other,200,183700,0.11
+Kelantan,Tumpat,2022,indian,200,183700,0.11
+Kelantan,Tanah Merah,2022,bumi_malay,143500,153700,93.36
+Kelantan,Tanah Merah,2022,chinese,4700,153700,3.06
+Kelantan,Tanah Merah,2022,other_noncitizen,4100,153700,2.67
+Kelantan,Tanah Merah,2022,other_citizen,700,153700,0.46
+Kelantan,Tanah Merah,2022,indian,400,153700,0.26
+Kelantan,Tanah Merah,2022,bumi_other,300,153700,0.2
+Kelantan,Pasir Puteh,2022,bumi_malay,136400,138900,98.2
+Kelantan,Pasir Puteh,2022,other_citizen,800,138900,0.58
+Kelantan,Pasir Puteh,2022,other_noncitizen,800,138900,0.58
+Kelantan,Pasir Puteh,2022,chinese,600,138900,0.43
+Kelantan,Pasir Puteh,2022,bumi_other,200,138900,0.14
+Kelantan,Pasir Puteh,2022,indian,100,138900,0.07
+Kelantan,Pasir Mas,2022,bumi_malay,227400,234100,97.14
+Kelantan,Pasir Mas,2022,chinese,3300,234100,1.41
+Kelantan,Pasir Mas,2022,other_noncitizen,2400,234100,1.03
+Kelantan,Pasir Mas,2022,other_citizen,800,234100,0.34
+Kelantan,Pasir Mas,2022,bumi_other,200,234100,0.09
+Kelantan,Pasir Mas,2022,indian,0,234100,0.0
+Kelantan,Machang,2022,bumi_malay,110500,113900,97.01
+Kelantan,Machang,2022,chinese,1900,113900,1.67
+Kelantan,Machang,2022,other_noncitizen,1000,113900,0.88
+Kelantan,Machang,2022,bumi_other,300,113900,0.26
+Kelantan,Machang,2022,indian,100,113900,0.09
+Kelantan,Machang,2022,other_citizen,100,113900,0.09
+Kelantan,Kuala Krai,2022,bumi_malay,98700,106900,92.33
+Kelantan,Kuala Krai,2022,other_noncitizen,3600,106900,3.37
+Kelantan,Kuala Krai,2022,chinese,3500,106900,3.27
+Kelantan,Kuala Krai,2022,indian,800,106900,0.75
+Kelantan,Kuala Krai,2022,other_citizen,200,106900,0.19
+Kelantan,Kuala Krai,2022,bumi_other,100,106900,0.09
+Kelantan,Kota Bharu,2022,bumi_malay,534800,567500,94.24
+Kelantan,Kota Bharu,2022,chinese,16800,567500,2.96
+Kelantan,Kota Bharu,2022,other_noncitizen,10800,567500,1.9
+Kelantan,Kota Bharu,2022,bumi_other,2000,567500,0.35
+Kelantan,Kota Bharu,2022,other_citizen,1600,567500,0.28
+Kelantan,Kota Bharu,2022,indian,1500,567500,0.26
+Kelantan,Kecil Lojing,2022,bumi_other,7900,10800,73.15
+Kelantan,Kecil Lojing,2022,bumi_malay,2000,10800,18.52
+Kelantan,Kecil Lojing,2022,indian,600,10800,5.56
+Kelantan,Kecil Lojing,2022,other_noncitizen,300,10800,2.78
+Kelantan,Kecil Lojing,2022,chinese,0,10800,0.0
+Kelantan,Kecil Lojing,2022,other_citizen,0,10800,0.0
+Kelantan,Jeli,2022,bumi_malay,53400,56100,95.19
+Kelantan,Jeli,2022,other_noncitizen,1300,56100,2.32
+Kelantan,Jeli,2022,bumi_other,1000,56100,1.78
+Kelantan,Jeli,2022,indian,200,56100,0.36
+Kelantan,Jeli,2022,chinese,100,56100,0.18
+Kelantan,Jeli,2022,other_citizen,100,56100,0.18
+Kelantan,Gua Musang,2022,bumi_malay,81200,104000,78.08
+Kelantan,Gua Musang,2022,bumi_other,9800,104000,9.42
+Kelantan,Gua Musang,2022,other_noncitizen,7100,104000,6.83
+Kelantan,Gua Musang,2022,chinese,4800,104000,4.62
+Kelantan,Gua Musang,2022,indian,800,104000,0.77
+Kelantan,Gua Musang,2022,other_citizen,300,104000,0.29
+Kelantan,Bachok,2022,bumi_malay,157500,160600,98.07
+Kelantan,Bachok,2022,chinese,1300,160600,0.81
+Kelantan,Bachok,2022,other_noncitizen,1100,160600,0.68
+Kelantan,Bachok,2022,other_citizen,400,160600,0.25
+Kelantan,Bachok,2022,bumi_other,200,160600,0.12
+Kelantan,Bachok,2022,indian,100,160600,0.06

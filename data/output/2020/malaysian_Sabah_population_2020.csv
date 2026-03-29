@@ -1,163 +1,163 @@
-state,district,date,ethnicity,population
-Sabah,Tuaran,2020,bumi_other,112600
-Sabah,Tuaran,2020,bumi_malay,11500
-Sabah,Tuaran,2020,other_noncitizen,7500
-Sabah,Tuaran,2020,chinese,3000
-Sabah,Tuaran,2020,other_citizen,900
-Sabah,Tuaran,2020,indian,200
-Sabah,Tongod,2020,bumi_other,25800
-Sabah,Tongod,2020,other_noncitizen,16300
-Sabah,Tongod,2020,bumi_malay,400
-Sabah,Tongod,2020,chinese,200
-Sabah,Tongod,2020,other_citizen,100
-Sabah,Tongod,2020,indian,0
-Sabah,Tenom,2020,bumi_other,43200
-Sabah,Tenom,2020,bumi_malay,3600
-Sabah,Tenom,2020,other_noncitizen,2400
-Sabah,Tenom,2020,chinese,1700
-Sabah,Tenom,2020,other_citizen,200
-Sabah,Tenom,2020,indian,0
-Sabah,Telupid,2020,bumi_other,16600
-Sabah,Telupid,2020,other_noncitizen,11400
-Sabah,Telupid,2020,other_citizen,600
-Sabah,Telupid,2020,bumi_malay,400
-Sabah,Telupid,2020,chinese,100
-Sabah,Telupid,2020,indian,100
-Sabah,Tawau,2020,bumi_other,188400
-Sabah,Tawau,2020,other_noncitizen,109100
-Sabah,Tawau,2020,chinese,37200
-Sabah,Tawau,2020,bumi_malay,27100
-Sabah,Tawau,2020,other_citizen,10200
-Sabah,Tawau,2020,indian,600
-Sabah,Tambunan,2020,bumi_other,29800
-Sabah,Tambunan,2020,other_noncitizen,1400
-Sabah,Tambunan,2020,bumi_malay,200
-Sabah,Tambunan,2020,chinese,200
-Sabah,Tambunan,2020,indian,0
-Sabah,Tambunan,2020,other_citizen,0
-Sabah,Sipitang,2020,bumi_other,25900
-Sabah,Sipitang,2020,bumi_malay,7100
-Sabah,Sipitang,2020,other_noncitizen,4100
-Sabah,Sipitang,2020,chinese,600
-Sabah,Sipitang,2020,other_citizen,200
-Sabah,Sipitang,2020,indian,0
-Sabah,Semporna,2020,bumi_other,97200
-Sabah,Semporna,2020,other_noncitizen,63800
-Sabah,Semporna,2020,bumi_malay,3500
-Sabah,Semporna,2020,chinese,1000
-Sabah,Semporna,2020,other_citizen,1000
-Sabah,Semporna,2020,indian,100
-Sabah,Sandakan,2020,bumi_other,197200
-Sabah,Sandakan,2020,other_noncitizen,141000
-Sabah,Sandakan,2020,chinese,52900
-Sabah,Sandakan,2020,bumi_malay,41800
-Sabah,Sandakan,2020,other_citizen,5300
-Sabah,Sandakan,2020,indian,800
-Sabah,Ranau,2020,bumi_other,71600
-Sabah,Ranau,2020,bumi_malay,7000
-Sabah,Ranau,2020,other_noncitizen,5400
-Sabah,Ranau,2020,chinese,800
-Sabah,Ranau,2020,other_citizen,200
-Sabah,Ranau,2020,indian,0
-Sabah,Putatan,2020,bumi_other,50700
-Sabah,Putatan,2020,bumi_malay,7500
-Sabah,Putatan,2020,other_noncitizen,5300
-Sabah,Putatan,2020,chinese,4000
-Sabah,Putatan,2020,other_citizen,1100
-Sabah,Putatan,2020,indian,300
-Sabah,Pitas,2020,bumi_other,33900
-Sabah,Pitas,2020,other_noncitizen,1900
-Sabah,Pitas,2020,bumi_malay,500
-Sabah,Pitas,2020,chinese,300
-Sabah,Pitas,2020,other_citizen,100
-Sabah,Pitas,2020,indian,0
-Sabah,Penampang,2020,bumi_other,98000
-Sabah,Penampang,2020,chinese,33100
-Sabah,Penampang,2020,other_noncitizen,18300
-Sabah,Penampang,2020,bumi_malay,10600
-Sabah,Penampang,2020,other_citizen,1700
-Sabah,Penampang,2020,indian,500
-Sabah,Papar,2020,bumi_other,111100
-Sabah,Papar,2020,bumi_malay,20400
-Sabah,Papar,2020,other_noncitizen,12500
-Sabah,Papar,2020,chinese,5500
-Sabah,Papar,2020,other_citizen,900
-Sabah,Papar,2020,indian,200
-Sabah,Nabawan,2020,bumi_other,27000
-Sabah,Nabawan,2020,other_noncitizen,1200
-Sabah,Nabawan,2020,bumi_malay,100
-Sabah,Nabawan,2020,chinese,100
-Sabah,Nabawan,2020,indian,0
-Sabah,Nabawan,2020,other_citizen,0
-Sabah,Lahad Datu,2020,bumi_other,120400
-Sabah,Lahad Datu,2020,other_noncitizen,83100
-Sabah,Lahad Datu,2020,bumi_malay,10500
-Sabah,Lahad Datu,2020,chinese,10100
-Sabah,Lahad Datu,2020,other_citizen,4600
-Sabah,Lahad Datu,2020,indian,400
-Sabah,Kunak,2020,other_noncitizen,34700
-Sabah,Kunak,2020,bumi_other,30100
-Sabah,Kunak,2020,other_citizen,2000
-Sabah,Kunak,2020,bumi_malay,1400
-Sabah,Kunak,2020,chinese,600
-Sabah,Kunak,2020,indian,100
-Sabah,Kudat,2020,bumi_other,68500
-Sabah,Kudat,2020,other_noncitizen,8000
-Sabah,Kudat,2020,bumi_malay,4900
-Sabah,Kudat,2020,chinese,4700
-Sabah,Kudat,2020,other_citizen,200
-Sabah,Kudat,2020,indian,0
-Sabah,Kuala Penyu,2020,bumi_other,17100
-Sabah,Kuala Penyu,2020,bumi_malay,5100
-Sabah,Kuala Penyu,2020,other_noncitizen,1100
-Sabah,Kuala Penyu,2020,chinese,300
-Sabah,Kuala Penyu,2020,other_citizen,200
-Sabah,Kuala Penyu,2020,indian,0
-Sabah,Kota Marudu,2020,bumi_other,63900
-Sabah,Kota Marudu,2020,other_noncitizen,2800
-Sabah,Kota Marudu,2020,chinese,1400
-Sabah,Kota Marudu,2020,bumi_malay,1000
-Sabah,Kota Marudu,2020,other_citizen,300
-Sabah,Kota Marudu,2020,indian,0
-Sabah,Kota Kinabalu,2020,bumi_other,273500
-Sabah,Kota Kinabalu,2020,other_noncitizen,86600
-Sabah,Kota Kinabalu,2020,chinese,77300
-Sabah,Kota Kinabalu,2020,bumi_malay,56800
-Sabah,Kota Kinabalu,2020,other_citizen,4100
-Sabah,Kota Kinabalu,2020,indian,2000
-Sabah,Kota Belud,2020,bumi_other,99100
-Sabah,Kota Belud,2020,other_noncitizen,4100
-Sabah,Kota Belud,2020,bumi_malay,1800
-Sabah,Kota Belud,2020,chinese,1800
-Sabah,Kota Belud,2020,other_citizen,400
-Sabah,Kota Belud,2020,indian,100
-Sabah,Kinabatangan,2020,other_noncitizen,100400
-Sabah,Kinabatangan,2020,bumi_other,36200
-Sabah,Kinabatangan,2020,other_citizen,3100
-Sabah,Kinabatangan,2020,bumi_malay,3000
-Sabah,Kinabatangan,2020,chinese,300
-Sabah,Kinabatangan,2020,indian,100
-Sabah,Keningau,2020,bumi_other,120500
-Sabah,Keningau,2020,other_noncitizen,18100
-Sabah,Keningau,2020,chinese,7200
-Sabah,Keningau,2020,bumi_malay,3700
-Sabah,Keningau,2020,other_citizen,1300
-Sabah,Keningau,2020,indian,100
-Sabah,Kalabakan,2020,other_noncitizen,30600
-Sabah,Kalabakan,2020,bumi_other,16900
-Sabah,Kalabakan,2020,bumi_malay,400
-Sabah,Kalabakan,2020,other_citizen,200
-Sabah,Kalabakan,2020,chinese,100
-Sabah,Kalabakan,2020,indian,0
-Sabah,Beluran,2020,bumi_other,40900
-Sabah,Beluran,2020,other_noncitizen,33400
-Sabah,Beluran,2020,bumi_malay,2000
-Sabah,Beluran,2020,other_citizen,500
-Sabah,Beluran,2020,chinese,200
-Sabah,Beluran,2020,indian,0
-Sabah,Beaufort,2020,bumi_other,60400
-Sabah,Beaufort,2020,other_noncitizen,6000
-Sabah,Beaufort,2020,bumi_malay,4500
-Sabah,Beaufort,2020,chinese,4200
-Sabah,Beaufort,2020,other_citizen,500
-Sabah,Beaufort,2020,indian,100
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+Sabah,Tuaran,2020,bumi_other,112600,135700,82.98
+Sabah,Tuaran,2020,bumi_malay,11500,135700,8.47
+Sabah,Tuaran,2020,other_noncitizen,7500,135700,5.53
+Sabah,Tuaran,2020,chinese,3000,135700,2.21
+Sabah,Tuaran,2020,other_citizen,900,135700,0.66
+Sabah,Tuaran,2020,indian,200,135700,0.15
+Sabah,Tongod,2020,bumi_other,25800,42800,60.28
+Sabah,Tongod,2020,other_noncitizen,16300,42800,38.08
+Sabah,Tongod,2020,bumi_malay,400,42800,0.93
+Sabah,Tongod,2020,chinese,200,42800,0.47
+Sabah,Tongod,2020,other_citizen,100,42800,0.23
+Sabah,Tongod,2020,indian,0,42800,0.0
+Sabah,Tenom,2020,bumi_other,43200,51100,84.54
+Sabah,Tenom,2020,bumi_malay,3600,51100,7.05
+Sabah,Tenom,2020,other_noncitizen,2400,51100,4.7
+Sabah,Tenom,2020,chinese,1700,51100,3.33
+Sabah,Tenom,2020,other_citizen,200,51100,0.39
+Sabah,Tenom,2020,indian,0,51100,0.0
+Sabah,Telupid,2020,bumi_other,16600,29200,56.85
+Sabah,Telupid,2020,other_noncitizen,11400,29200,39.04
+Sabah,Telupid,2020,other_citizen,600,29200,2.05
+Sabah,Telupid,2020,bumi_malay,400,29200,1.37
+Sabah,Telupid,2020,chinese,100,29200,0.34
+Sabah,Telupid,2020,indian,100,29200,0.34
+Sabah,Tawau,2020,bumi_other,188400,372600,50.56
+Sabah,Tawau,2020,other_noncitizen,109100,372600,29.28
+Sabah,Tawau,2020,chinese,37200,372600,9.98
+Sabah,Tawau,2020,bumi_malay,27100,372600,7.27
+Sabah,Tawau,2020,other_citizen,10200,372600,2.74
+Sabah,Tawau,2020,indian,600,372600,0.16
+Sabah,Tambunan,2020,bumi_other,29800,31600,94.3
+Sabah,Tambunan,2020,other_noncitizen,1400,31600,4.43
+Sabah,Tambunan,2020,bumi_malay,200,31600,0.63
+Sabah,Tambunan,2020,chinese,200,31600,0.63
+Sabah,Tambunan,2020,indian,0,31600,0.0
+Sabah,Tambunan,2020,other_citizen,0,31600,0.0
+Sabah,Sipitang,2020,bumi_other,25900,37900,68.34
+Sabah,Sipitang,2020,bumi_malay,7100,37900,18.73
+Sabah,Sipitang,2020,other_noncitizen,4100,37900,10.82
+Sabah,Sipitang,2020,chinese,600,37900,1.58
+Sabah,Sipitang,2020,other_citizen,200,37900,0.53
+Sabah,Sipitang,2020,indian,0,37900,0.0
+Sabah,Semporna,2020,bumi_other,97200,166600,58.34
+Sabah,Semporna,2020,other_noncitizen,63800,166600,38.3
+Sabah,Semporna,2020,bumi_malay,3500,166600,2.1
+Sabah,Semporna,2020,chinese,1000,166600,0.6
+Sabah,Semporna,2020,other_citizen,1000,166600,0.6
+Sabah,Semporna,2020,indian,100,166600,0.06
+Sabah,Sandakan,2020,bumi_other,197200,439000,44.92
+Sabah,Sandakan,2020,other_noncitizen,141000,439000,32.12
+Sabah,Sandakan,2020,chinese,52900,439000,12.05
+Sabah,Sandakan,2020,bumi_malay,41800,439000,9.52
+Sabah,Sandakan,2020,other_citizen,5300,439000,1.21
+Sabah,Sandakan,2020,indian,800,439000,0.18
+Sabah,Ranau,2020,bumi_other,71600,85000,84.24
+Sabah,Ranau,2020,bumi_malay,7000,85000,8.24
+Sabah,Ranau,2020,other_noncitizen,5400,85000,6.35
+Sabah,Ranau,2020,chinese,800,85000,0.94
+Sabah,Ranau,2020,other_citizen,200,85000,0.24
+Sabah,Ranau,2020,indian,0,85000,0.0
+Sabah,Putatan,2020,bumi_other,50700,68900,73.58
+Sabah,Putatan,2020,bumi_malay,7500,68900,10.89
+Sabah,Putatan,2020,other_noncitizen,5300,68900,7.69
+Sabah,Putatan,2020,chinese,4000,68900,5.81
+Sabah,Putatan,2020,other_citizen,1100,68900,1.6
+Sabah,Putatan,2020,indian,300,68900,0.44
+Sabah,Pitas,2020,bumi_other,33900,36700,92.37
+Sabah,Pitas,2020,other_noncitizen,1900,36700,5.18
+Sabah,Pitas,2020,bumi_malay,500,36700,1.36
+Sabah,Pitas,2020,chinese,300,36700,0.82
+Sabah,Pitas,2020,other_citizen,100,36700,0.27
+Sabah,Pitas,2020,indian,0,36700,0.0
+Sabah,Penampang,2020,bumi_other,98000,162200,60.42
+Sabah,Penampang,2020,chinese,33100,162200,20.41
+Sabah,Penampang,2020,other_noncitizen,18300,162200,11.28
+Sabah,Penampang,2020,bumi_malay,10600,162200,6.54
+Sabah,Penampang,2020,other_citizen,1700,162200,1.05
+Sabah,Penampang,2020,indian,500,162200,0.31
+Sabah,Papar,2020,bumi_other,111100,150600,73.77
+Sabah,Papar,2020,bumi_malay,20400,150600,13.55
+Sabah,Papar,2020,other_noncitizen,12500,150600,8.3
+Sabah,Papar,2020,chinese,5500,150600,3.65
+Sabah,Papar,2020,other_citizen,900,150600,0.6
+Sabah,Papar,2020,indian,200,150600,0.13
+Sabah,Nabawan,2020,bumi_other,27000,28400,95.07
+Sabah,Nabawan,2020,other_noncitizen,1200,28400,4.23
+Sabah,Nabawan,2020,bumi_malay,100,28400,0.35
+Sabah,Nabawan,2020,chinese,100,28400,0.35
+Sabah,Nabawan,2020,indian,0,28400,0.0
+Sabah,Nabawan,2020,other_citizen,0,28400,0.0
+Sabah,Lahad Datu,2020,bumi_other,120400,229100,52.55
+Sabah,Lahad Datu,2020,other_noncitizen,83100,229100,36.27
+Sabah,Lahad Datu,2020,bumi_malay,10500,229100,4.58
+Sabah,Lahad Datu,2020,chinese,10100,229100,4.41
+Sabah,Lahad Datu,2020,other_citizen,4600,229100,2.01
+Sabah,Lahad Datu,2020,indian,400,229100,0.17
+Sabah,Kunak,2020,other_noncitizen,34700,68900,50.36
+Sabah,Kunak,2020,bumi_other,30100,68900,43.69
+Sabah,Kunak,2020,other_citizen,2000,68900,2.9
+Sabah,Kunak,2020,bumi_malay,1400,68900,2.03
+Sabah,Kunak,2020,chinese,600,68900,0.87
+Sabah,Kunak,2020,indian,100,68900,0.15
+Sabah,Kudat,2020,bumi_other,68500,86300,79.37
+Sabah,Kudat,2020,other_noncitizen,8000,86300,9.27
+Sabah,Kudat,2020,bumi_malay,4900,86300,5.68
+Sabah,Kudat,2020,chinese,4700,86300,5.45
+Sabah,Kudat,2020,other_citizen,200,86300,0.23
+Sabah,Kudat,2020,indian,0,86300,0.0
+Sabah,Kuala Penyu,2020,bumi_other,17100,23800,71.85
+Sabah,Kuala Penyu,2020,bumi_malay,5100,23800,21.43
+Sabah,Kuala Penyu,2020,other_noncitizen,1100,23800,4.62
+Sabah,Kuala Penyu,2020,chinese,300,23800,1.26
+Sabah,Kuala Penyu,2020,other_citizen,200,23800,0.84
+Sabah,Kuala Penyu,2020,indian,0,23800,0.0
+Sabah,Kota Marudu,2020,bumi_other,63900,69400,92.07
+Sabah,Kota Marudu,2020,other_noncitizen,2800,69400,4.03
+Sabah,Kota Marudu,2020,chinese,1400,69400,2.02
+Sabah,Kota Marudu,2020,bumi_malay,1000,69400,1.44
+Sabah,Kota Marudu,2020,other_citizen,300,69400,0.43
+Sabah,Kota Marudu,2020,indian,0,69400,0.0
+Sabah,Kota Kinabalu,2020,bumi_other,273500,500300,54.67
+Sabah,Kota Kinabalu,2020,other_noncitizen,86600,500300,17.31
+Sabah,Kota Kinabalu,2020,chinese,77300,500300,15.45
+Sabah,Kota Kinabalu,2020,bumi_malay,56800,500300,11.35
+Sabah,Kota Kinabalu,2020,other_citizen,4100,500300,0.82
+Sabah,Kota Kinabalu,2020,indian,2000,500300,0.4
+Sabah,Kota Belud,2020,bumi_other,99100,107300,92.36
+Sabah,Kota Belud,2020,other_noncitizen,4100,107300,3.82
+Sabah,Kota Belud,2020,bumi_malay,1800,107300,1.68
+Sabah,Kota Belud,2020,chinese,1800,107300,1.68
+Sabah,Kota Belud,2020,other_citizen,400,107300,0.37
+Sabah,Kota Belud,2020,indian,100,107300,0.09
+Sabah,Kinabatangan,2020,other_noncitizen,100400,143100,70.16
+Sabah,Kinabatangan,2020,bumi_other,36200,143100,25.3
+Sabah,Kinabatangan,2020,other_citizen,3100,143100,2.17
+Sabah,Kinabatangan,2020,bumi_malay,3000,143100,2.1
+Sabah,Kinabatangan,2020,chinese,300,143100,0.21
+Sabah,Kinabatangan,2020,indian,100,143100,0.07
+Sabah,Keningau,2020,bumi_other,120500,150900,79.85
+Sabah,Keningau,2020,other_noncitizen,18100,150900,11.99
+Sabah,Keningau,2020,chinese,7200,150900,4.77
+Sabah,Keningau,2020,bumi_malay,3700,150900,2.45
+Sabah,Keningau,2020,other_citizen,1300,150900,0.86
+Sabah,Keningau,2020,indian,100,150900,0.07
+Sabah,Kalabakan,2020,other_noncitizen,30600,48200,63.49
+Sabah,Kalabakan,2020,bumi_other,16900,48200,35.06
+Sabah,Kalabakan,2020,bumi_malay,400,48200,0.83
+Sabah,Kalabakan,2020,other_citizen,200,48200,0.41
+Sabah,Kalabakan,2020,chinese,100,48200,0.21
+Sabah,Kalabakan,2020,indian,0,48200,0.0
+Sabah,Beluran,2020,bumi_other,40900,77000,53.12
+Sabah,Beluran,2020,other_noncitizen,33400,77000,43.38
+Sabah,Beluran,2020,bumi_malay,2000,77000,2.6
+Sabah,Beluran,2020,other_citizen,500,77000,0.65
+Sabah,Beluran,2020,chinese,200,77000,0.26
+Sabah,Beluran,2020,indian,0,77000,0.0
+Sabah,Beaufort,2020,bumi_other,60400,75700,79.79
+Sabah,Beaufort,2020,other_noncitizen,6000,75700,7.93
+Sabah,Beaufort,2020,bumi_malay,4500,75700,5.94
+Sabah,Beaufort,2020,chinese,4200,75700,5.55
+Sabah,Beaufort,2020,other_citizen,500,75700,0.66
+Sabah,Beaufort,2020,indian,100,75700,0.13

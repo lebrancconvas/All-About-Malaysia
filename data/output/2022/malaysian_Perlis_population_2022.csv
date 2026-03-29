@@ -1,7 +1,7 @@
-state,district,date,ethnicity,population
-Perlis,Perlis,2022,bumi_malay,249400
-Perlis,Perlis,2022,chinese,20200
-Perlis,Perlis,2022,other_noncitizen,7900
-Perlis,Perlis,2022,other_citizen,5700
-Perlis,Perlis,2022,indian,5100
-Perlis,Perlis,2022,bumi_other,1500
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+Perlis,Perlis,2022,bumi_malay,249400,289800,86.06
+Perlis,Perlis,2022,chinese,20200,289800,6.97
+Perlis,Perlis,2022,other_noncitizen,7900,289800,2.73
+Perlis,Perlis,2022,other_citizen,5700,289800,1.97
+Perlis,Perlis,2022,indian,5100,289800,1.76
+Perlis,Perlis,2022,bumi_other,1500,289800,0.52

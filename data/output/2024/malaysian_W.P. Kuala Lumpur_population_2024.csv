@@ -1,7 +1,7 @@
-state,district,date,ethnicity,population
-W.P. Kuala Lumpur,W.P. Kuala Lumpur,2024,bumi_malay,855200
-W.P. Kuala Lumpur,W.P. Kuala Lumpur,2024,chinese,729900
-W.P. Kuala Lumpur,W.P. Kuala Lumpur,2024,other_noncitizen,271300
-W.P. Kuala Lumpur,W.P. Kuala Lumpur,2024,indian,176900
-W.P. Kuala Lumpur,W.P. Kuala Lumpur,2024,bumi_other,20700
-W.P. Kuala Lumpur,W.P. Kuala Lumpur,2024,other_citizen,13500
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2024,bumi_malay,855200,2067500,41.36
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2024,chinese,729900,2067500,35.3
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2024,other_noncitizen,271300,2067500,13.12
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2024,indian,176900,2067500,8.56
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2024,bumi_other,20700,2067500,1.0
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,2024,other_citizen,13500,2067500,0.65

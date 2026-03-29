@@ -1,7 +1,7 @@
-state,district,date,ethnicity,population
-W.P. Labuan,W.P. Labuan,2021,bumi_other,39400
-W.P. Labuan,W.P. Labuan,2021,bumi_malay,34600
-W.P. Labuan,W.P. Labuan,2021,other_noncitizen,10400
-W.P. Labuan,W.P. Labuan,2021,chinese,9800
-W.P. Labuan,W.P. Labuan,2021,other_citizen,1000
-W.P. Labuan,W.P. Labuan,2021,indian,900
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+W.P. Labuan,W.P. Labuan,2021,bumi_other,39400,96100,41.0
+W.P. Labuan,W.P. Labuan,2021,bumi_malay,34600,96100,36.0
+W.P. Labuan,W.P. Labuan,2021,other_noncitizen,10400,96100,10.82
+W.P. Labuan,W.P. Labuan,2021,chinese,9800,96100,10.2
+W.P. Labuan,W.P. Labuan,2021,other_citizen,1000,96100,1.04
+W.P. Labuan,W.P. Labuan,2021,indian,900,96100,0.94

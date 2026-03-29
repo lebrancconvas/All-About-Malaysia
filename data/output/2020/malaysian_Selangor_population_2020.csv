@@ -1,55 +1,55 @@
-state,district,date,ethnicity,population
-Selangor,Ulu Selangor,2020,bumi_malay,168500
-Selangor,Ulu Selangor,2020,indian,30900
-Selangor,Ulu Selangor,2020,chinese,26300
-Selangor,Ulu Selangor,2020,other_noncitizen,10600
-Selangor,Ulu Selangor,2020,bumi_other,5600
-Selangor,Ulu Selangor,2020,other_citizen,1200
-Selangor,Ulu Langat,2020,bumi_malay,795300
-Selangor,Ulu Langat,2020,chinese,362300
-Selangor,Ulu Langat,2020,other_noncitizen,111200
-Selangor,Ulu Langat,2020,indian,106100
-Selangor,Ulu Langat,2020,bumi_other,17100
-Selangor,Ulu Langat,2020,other_citizen,8500
-Selangor,Sepang,2020,bumi_malay,195400
-Selangor,Sepang,2020,chinese,58200
-Selangor,Sepang,2020,other_noncitizen,32000
-Selangor,Sepang,2020,indian,30500
-Selangor,Sepang,2020,bumi_other,6300
-Selangor,Sepang,2020,other_citizen,2900
-Selangor,Sabak Bernam,2020,bumi_malay,78100
-Selangor,Sabak Bernam,2020,chinese,19800
-Selangor,Sabak Bernam,2020,other_noncitizen,4300
-Selangor,Sabak Bernam,2020,indian,4000
-Selangor,Sabak Bernam,2020,bumi_other,600
-Selangor,Sabak Bernam,2020,other_citizen,300
-Selangor,Petaling,2020,bumi_malay,1073200
-Selangor,Petaling,2020,chinese,762700
-Selangor,Petaling,2020,indian,211800
-Selangor,Petaling,2020,other_noncitizen,210800
-Selangor,Petaling,2020,bumi_other,23800
-Selangor,Petaling,2020,other_citizen,15900
-Selangor,Kuala Selangor,2020,bumi_malay,218100
-Selangor,Kuala Selangor,2020,indian,26100
-Selangor,Kuala Selangor,2020,chinese,21700
-Selangor,Kuala Selangor,2020,other_noncitizen,13200
-Selangor,Kuala Selangor,2020,bumi_other,1700
-Selangor,Kuala Selangor,2020,other_citizen,800
-Selangor,Kuala Langat,2020,bumi_malay,195900
-Selangor,Kuala Langat,2020,chinese,53100
-Selangor,Kuala Langat,2020,indian,31600
-Selangor,Kuala Langat,2020,other_noncitizen,16700
-Selangor,Kuala Langat,2020,bumi_other,9100
-Selangor,Kuala Langat,2020,other_citizen,1000
-Selangor,Klang,2020,bumi_malay,525700
-Selangor,Klang,2020,chinese,251500
-Selangor,Klang,2020,indian,189600
-Selangor,Klang,2020,other_noncitizen,98200
-Selangor,Klang,2020,bumi_other,16200
-Selangor,Klang,2020,other_citizen,7700
-Selangor,Gombak,2020,bumi_malay,556000
-Selangor,Gombak,2020,chinese,200500
-Selangor,Gombak,2020,indian,95500
-Selangor,Gombak,2020,other_noncitizen,67000
-Selangor,Gombak,2020,other_citizen,14100
-Selangor,Gombak,2020,bumi_other,9300
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+Selangor,Ulu Selangor,2020,bumi_malay,168500,243100,69.31
+Selangor,Ulu Selangor,2020,indian,30900,243100,12.71
+Selangor,Ulu Selangor,2020,chinese,26300,243100,10.82
+Selangor,Ulu Selangor,2020,other_noncitizen,10600,243100,4.36
+Selangor,Ulu Selangor,2020,bumi_other,5600,243100,2.3
+Selangor,Ulu Selangor,2020,other_citizen,1200,243100,0.49
+Selangor,Ulu Langat,2020,bumi_malay,795300,1400500,56.79
+Selangor,Ulu Langat,2020,chinese,362300,1400500,25.87
+Selangor,Ulu Langat,2020,other_noncitizen,111200,1400500,7.94
+Selangor,Ulu Langat,2020,indian,106100,1400500,7.58
+Selangor,Ulu Langat,2020,bumi_other,17100,1400500,1.22
+Selangor,Ulu Langat,2020,other_citizen,8500,1400500,0.61
+Selangor,Sepang,2020,bumi_malay,195400,325300,60.07
+Selangor,Sepang,2020,chinese,58200,325300,17.89
+Selangor,Sepang,2020,other_noncitizen,32000,325300,9.84
+Selangor,Sepang,2020,indian,30500,325300,9.38
+Selangor,Sepang,2020,bumi_other,6300,325300,1.94
+Selangor,Sepang,2020,other_citizen,2900,325300,0.89
+Selangor,Sabak Bernam,2020,bumi_malay,78100,107100,72.92
+Selangor,Sabak Bernam,2020,chinese,19800,107100,18.49
+Selangor,Sabak Bernam,2020,other_noncitizen,4300,107100,4.01
+Selangor,Sabak Bernam,2020,indian,4000,107100,3.73
+Selangor,Sabak Bernam,2020,bumi_other,600,107100,0.56
+Selangor,Sabak Bernam,2020,other_citizen,300,107100,0.28
+Selangor,Petaling,2020,bumi_malay,1073200,2298200,46.7
+Selangor,Petaling,2020,chinese,762700,2298200,33.19
+Selangor,Petaling,2020,indian,211800,2298200,9.22
+Selangor,Petaling,2020,other_noncitizen,210800,2298200,9.17
+Selangor,Petaling,2020,bumi_other,23800,2298200,1.04
+Selangor,Petaling,2020,other_citizen,15900,2298200,0.69
+Selangor,Kuala Selangor,2020,bumi_malay,218100,281600,77.45
+Selangor,Kuala Selangor,2020,indian,26100,281600,9.27
+Selangor,Kuala Selangor,2020,chinese,21700,281600,7.71
+Selangor,Kuala Selangor,2020,other_noncitizen,13200,281600,4.69
+Selangor,Kuala Selangor,2020,bumi_other,1700,281600,0.6
+Selangor,Kuala Selangor,2020,other_citizen,800,281600,0.28
+Selangor,Kuala Langat,2020,bumi_malay,195900,307400,63.73
+Selangor,Kuala Langat,2020,chinese,53100,307400,17.27
+Selangor,Kuala Langat,2020,indian,31600,307400,10.28
+Selangor,Kuala Langat,2020,other_noncitizen,16700,307400,5.43
+Selangor,Kuala Langat,2020,bumi_other,9100,307400,2.96
+Selangor,Kuala Langat,2020,other_citizen,1000,307400,0.33
+Selangor,Klang,2020,bumi_malay,525700,1088900,48.28
+Selangor,Klang,2020,chinese,251500,1088900,23.1
+Selangor,Klang,2020,indian,189600,1088900,17.41
+Selangor,Klang,2020,other_noncitizen,98200,1088900,9.02
+Selangor,Klang,2020,bumi_other,16200,1088900,1.49
+Selangor,Klang,2020,other_citizen,7700,1088900,0.71
+Selangor,Gombak,2020,bumi_malay,556000,942400,59.0
+Selangor,Gombak,2020,chinese,200500,942400,21.28
+Selangor,Gombak,2020,indian,95500,942400,10.13
+Selangor,Gombak,2020,other_noncitizen,67000,942400,7.11
+Selangor,Gombak,2020,other_citizen,14100,942400,1.5
+Selangor,Gombak,2020,bumi_other,9300,942400,0.99

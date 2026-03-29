@@ -1,67 +1,67 @@
-state,district,date,ethnicity,population
-Kelantan,Tumpat,2020,bumi_malay,164500
-Kelantan,Tumpat,2020,chinese,7400
-Kelantan,Tumpat,2020,other_citizen,5900
-Kelantan,Tumpat,2020,other_noncitizen,1400
-Kelantan,Tumpat,2020,bumi_other,500
-Kelantan,Tumpat,2020,indian,200
-Kelantan,Tanah Merah,2020,bumi_malay,140000
-Kelantan,Tanah Merah,2020,chinese,4700
-Kelantan,Tanah Merah,2020,other_noncitizen,4200
-Kelantan,Tanah Merah,2020,bumi_other,800
-Kelantan,Tanah Merah,2020,other_citizen,700
-Kelantan,Tanah Merah,2020,indian,400
-Kelantan,Pasir Puteh,2020,bumi_malay,133300
-Kelantan,Pasir Puteh,2020,other_noncitizen,900
-Kelantan,Pasir Puteh,2020,other_citizen,800
-Kelantan,Pasir Puteh,2020,chinese,600
-Kelantan,Pasir Puteh,2020,bumi_other,500
-Kelantan,Pasir Puteh,2020,indian,100
-Kelantan,Pasir Mas,2020,bumi_malay,223000
-Kelantan,Pasir Mas,2020,chinese,3300
-Kelantan,Pasir Mas,2020,other_noncitizen,2500
-Kelantan,Pasir Mas,2020,other_citizen,800
-Kelantan,Pasir Mas,2020,bumi_other,700
-Kelantan,Pasir Mas,2020,indian,0
-Kelantan,Machang,2020,bumi_malay,106300
-Kelantan,Machang,2020,chinese,2000
-Kelantan,Machang,2020,other_noncitizen,1000
-Kelantan,Machang,2020,bumi_other,500
-Kelantan,Machang,2020,indian,100
-Kelantan,Machang,2020,other_citizen,100
-Kelantan,Kuala Krai,2020,bumi_malay,96300
-Kelantan,Kuala Krai,2020,other_noncitizen,3800
-Kelantan,Kuala Krai,2020,chinese,3500
-Kelantan,Kuala Krai,2020,indian,800
-Kelantan,Kuala Krai,2020,bumi_other,300
-Kelantan,Kuala Krai,2020,other_citizen,200
-Kelantan,Kota Bharu,2020,bumi_malay,521400
-Kelantan,Kota Bharu,2020,chinese,16900
-Kelantan,Kota Bharu,2020,other_noncitizen,11200
-Kelantan,Kota Bharu,2020,bumi_other,3300
-Kelantan,Kota Bharu,2020,other_citizen,1600
-Kelantan,Kota Bharu,2020,indian,1400
-Kelantan,Kecil Lojing,2020,bumi_other,7700
-Kelantan,Kecil Lojing,2020,bumi_malay,2000
-Kelantan,Kecil Lojing,2020,indian,600
-Kelantan,Kecil Lojing,2020,other_noncitizen,300
-Kelantan,Kecil Lojing,2020,chinese,0
-Kelantan,Kecil Lojing,2020,other_citizen,0
-Kelantan,Jeli,2020,bumi_malay,51800
-Kelantan,Jeli,2020,other_noncitizen,1400
-Kelantan,Jeli,2020,bumi_other,1000
-Kelantan,Jeli,2020,indian,200
-Kelantan,Jeli,2020,chinese,100
-Kelantan,Jeli,2020,other_citizen,100
-Kelantan,Gua Musang,2020,bumi_malay,79000
-Kelantan,Gua Musang,2020,bumi_other,9600
-Kelantan,Gua Musang,2020,other_noncitizen,7400
-Kelantan,Gua Musang,2020,chinese,4800
-Kelantan,Gua Musang,2020,indian,800
-Kelantan,Gua Musang,2020,other_citizen,300
-Kelantan,Bachok,2020,bumi_malay,153800
-Kelantan,Bachok,2020,chinese,1400
-Kelantan,Bachok,2020,other_noncitizen,1200
-Kelantan,Bachok,2020,bumi_other,500
-Kelantan,Bachok,2020,other_citizen,400
-Kelantan,Bachok,2020,indian,100
+state,district,date,ethnicity,population,total_population_in_district,population_ratio_in_district
+Kelantan,Tumpat,2020,bumi_malay,164500,179900,91.44
+Kelantan,Tumpat,2020,chinese,7400,179900,4.11
+Kelantan,Tumpat,2020,other_citizen,5900,179900,3.28
+Kelantan,Tumpat,2020,other_noncitizen,1400,179900,0.78
+Kelantan,Tumpat,2020,bumi_other,500,179900,0.28
+Kelantan,Tumpat,2020,indian,200,179900,0.11
+Kelantan,Tanah Merah,2020,bumi_malay,140000,150800,92.84
+Kelantan,Tanah Merah,2020,chinese,4700,150800,3.12
+Kelantan,Tanah Merah,2020,other_noncitizen,4200,150800,2.79
+Kelantan,Tanah Merah,2020,bumi_other,800,150800,0.53
+Kelantan,Tanah Merah,2020,other_citizen,700,150800,0.46
+Kelantan,Tanah Merah,2020,indian,400,150800,0.27
+Kelantan,Pasir Puteh,2020,bumi_malay,133300,136200,97.87
+Kelantan,Pasir Puteh,2020,other_noncitizen,900,136200,0.66
+Kelantan,Pasir Puteh,2020,other_citizen,800,136200,0.59
+Kelantan,Pasir Puteh,2020,chinese,600,136200,0.44
+Kelantan,Pasir Puteh,2020,bumi_other,500,136200,0.37
+Kelantan,Pasir Puteh,2020,indian,100,136200,0.07
+Kelantan,Pasir Mas,2020,bumi_malay,223000,230300,96.83
+Kelantan,Pasir Mas,2020,chinese,3300,230300,1.43
+Kelantan,Pasir Mas,2020,other_noncitizen,2500,230300,1.09
+Kelantan,Pasir Mas,2020,other_citizen,800,230300,0.35
+Kelantan,Pasir Mas,2020,bumi_other,700,230300,0.3
+Kelantan,Pasir Mas,2020,indian,0,230300,0.0
+Kelantan,Machang,2020,bumi_malay,106300,110000,96.64
+Kelantan,Machang,2020,chinese,2000,110000,1.82
+Kelantan,Machang,2020,other_noncitizen,1000,110000,0.91
+Kelantan,Machang,2020,bumi_other,500,110000,0.45
+Kelantan,Machang,2020,indian,100,110000,0.09
+Kelantan,Machang,2020,other_citizen,100,110000,0.09
+Kelantan,Kuala Krai,2020,bumi_malay,96300,104900,91.8
+Kelantan,Kuala Krai,2020,other_noncitizen,3800,104900,3.62
+Kelantan,Kuala Krai,2020,chinese,3500,104900,3.34
+Kelantan,Kuala Krai,2020,indian,800,104900,0.76
+Kelantan,Kuala Krai,2020,bumi_other,300,104900,0.29
+Kelantan,Kuala Krai,2020,other_citizen,200,104900,0.19
+Kelantan,Kota Bharu,2020,bumi_malay,521400,555800,93.81
+Kelantan,Kota Bharu,2020,chinese,16900,555800,3.04
+Kelantan,Kota Bharu,2020,other_noncitizen,11200,555800,2.02
+Kelantan,Kota Bharu,2020,bumi_other,3300,555800,0.59
+Kelantan,Kota Bharu,2020,other_citizen,1600,555800,0.29
+Kelantan,Kota Bharu,2020,indian,1400,555800,0.25
+Kelantan,Kecil Lojing,2020,bumi_other,7700,10600,72.64
+Kelantan,Kecil Lojing,2020,bumi_malay,2000,10600,18.87
+Kelantan,Kecil Lojing,2020,indian,600,10600,5.66
+Kelantan,Kecil Lojing,2020,other_noncitizen,300,10600,2.83
+Kelantan,Kecil Lojing,2020,chinese,0,10600,0.0
+Kelantan,Kecil Lojing,2020,other_citizen,0,10600,0.0
+Kelantan,Jeli,2020,bumi_malay,51800,54600,94.87
+Kelantan,Jeli,2020,other_noncitizen,1400,54600,2.56
+Kelantan,Jeli,2020,bumi_other,1000,54600,1.83
+Kelantan,Jeli,2020,indian,200,54600,0.37
+Kelantan,Jeli,2020,chinese,100,54600,0.18
+Kelantan,Jeli,2020,other_citizen,100,54600,0.18
+Kelantan,Gua Musang,2020,bumi_malay,79000,101900,77.53
+Kelantan,Gua Musang,2020,bumi_other,9600,101900,9.42
+Kelantan,Gua Musang,2020,other_noncitizen,7400,101900,7.26
+Kelantan,Gua Musang,2020,chinese,4800,101900,4.71
+Kelantan,Gua Musang,2020,indian,800,101900,0.79
+Kelantan,Gua Musang,2020,other_citizen,300,101900,0.29
+Kelantan,Bachok,2020,bumi_malay,153800,157400,97.71
+Kelantan,Bachok,2020,chinese,1400,157400,0.89
+Kelantan,Bachok,2020,other_noncitizen,1200,157400,0.76
+Kelantan,Bachok,2020,bumi_other,500,157400,0.32
+Kelantan,Bachok,2020,other_citizen,400,157400,0.25
+Kelantan,Bachok,2020,indian,100,157400,0.06
